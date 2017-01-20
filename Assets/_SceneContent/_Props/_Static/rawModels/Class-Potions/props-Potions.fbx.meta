@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 46fadc375faa82d49b3628c21fdf8f24
+timeCreated: 1439200823
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bookcase_Potions_Room
+    100002: candlePotions_01
+    100004: cauldron
+    100006: chairPotions_01
+    100008: chandalerePotions_01
+    100010: chandalerePotions_02
+    100012: machinePotions_01
+    100014: //RootNode
+    100016: tablePotions_01
+    100018: tablePotions_02
+    100020: vatPotions_01
+    100022: bookcase_potions
+    100024: bookcaseContents_potions_01
+    100026: cauldron_potions
+    100028: chandelier_potions_01
+    100030: stairsPotions_01
+    100032: chandelier_potions_02
+    400000: Bookcase_Potions_Room
+    400002: candlePotions_01
+    400004: cauldron
+    400006: chairPotions_01
+    400008: chandalerePotions_01
+    400010: chandalerePotions_02
+    400012: machinePotions_01
+    400014: //RootNode
+    400016: tablePotions_01
+    400018: tablePotions_02
+    400020: vatPotions_01
+    400022: bookcase_potions
+    400024: bookcaseContents_potions_01
+    400026: cauldron_potions
+    400028: chandelier_potions_01
+    400030: stairsPotions_01
+    400032: chandelier_potions_02
+    2300000: Bookcase_Potions_Room
+    2300002: candlePotions_01
+    2300004: cauldron
+    2300006: chairPotions_01
+    2300008: chandalerePotions_01
+    2300010: chandalerePotions_02
+    2300012: machinePotions_01
+    2300014: tablePotions_01
+    2300016: tablePotions_02
+    2300018: vatPotions_01
+    2300020: bookcase_potions
+    2300022: bookcaseContents_potions_01
+    2300024: cauldron_potions
+    2300026: chandelier_potions_01
+    2300028: stairsPotions_01
+    2300030: chandelier_potions_02
+    3300000: Bookcase_Potions_Room
+    3300002: candlePotions_01
+    3300004: cauldron
+    3300006: chairPotions_01
+    3300008: chandalerePotions_01
+    3300010: chandalerePotions_02
+    3300012: machinePotions_01
+    3300014: tablePotions_01
+    3300016: tablePotions_02
+    3300018: vatPotions_01
+    3300020: bookcase_potions
+    3300022: bookcaseContents_potions_01
+    3300024: cauldron_potions
+    3300026: chandelier_potions_01
+    3300028: stairsPotions_01
+    3300030: chandelier_potions_02
+    4300000: Bookcase_Potions_Room
+    4300002: machinePotions_01
+    4300004: candlePotions_01
+    4300006: vatPotions_01
+    4300008: cauldron
+    4300010: tablePotions_02
+    4300012: tablePotions_01
+    4300014: chairPotions_01
+    4300016: chandalerePotions_02
+    4300018: chandalerePotions_01
+    4300020: stairsPotions_01
+    4300022: bookcase_potions
+    4300024: cauldron_potions
+    4300026: bookcaseContents_potions_01
+    4300028: chandelier_potions_01
+    4300030: chandelier_potions_02
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

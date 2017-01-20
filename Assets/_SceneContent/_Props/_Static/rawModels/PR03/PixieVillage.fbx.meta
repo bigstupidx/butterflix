@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 0648b84c2157d974ca810a8f96748dbe
+timeCreated: 1439822464
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface65
+    100004: polySurface70
+    100006: polySurface75
+    100008: polySurface81
+    100010: pixieHouse_01
+    100012: pixieHouse_02
+    100014: pixieHouse_03
+    100016: pixieHouse_04
+    100018: pixieHouse_01LOD
+    100020: pixieHouse_02LOD
+    100022: pixieHouse_03LOD
+    100024: pixieHouse_04LOD
+    100026: pixieHouse_01_roofCol
+    100028: pixieHouse_01_wallCol
+    100030: pixieHouse_02_roofCol
+    100032: pixieHouse_04_roofCol
+    100034: pixieHouse_04LOD1
+    100036: pixieHouse_02_wallCol
+    100038: pixieHouse_03_roofCol
+    100040: pixieHouse_03_wallCol
+    100042: pixieHouse_04_wallCol
+    400000: //RootNode
+    400002: polySurface65
+    400004: polySurface70
+    400006: polySurface75
+    400008: polySurface81
+    400010: pixieHouse_01
+    400012: pixieHouse_02
+    400014: pixieHouse_03
+    400016: pixieHouse_04
+    400018: pixieHouse_01LOD
+    400020: pixieHouse_02LOD
+    400022: pixieHouse_03LOD
+    400024: pixieHouse_04LOD
+    400026: pixieHouse_01_roofCol
+    400028: pixieHouse_01_wallCol
+    400030: pixieHouse_02_roofCol
+    400032: pixieHouse_04_roofCol
+    400034: pixieHouse_04LOD1
+    400036: pixieHouse_02_wallCol
+    400038: pixieHouse_03_roofCol
+    400040: pixieHouse_03_wallCol
+    400042: pixieHouse_04_wallCol
+    2300000: polySurface65
+    2300002: polySurface70
+    2300004: polySurface75
+    2300006: polySurface81
+    2300008: pixieHouse_01
+    2300010: pixieHouse_02
+    2300012: pixieHouse_03
+    2300014: pixieHouse_04
+    2300016: pixieHouse_01LOD
+    2300018: pixieHouse_02LOD
+    2300020: pixieHouse_03LOD
+    2300022: pixieHouse_04LOD
+    2300024: pixieHouse_01_roofCol
+    2300026: pixieHouse_01_wallCol
+    2300028: pixieHouse_02_roofCol
+    2300030: pixieHouse_04_roofCol
+    2300032: pixieHouse_04LOD1
+    2300034: pixieHouse_02_wallCol
+    2300036: pixieHouse_03_roofCol
+    2300038: pixieHouse_03_wallCol
+    2300040: pixieHouse_04_wallCol
+    3300000: polySurface65
+    3300002: polySurface70
+    3300004: polySurface75
+    3300006: polySurface81
+    3300008: pixieHouse_01
+    3300010: pixieHouse_02
+    3300012: pixieHouse_03
+    3300014: pixieHouse_04
+    3300016: pixieHouse_01LOD
+    3300018: pixieHouse_02LOD
+    3300020: pixieHouse_03LOD
+    3300022: pixieHouse_04LOD
+    3300024: pixieHouse_01_roofCol
+    3300026: pixieHouse_01_wallCol
+    3300028: pixieHouse_02_roofCol
+    3300030: pixieHouse_04_roofCol
+    3300032: pixieHouse_04LOD1
+    3300034: pixieHouse_02_wallCol
+    3300036: pixieHouse_03_roofCol
+    3300038: pixieHouse_03_wallCol
+    3300040: pixieHouse_04_wallCol
+    4300000: polySurface81
+    4300002: polySurface70
+    4300004: polySurface75
+    4300006: polySurface65
+    4300008: pixieHouse_01
+    4300010: pixieHouse_02
+    4300012: pixieHouse_03
+    4300014: pixieHouse_04
+    4300016: pixieHouse_01LOD
+    4300018: pixieHouse_02LOD
+    4300020: pixieHouse_03LOD
+    4300022: pixieHouse_04LOD
+    4300024: pixieHouse_01_wallCol
+    4300026: pixieHouse_01_roofCol
+    4300028: pixieHouse_02_roofCol
+    4300030: pixieHouse_04_roofCol
+    4300032: pixieHouse_04LOD1
+    4300034: pixieHouse_02_wallCol
+    4300036: pixieHouse_03_wallCol
+    4300038: pixieHouse_03_roofCol
+    4300040: pixieHouse_04_wallCol
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 80
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 5d7398ba2cf3c4249860e59256d95d12
+timeCreated: 1438876418
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: cor_leftfloor_02
+    100002: cor_leftfloor_03
+    100004: cor_leftfloor_04
+    100006: cor_leftroom_01
+    100008: cor_leftroom_02
+    100010: cor_leftroom_03
+    100012: cor_leftroom_04
+    100014: cor_rightfloor_02
+    100016: cor_rightfloor_03
+    100018: cor_rightfloor_04
+    100020: cor_rightroom_01
+    100022: cor_rightroom_02
+    100024: cor_rightroom_03
+    100026: cor_rightroom_04
+    100028: //RootNode
+    400000: cor_leftfloor_02
+    400002: cor_leftfloor_03
+    400004: cor_leftfloor_04
+    400006: cor_leftroom_01
+    400008: cor_leftroom_02
+    400010: cor_leftroom_03
+    400012: cor_leftroom_04
+    400014: cor_rightfloor_02
+    400016: cor_rightfloor_03
+    400018: cor_rightfloor_04
+    400020: cor_rightroom_01
+    400022: cor_rightroom_02
+    400024: cor_rightroom_03
+    400026: cor_rightroom_04
+    400028: //RootNode
+    2300000: cor_leftfloor_02
+    2300002: cor_leftfloor_03
+    2300004: cor_leftfloor_04
+    2300006: cor_leftroom_01
+    2300008: cor_leftroom_02
+    2300010: cor_leftroom_03
+    2300012: cor_leftroom_04
+    2300014: cor_rightfloor_02
+    2300016: cor_rightfloor_03
+    2300018: cor_rightfloor_04
+    2300020: cor_rightroom_01
+    2300022: cor_rightroom_02
+    2300024: cor_rightroom_03
+    2300026: cor_rightroom_04
+    3300000: cor_leftfloor_02
+    3300002: cor_leftfloor_03
+    3300004: cor_leftfloor_04
+    3300006: cor_leftroom_01
+    3300008: cor_leftroom_02
+    3300010: cor_leftroom_03
+    3300012: cor_leftroom_04
+    3300014: cor_rightfloor_02
+    3300016: cor_rightfloor_03
+    3300018: cor_rightfloor_04
+    3300020: cor_rightroom_01
+    3300022: cor_rightroom_02
+    3300024: cor_rightroom_03
+    3300026: cor_rightroom_04
+    4300000: cor_leftfloor_03
+    4300002: cor_leftfloor_02
+    4300004: cor_leftfloor_04
+    4300006: cor_leftroom_01
+    4300008: cor_leftroom_02
+    4300010: cor_leftroom_03
+    4300012: cor_leftroom_04
+    4300014: cor_rightfloor_02
+    4300016: cor_rightfloor_03
+    4300018: cor_rightfloor_04
+    4300020: cor_rightroom_01
+    4300022: cor_rightroom_02
+    4300024: cor_rightroom_03
+    4300026: cor_rightroom_04
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 6b92d99b7fa937a4480a3b3f4849d9b9
+timeCreated: 1436540660
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Aisha_Carpet
+    100002: Aisha_Pic
+    100004: Bloom_Carpet
+    100006: Bloom_Pic
+    100008: Flora_Carpet
+    100010: Flora_Pic
+    100012: Musa_Carpet
+    100014: Musa_Pic
+    100016: //RootNode
+    100018: Stella_Carpet
+    100020: Stella_Pic
+    100022: Tecna_Carpet
+    100024: Tecna_Pic
+    100026: TreasureRoom_Arches
+    100028: TreasureRoom_Door
+    100030: TreasureRoom_Floor
+    100032: TreasureRoom_Pillars
+    100034: TreasureRoom_Roof
+    100036: TreasureRoom_Skirting
+    100038: TreasureRoom_Walls
+    100040: TreasureRoomSteps
+    400000: Aisha_Carpet
+    400002: Aisha_Pic
+    400004: Bloom_Carpet
+    400006: Bloom_Pic
+    400008: Flora_Carpet
+    400010: Flora_Pic
+    400012: Musa_Carpet
+    400014: Musa_Pic
+    400016: //RootNode
+    400018: Stella_Carpet
+    400020: Stella_Pic
+    400022: Tecna_Carpet
+    400024: Tecna_Pic
+    400026: TreasureRoom_Arches
+    400028: TreasureRoom_Door
+    400030: TreasureRoom_Floor
+    400032: TreasureRoom_Pillars
+    400034: TreasureRoom_Roof
+    400036: TreasureRoom_Skirting
+    400038: TreasureRoom_Walls
+    400040: TreasureRoomSteps
+    2300000: Aisha_Carpet
+    2300002: Aisha_Pic
+    2300004: Bloom_Carpet
+    2300006: Bloom_Pic
+    2300008: Flora_Carpet
+    2300010: Flora_Pic
+    2300012: Musa_Carpet
+    2300014: Musa_Pic
+    2300016: Stella_Carpet
+    2300018: Stella_Pic
+    2300020: Tecna_Carpet
+    2300022: Tecna_Pic
+    2300024: TreasureRoom_Arches
+    2300026: TreasureRoom_Door
+    2300028: TreasureRoom_Floor
+    2300030: TreasureRoom_Pillars
+    2300032: TreasureRoom_Roof
+    2300034: TreasureRoom_Skirting
+    2300036: TreasureRoom_Walls
+    2300038: TreasureRoomSteps
+    3300000: Aisha_Carpet
+    3300002: Aisha_Pic
+    3300004: Bloom_Carpet
+    3300006: Bloom_Pic
+    3300008: Flora_Carpet
+    3300010: Flora_Pic
+    3300012: Musa_Carpet
+    3300014: Musa_Pic
+    3300016: Stella_Carpet
+    3300018: Stella_Pic
+    3300020: Tecna_Carpet
+    3300022: Tecna_Pic
+    3300024: TreasureRoom_Arches
+    3300026: TreasureRoom_Door
+    3300028: TreasureRoom_Floor
+    3300030: TreasureRoom_Pillars
+    3300032: TreasureRoom_Roof
+    3300034: TreasureRoom_Skirting
+    3300036: TreasureRoom_Walls
+    3300038: TreasureRoomSteps
+    4300000: TreasureRoom_Skirting
+    4300002: TreasureRoom_Pillars
+    4300004: TreasureRoom_Walls
+    4300006: TreasureRoom_Arches
+    4300008: Aisha_Pic
+    4300010: Bloom_Pic
+    4300012: Flora_Pic
+    4300014: Stella_Pic
+    4300016: Tecna_Pic
+    4300018: Musa_Pic
+    4300020: TreasureRoom_Door
+    4300022: TreasureRoom_Floor
+    4300024: Stella_Carpet
+    4300026: Aisha_Carpet
+    4300028: Bloom_Carpet
+    4300030: Flora_Carpet
+    4300032: Musa_Carpet
+    4300034: Tecna_Carpet
+    4300036: TreasureRoom_Roof
+    4300038: TreasureRoomSteps
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1435 @@
+fileFormatVersion: 2
+guid: 9d0dded1df16edd42a70b97df3ba225e
+timeCreated: 1435098750
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bloom_LeftEye
+    100002: Bloom_New
+    100004: Bloom_New_MainC
+    100006: Bloom_New_SH_HeadJ
+    100008: Bloom_New_SH_HeadTipJ
+    100010: Bloom_New_SH_JawJ
+    100012: Bloom_New_SH_JawTipJ
+    100014: Bloom_New_SH_lAnkleJ
+    100016: Bloom_New_SH_lBallJ
+    100018: Bloom_New_SH_lClavicleJ
+    100020: Bloom_New_SH_lElbowJ
+    100022: Bloom_New_SH_lFinger1J1
+    100024: Bloom_New_SH_lFinger1J2
+    100026: Bloom_New_SH_lFinger1J3
+    100028: Bloom_New_SH_lFinger1JTip
+    100030: Bloom_New_SH_lFinger2J1
+    100032: Bloom_New_SH_lFinger2J2
+    100034: Bloom_New_SH_lFinger2J3
+    100036: Bloom_New_SH_lFinger2JTip
+    100038: Bloom_New_SH_lFinger3J1
+    100040: Bloom_New_SH_lFinger3J2
+    100042: Bloom_New_SH_lFinger3J3
+    100044: Bloom_New_SH_lFinger3JTip
+    100046: Bloom_New_SH_lFinger4J1
+    100048: Bloom_New_SH_lFinger4J2
+    100050: Bloom_New_SH_lFinger4J3
+    100052: Bloom_New_SH_lFinger4JTip
+    100054: Bloom_New_SH_lForearmJ
+    100056: Bloom_New_SH_lHipJ
+    100058: Bloom_New_SH_lKneeJ
+    100060: Bloom_New_SH_lPalmJ
+    100062: Bloom_New_SH_lShoulderJ
+    100064: Bloom_New_SH_lThumbJ1
+    100066: Bloom_New_SH_lThumbJ2
+    100068: Bloom_New_SH_lThumbJ3
+    100070: Bloom_New_SH_lThumbJTip
+    100072: Bloom_New_SH_lToeJ
+    100074: Bloom_New_SH_lWristJ
+    100076: Bloom_New_SH_Neck01J
+    100078: Bloom_New_SH_Neck02J
+    100080: Bloom_New_SH_Neck03J
+    100082: Bloom_New_SH_rAnkleJ
+    100084: Bloom_New_SH_rBallJ
+    100086: Bloom_New_SH_rClavicleJ
+    100088: Bloom_New_SH_rElbowJ
+    100090: Bloom_New_SH_rFinger1J1
+    100092: Bloom_New_SH_rFinger1J2
+    100094: Bloom_New_SH_rFinger1J3
+    100096: Bloom_New_SH_rFinger1JTip
+    100098: Bloom_New_SH_rFinger2J1
+    100100: Bloom_New_SH_rFinger2J2
+    100102: Bloom_New_SH_rFinger2J3
+    100104: Bloom_New_SH_rFinger2JTip
+    100106: Bloom_New_SH_rFinger3J1
+    100108: Bloom_New_SH_rFinger3J2
+    100110: Bloom_New_SH_rFinger3J3
+    100112: Bloom_New_SH_rFinger3JTip
+    100114: Bloom_New_SH_rFinger4J1
+    100116: Bloom_New_SH_rFinger4J2
+    100118: Bloom_New_SH_rFinger4J3
+    100120: Bloom_New_SH_rFinger4JTip
+    100122: Bloom_New_SH_rForearmJ
+    100124: Bloom_New_SH_rHipJ
+    100126: Bloom_New_SH_rKneeJ
+    100128: Bloom_New_SH_ROOTJ
+    100130: Bloom_New_SH_rPalmJ
+    100132: Bloom_New_SH_rShoulderJ
+    100134: Bloom_New_SH_rThumbJ1
+    100136: Bloom_New_SH_rThumbJ2
+    100138: Bloom_New_SH_rThumbJ3
+    100140: Bloom_New_SH_rThumbJTip
+    100142: Bloom_New_SH_rToeJ
+    100144: Bloom_New_SH_rWristJ
+    100146: Bloom_New_SH_Spine01J
+    100148: Bloom_New_SH_Spine02J
+    100150: Bloom_New_SH_Spine03J
+    100152: Bloom_New_SH_SpineTopJ
+    100154: Bloom_RightEye
+    100156: eyebrow
+    100158: eyecorner_l
+    100160: eyecorner_r
+    100162: eyeedge_l
+    100164: eyeedge_r
+    100166: eyelid_l
+    100168: eyelid_r
+    100170: eyelidlower_l
+    100172: eyelidlower_r
+    100174: Jnt_TIME_HAIR_MUSA_01
+    100176: Jnt_TIME_HAIR_MUSA_02
+    100178: Jnt_TIME_HAIR_MUSA_03
+    100180: Jnt_TIME_HAIR_MUSA_04
+    100182: Jnt_TIME_HAIR_MUSA_05
+    100184: Jnt_TIME_HAIR_MUSA_06
+    100186: Jnt_TIME_HAIR_MUSA_07
+    100188: Jnt_TIME_HAIR_MUSA_08
+    100190: Jnt_TIME_HAIR_MUSA_09
+    100192: Jnt_TIME_HAIR_MUSA_10
+    100194: Jnt_TIME_HAIR_MUSA_12
+    100196: Jnt_TIME_HAIR_MUSA_e
+    100198: Jnt_TIME_SIDEBURN_MUSA_L_01
+    100200: Jnt_TIME_SIDEBURN_MUSA_L_02
+    100202: Jnt_TIME_SIDEBURN_MUSA_L_03
+    100204: Jnt_TIME_SIDEBURN_MUSA_L_04
+    100206: Jnt_TIME_SIDEBURN_MUSA_L_05
+    100208: Jnt_TIME_SIDEBURN_MUSA_L_06
+    100210: Jnt_TIME_SIDEBURN_MUSA_L_e
+    100212: Jnt_TIME_SIDEBURN_MUSA_R_01
+    100214: Jnt_TIME_SIDEBURN_MUSA_R_02
+    100216: Jnt_TIME_SIDEBURN_MUSA_R_03
+    100218: Jnt_TIME_SIDEBURN_MUSA_R_04
+    100220: Jnt_TIME_SIDEBURN_MUSA_R_05
+    100222: Jnt_TIME_SIDEBURN_MUSA_R_06
+    100224: Jnt_TIME_SIDEBURN_MUSA_R_e
+    100226: joint25
+    100228: joint25 1
+    100230: joint26
+    100232: joint28
+    100234: joint28 1
+    100236: joint28 2
+    100238: joint28 3
+    100240: joint31
+    100242: joint33
+    100244: joint35
+    100246: joint37
+    100248: joint37 1
+    100250: joint39
+    100252: joint41
+    100254: joint41 1
+    100256: Mouthedge_l
+    100258: Mouthedge_r
+    100260: Musa_Time
+    100262: //RootNode
+    100264: OUTFITS_TIME
+    400000: Bloom_LeftEye
+    400002: Bloom_New
+    400004: Bloom_New_MainC
+    400006: Bloom_New_SH_HeadJ
+    400008: Bloom_New_SH_HeadTipJ
+    400010: Bloom_New_SH_JawJ
+    400012: Bloom_New_SH_JawTipJ
+    400014: Bloom_New_SH_lAnkleJ
+    400016: Bloom_New_SH_lBallJ
+    400018: Bloom_New_SH_lClavicleJ
+    400020: Bloom_New_SH_lElbowJ
+    400022: Bloom_New_SH_lFinger1J1
+    400024: Bloom_New_SH_lFinger1J2
+    400026: Bloom_New_SH_lFinger1J3
+    400028: Bloom_New_SH_lFinger1JTip
+    400030: Bloom_New_SH_lFinger2J1
+    400032: Bloom_New_SH_lFinger2J2
+    400034: Bloom_New_SH_lFinger2J3
+    400036: Bloom_New_SH_lFinger2JTip
+    400038: Bloom_New_SH_lFinger3J1
+    400040: Bloom_New_SH_lFinger3J2
+    400042: Bloom_New_SH_lFinger3J3
+    400044: Bloom_New_SH_lFinger3JTip
+    400046: Bloom_New_SH_lFinger4J1
+    400048: Bloom_New_SH_lFinger4J2
+    400050: Bloom_New_SH_lFinger4J3
+    400052: Bloom_New_SH_lFinger4JTip
+    400054: Bloom_New_SH_lForearmJ
+    400056: Bloom_New_SH_lHipJ
+    400058: Bloom_New_SH_lKneeJ
+    400060: Bloom_New_SH_lPalmJ
+    400062: Bloom_New_SH_lShoulderJ
+    400064: Bloom_New_SH_lThumbJ1
+    400066: Bloom_New_SH_lThumbJ2
+    400068: Bloom_New_SH_lThumbJ3
+    400070: Bloom_New_SH_lThumbJTip
+    400072: Bloom_New_SH_lToeJ
+    400074: Bloom_New_SH_lWristJ
+    400076: Bloom_New_SH_Neck01J
+    400078: Bloom_New_SH_Neck02J
+    400080: Bloom_New_SH_Neck03J
+    400082: Bloom_New_SH_rAnkleJ
+    400084: Bloom_New_SH_rBallJ
+    400086: Bloom_New_SH_rClavicleJ
+    400088: Bloom_New_SH_rElbowJ
+    400090: Bloom_New_SH_rFinger1J1
+    400092: Bloom_New_SH_rFinger1J2
+    400094: Bloom_New_SH_rFinger1J3
+    400096: Bloom_New_SH_rFinger1JTip
+    400098: Bloom_New_SH_rFinger2J1
+    400100: Bloom_New_SH_rFinger2J2
+    400102: Bloom_New_SH_rFinger2J3
+    400104: Bloom_New_SH_rFinger2JTip
+    400106: Bloom_New_SH_rFinger3J1
+    400108: Bloom_New_SH_rFinger3J2
+    400110: Bloom_New_SH_rFinger3J3
+    400112: Bloom_New_SH_rFinger3JTip
+    400114: Bloom_New_SH_rFinger4J1
+    400116: Bloom_New_SH_rFinger4J2
+    400118: Bloom_New_SH_rFinger4J3
+    400120: Bloom_New_SH_rFinger4JTip
+    400122: Bloom_New_SH_rForearmJ
+    400124: Bloom_New_SH_rHipJ
+    400126: Bloom_New_SH_rKneeJ
+    400128: Bloom_New_SH_ROOTJ
+    400130: Bloom_New_SH_rPalmJ
+    400132: Bloom_New_SH_rShoulderJ
+    400134: Bloom_New_SH_rThumbJ1
+    400136: Bloom_New_SH_rThumbJ2
+    400138: Bloom_New_SH_rThumbJ3
+    400140: Bloom_New_SH_rThumbJTip
+    400142: Bloom_New_SH_rToeJ
+    400144: Bloom_New_SH_rWristJ
+    400146: Bloom_New_SH_Spine01J
+    400148: Bloom_New_SH_Spine02J
+    400150: Bloom_New_SH_Spine03J
+    400152: Bloom_New_SH_SpineTopJ
+    400154: Bloom_RightEye
+    400156: eyebrow
+    400158: eyecorner_l
+    400160: eyecorner_r
+    400162: eyeedge_l
+    400164: eyeedge_r
+    400166: eyelid_l
+    400168: eyelid_r
+    400170: eyelidlower_l
+    400172: eyelidlower_r
+    400174: Jnt_TIME_HAIR_MUSA_01
+    400176: Jnt_TIME_HAIR_MUSA_02
+    400178: Jnt_TIME_HAIR_MUSA_03
+    400180: Jnt_TIME_HAIR_MUSA_04
+    400182: Jnt_TIME_HAIR_MUSA_05
+    400184: Jnt_TIME_HAIR_MUSA_06
+    400186: Jnt_TIME_HAIR_MUSA_07
+    400188: Jnt_TIME_HAIR_MUSA_08
+    400190: Jnt_TIME_HAIR_MUSA_09
+    400192: Jnt_TIME_HAIR_MUSA_10
+    400194: Jnt_TIME_HAIR_MUSA_12
+    400196: Jnt_TIME_HAIR_MUSA_e
+    400198: Jnt_TIME_SIDEBURN_MUSA_L_01
+    400200: Jnt_TIME_SIDEBURN_MUSA_L_02
+    400202: Jnt_TIME_SIDEBURN_MUSA_L_03
+    400204: Jnt_TIME_SIDEBURN_MUSA_L_04
+    400206: Jnt_TIME_SIDEBURN_MUSA_L_05
+    400208: Jnt_TIME_SIDEBURN_MUSA_L_06
+    400210: Jnt_TIME_SIDEBURN_MUSA_L_e
+    400212: Jnt_TIME_SIDEBURN_MUSA_R_01
+    400214: Jnt_TIME_SIDEBURN_MUSA_R_02
+    400216: Jnt_TIME_SIDEBURN_MUSA_R_03
+    400218: Jnt_TIME_SIDEBURN_MUSA_R_04
+    400220: Jnt_TIME_SIDEBURN_MUSA_R_05
+    400222: Jnt_TIME_SIDEBURN_MUSA_R_06
+    400224: Jnt_TIME_SIDEBURN_MUSA_R_e
+    400226: joint25
+    400228: joint25 1
+    400230: joint26
+    400232: joint28
+    400234: joint28 1
+    400236: joint28 2
+    400238: joint28 3
+    400240: joint31
+    400242: joint33
+    400244: joint35
+    400246: joint37
+    400248: joint37 1
+    400250: joint39
+    400252: joint41
+    400254: joint41 1
+    400256: Mouthedge_l
+    400258: Mouthedge_r
+    400260: Musa_Time
+    400262: //RootNode
+    400264: OUTFITS_TIME
+    4300000: Musa_Time
+    9500000: //RootNode
+    13700000: Musa_Time
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Bloom_New_SH_ROOTJ
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lHipJ
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rHipJ
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lKneeJ
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rKneeJ
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lAnkleJ
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rAnkleJ
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_Spine02J
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_SpineTopJ
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_Neck01J
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_HeadJ
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lClavicleJ
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rClavicleJ
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lShoulderJ
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rShoulderJ
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lElbowJ
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rElbowJ
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lWristJ
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rWristJ
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lBallJ
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rBallJ
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_JawJ
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lThumbJ1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lThumbJ2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lThumbJ3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger1J1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger1J2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger1J3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger2J1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger2J2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger2J3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger3J1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger3J2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger3J3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger4J1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger4J2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger4J3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rThumbJ1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rThumbJ2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rThumbJ3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger1J1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger1J2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger1J3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger2J1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger2J2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger2J3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger3J1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger3J2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger3J3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger4J1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger4J2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger4J3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Musa_Time_Outfit(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New
+      position: {x: .0108579323, y: .96250701, z: .192185462}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_MainC
+      position: {x: -.0108579323, y: -.96250701, z: -.192185462}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_ROOTJ
+      position: {x: -0, y: 1.1324625, z: .0223094933}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_Spine01J
+      position: {x: -0, y: .055258669, z: .0115558328}
+      rotation: {x: -.017757602, y: 0, z: -0, w: .999842346}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_Spine02J
+      position: {x: -0, y: .0845503584, z: -.00159855525}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_Spine03J
+      position: {x: -0, y: .0694151297, z: -.0119122015}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_SpineTopJ
+      position: {x: 2.44524118e-17, y: .06959299, z: -9.76996256e-17}
+      rotation: {x: .5, y: -.5, z: .5, w: -.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_Neck01J
+      position: {x: -.0842778459, y: .0169484392, z: 5.44785163e-18}
+      rotation: {x: -.499276459, y: .500722528, z: -.499276459, w: -.500722528}
+      scale: {x: .994308412, y: .99999994, z: .994308531}
+      transformModified: 1
+    - name: Bloom_New_SH_Neck02J
+      position: {x: 3.88338302e-18, y: .0367008112, z: .00882601924}
+      rotation: {x: .000109769404, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .99999994, z: .999991655}
+      transformModified: 1
+    - name: Bloom_New_SH_Neck03J
+      position: {x: 3.347413e-18, y: .0254300367, z: .00758391479}
+      rotation: {x: -.000109605477, y: 0, z: 0, w: 1}
+      scale: {x: .994308531, y: 1.00000024, z: .994316876}
+      transformModified: 1
+    - name: Bloom_New_SH_HeadJ
+      position: {x: 4.14204273e-17, y: .0486963876, z: -1.5815969e-08}
+      rotation: {x: .499266446, y: -.500732481, z: .499266505, w: -.500732481}
+      scale: {x: .999999881, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_HeadTipJ
+      position: {x: -.277113438, y: 6.07738548e-05, z: 1.30960848e-17}
+      rotation: {x: -.508790076, y: .491052628, z: -.508790076, w: -.491052628}
+      scale: {x: 1, y: 1.00000262, z: .999997735}
+      transformModified: 1
+    - name: Bloom_New_SH_JawJ
+      position: {x: .000643513049, y: -.012774297, z: 1.06597971e-17}
+      rotation: {x: -.508790076, y: .491052628, z: -.508790076, w: -.491052628}
+      scale: {x: 1, y: 1.00000262, z: .999997735}
+      transformModified: 1
+    - name: Bloom_New_SH_JawTipJ
+      position: {x: 3.641167e-17, y: -.0474045612, z: .0919516832}
+      rotation: {x: 8.37962872e-08, y: 2.92684028e-08, z: -3.03268379e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: joint26
+      position: {x: -.0594932176, y: .0247598458, z: -.0647231936}
+      rotation: {x: 0, y: 0, z: -.7288059, w: -.684720457}
+      scale: {x: .999996424, y: 1.00000453, z: 1}
+      transformModified: 1
+    - name: eyeedge_l
+      position: {x: -.0437671505, y: 4.7184479e-18, z: 4.85912982e-18}
+      rotation: {x: .149407104, y: -.471240491, z: -.146164969, w: .85688144}
+      scale: {x: 1.00031388, y: .999868751, z: .999852896}
+      transformModified: 1
+    - name: joint28 1
+      position: {x: -.0633189678, y: -1.90044375e-16, z: 9.71445151e-19}
+      rotation: {x: .125789449, y: -.688116729, z: .12850368, w: .702964604}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyecorner_l
+      position: {x: -.0437671505, y: 4.7184479e-18, z: 4.85912982e-18}
+      rotation: {x: .00282328227, y: .23009108, z: .276425183, w: .933080494}
+      scale: {x: .999456942, y: 1.00067544, z: .999923944}
+      transformModified: 1
+    - name: joint28
+      position: {x: -.068814531, y: .0116770202, z: .00150354847}
+      rotation: {x: .115324557, y: -.697639227, z: .115324497, w: .697638929}
+      scale: {x: 1.00000012, y: 1.00319803, z: .996819735}
+      transformModified: 1
+    - name: eyelid_l
+      position: {x: -.0437671505, y: 4.7184479e-18, z: 4.85912982e-18}
+      rotation: {x: .00113397546, y: -.00512929494, z: -.173398599, w: .98483777}
+      scale: {x: 1.00048792, y: .99953413, z: 1}
+      transformModified: 1
+    - name: joint28 2
+      position: {x: -.067176953, y: 0, z: 0}
+      rotation: {x: .11532443, y: -.697639167, z: .115324348, w: .697639048}
+      scale: {x: 1, y: .998132229, z: 1.0018692}
+      transformModified: 1
+    - name: eyelidlower_l
+      position: {x: -.0437671505, y: 4.7184479e-18, z: 4.85912982e-18}
+      rotation: {x: .0126909167, y: -.0672937557, z: .166361794, w: .983684063}
+      scale: {x: .99956131, y: 1.00047636, z: .999991417}
+      transformModified: 1
+    - name: joint28 3
+      position: {x: -.067176953, y: 0, z: 0}
+      rotation: {x: .115324453, y: -.697639108, z: .11532443, w: .697638988}
+      scale: {x: 1.00000012, y: 1.00248981, z: .997542262}
+      transformModified: 1
+    - name: joint31
+      position: {x: -.0594906807, y: .0247599259, z: .0647232011}
+      rotation: {x: -1.35041756e-08, y: 0, z: -.684720457, w: .7288059}
+      scale: {x: .999996424, y: 1.00000453, z: 1}
+      transformModified: 1
+    - name: eyeedge_r
+      position: {x: .0437669754, y: -6.70694908e-06, z: 8.881784e-18}
+      rotation: {x: .149407089, y: -.471240431, z: -.146164954, w: .85688144}
+      scale: {x: 1.000314, y: .999869049, z: .999853015}
+      transformModified: 1
+    - name: joint33
+      position: {x: .0633153394, y: 8.09766243e-06, z: -1.46031755e-06}
+      rotation: {x: .125789449, y: -.688116729, z: .12850368, w: .702964604}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyecorner_r
+      position: {x: .0437669754, y: -6.70694908e-06, z: 8.881784e-18}
+      rotation: {x: .00282332278, y: .230091095, z: .276425183, w: .933080554}
+      scale: {x: 1.00005567, y: 1.00006795, z: .999934912}
+      transformModified: 1
+    - name: joint35
+      position: {x: .0688156709, y: -.0116752088, z: -.0015032565}
+      rotation: {x: .115324572, y: -.697639287, z: .115324646, w: .69763881}
+      scale: {x: 1, y: 1.003196, z: .996817708}
+      transformModified: 1
+    - name: eyelid_r
+      position: {x: .0437669754, y: -6.70694908e-06, z: 8.881784e-18}
+      rotation: {x: .00426681247, y: -.00306531717, z: -.173397452, w: .98483789}
+      scale: {x: 1.0004884, y: .99953407, z: 1}
+      transformModified: 1
+    - name: joint37
+      position: {x: .0671758801, y: 3.05008371e-06, z: -2.11350404e-08}
+      rotation: {x: .115324356, y: -.697639108, z: .115324259, w: .697639048}
+      scale: {x: 1.00000012, y: .998131752, z: 1.00186896}
+      transformModified: 1
+    - name: eyelidlower_r
+      position: {x: .0437669754, y: -6.70694908e-06, z: 8.881784e-18}
+      rotation: {x: .012690952, y: -.0672937557, z: .166361824, w: .983684063}
+      scale: {x: .999561429, y: 1.00047612, z: .999991417}
+      transformModified: 1
+    - name: joint37 1
+      position: {x: .0671758801, y: 3.05008371e-06, z: -2.11350404e-08}
+      rotation: {x: .11532443, y: -.697639227, z: .115324408, w: .697639048}
+      scale: {x: 1, y: 1.00249004, z: .99754262}
+      transformModified: 1
+    - name: eyebrow
+      position: {x: -.0758205205, y: -.0122866677, z: -7.7980649e-18}
+      rotation: {x: -.508779347, y: .491063774, z: -.508779347, w: -.491063774}
+      scale: {x: .99999994, y: 1.0000025, z: .999997735}
+      transformModified: 1
+    - name: joint39
+      position: {x: -0, y: .0230511874, z: .112521045}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_LeftEye
+      position: {x: -.0544125885, y: -.0370205976, z: -.049999997}
+      rotation: {x: -.51005441, y: .492310554, z: -.507483304, w: -.489832193}
+      scale: {x: 1.00000012, y: 1.00000274, z: .999997795}
+      transformModified: 1
+    - name: joint41
+      position: {x: 3.5527136e-17, y: 0, z: .0974662155}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_RightEye
+      position: {x: -.0544125885, y: -.0370205976, z: .049999997}
+      rotation: {x: -.507483304, y: .489832193, z: -.51005441, w: -.492310554}
+      scale: {x: 1, y: 1.00000262, z: .999997675}
+      transformModified: 1
+    - name: joint41 1
+      position: {x: 3.5527136e-17, y: 0, z: .0974662155}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mouthedge_r
+      position: {x: .0113458885, y: -.000145542333, z: -6.15716058e-17}
+      rotation: {x: -.415279001, y: .400803387, z: -.587602258, w: -.567118645}
+      scale: {x: .99999994, y: 1.00000286, z: .999998331}
+      transformModified: 1
+    - name: joint25 1
+      position: {x: -0, y: -.0116670914, z: .1015037}
+      rotation: {x: 9.1498606e-08, y: -1.51808213e-13, z: 9.45907033e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Mouthedge_l
+      position: {x: .0113458885, y: -.000145542333, z: -6.15716058e-17}
+      rotation: {x: -.587602258, y: .567118645, z: -.415279001, w: -.400803387}
+      scale: {x: .999999762, y: 1.00000274, z: .999998212}
+      transformModified: 1
+    - name: joint25
+      position: {x: -0, y: -.0116670914, z: .1015037}
+      rotation: {x: 1.51373285e-07, y: 1.49011594e-08, z: 9.16173803e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_L_01
+      position: {x: -.0573509187, y: .00764513155, z: -.112846136}
+      rotation: {x: 2.98023188e-08, y: 2.98023188e-08, z: -5.96046377e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_L_02
+      position: {x: .0682217777, y: -.0225081742, z: -1.7763568e-17}
+      rotation: {x: -5.96046306e-08, y: -5.96046306e-08, z: -2.98023153e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_L_03
+      position: {x: .0653085858, y: -.0362094715, z: -.0166027248}
+      rotation: {x: 2.98023153e-08, y: 2.98023153e-08, z: 1.19209261e-07, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_L_04
+      position: {x: .0846555084, y: -.00662727561, z: -.00293666054}
+      rotation: {x: 2.98023188e-08, y: 2.98023188e-08, z: -5.96046377e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_L_05
+      position: {x: .0795059875, y: .0107539129, z: .0291335117}
+      rotation: {x: -5.96046306e-08, y: -5.96046306e-08, z: -2.98023153e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_L_06
+      position: {x: .053351, y: -.0112095261, z: .0131270038}
+      rotation: {x: 2.98023153e-08, y: 2.98023153e-08, z: 5.96046306e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_L_e
+      position: {x: .0550262667, y: .00339355157, z: -.0188914519}
+      rotation: {x: 2.98023188e-08, y: 2.98023188e-08, z: -5.96046377e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_HAIR_MUSA_01
+      position: {x: -.236079961, y: .128249228, z: -4.74094531e-17}
+      rotation: {x: 2.98023188e-08, y: 2.98023188e-08, z: -5.96046377e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Jnt_TIME_HAIR_MUSA_02
+      position: {x: -.0576361492, y: .0620698817, z: -3.55187749e-17}
+      rotation: {x: -5.96046306e-08, y: -5.96046306e-08, z: -2.98023153e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_HAIR_MUSA_03
+      position: {x: -.0516997464, y: .0829845294, z: -5.31178497e-17}
+      rotation: {x: 2.98023153e-08, y: 2.98023153e-08, z: 1.19209261e-07, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_HAIR_MUSA_04
+      position: {x: -.00122689246, y: .0533860289, z: -4.12853983e-17}
+      rotation: {x: 2.98023188e-08, y: 2.98023188e-08, z: -5.96046377e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_HAIR_MUSA_05
+      position: {x: .0541365519, y: .0553509705, z: -5.51092374e-17}
+      rotation: {x: -5.96046306e-08, y: -5.96046306e-08, z: -2.98023153e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_HAIR_MUSA_06
+      position: {x: .121332489, y: .025010258, z: -4.64126244e-17}
+      rotation: {x: 2.98023153e-08, y: 2.98023153e-08, z: 5.96046306e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_HAIR_MUSA_07
+      position: {x: .122496679, y: .0110263145, z: -3.57854777e-17}
+      rotation: {x: 2.98023188e-08, y: 2.98023188e-08, z: -5.96046377e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_HAIR_MUSA_08
+      position: {x: .17271328, y: .00746563124, z: -4.41650159e-17}
+      rotation: {x: -5.96046306e-08, y: -5.96046306e-08, z: -2.98023153e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_HAIR_MUSA_09
+      position: {x: .255571127, y: .0250995327, z: -7.62917282e-17}
+      rotation: {x: 2.98023153e-08, y: 2.98023153e-08, z: 1.19209261e-07, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_HAIR_MUSA_10
+      position: {x: .184723958, y: .0265922621, z: -6.17211071e-17}
+      rotation: {x: 2.98023188e-08, y: 2.98023188e-08, z: -5.96046377e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_HAIR_MUSA_12
+      position: {x: .182126865, y: .0244964752, z: -5.95129385e-17}
+      rotation: {x: -5.96046306e-08, y: -5.96046306e-08, z: -2.98023153e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_HAIR_MUSA_e
+      position: {x: .210998535, y: .0201782249, z: -6.25627998e-17}
+      rotation: {x: 2.98023153e-08, y: 2.98023153e-08, z: 5.96046306e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_R_01
+      position: {x: -.057353165, y: .00764505705, z: .112846002}
+      rotation: {x: 2.98023188e-08, y: 2.98023188e-08, z: -5.96046377e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_R_02
+      position: {x: .0682212785, y: -.0225081556, z: -1.7763568e-17}
+      rotation: {x: -5.96046306e-08, y: -5.96046306e-08, z: -2.98023153e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_R_03
+      position: {x: .0653154179, y: -.0362092853, z: .0166030005}
+      rotation: {x: 2.98023153e-08, y: 2.98023153e-08, z: 1.19209261e-07, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_R_04
+      position: {x: .0846483409, y: -.00662754523, z: .00293700001}
+      rotation: {x: 2.98023188e-08, y: 2.98023188e-08, z: -5.96046377e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_R_05
+      position: {x: .0795085877, y: .0107539874, z: -.0291339979}
+      rotation: {x: -5.96046306e-08, y: -5.96046306e-08, z: -2.98023153e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_R_06
+      position: {x: .0533511639, y: -.0112095196, z: -.0131270001}
+      rotation: {x: 2.98023153e-08, y: 2.98023153e-08, z: 5.96046306e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_TIME_SIDEBURN_MUSA_R_e
+      position: {x: .0550242551, y: .00339351199, z: .0188909993}
+      rotation: {x: 2.98023188e-08, y: 2.98023188e-08, z: -5.96046377e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lClavicleJ
+      position: {x: -.0321197845, y: -.00509706326, z: -.0329692923}
+      rotation: {x: -.60685271, y: .536828578, z: -.409009248, w: -.419828862}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Bloom_New_SH_lShoulderJ
+      position: {x: -.0736235455, y: 0, z: -1.7763568e-17}
+      rotation: {x: .0179590955, y: .161781251, z: .0538200513, w: .985194266}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Bloom_New_SH_lElbowJ
+      position: {x: -.286514729, y: 1.42108544e-16, z: 5.83977283e-16}
+      rotation: {x: .0230321903, y: .0343956389, z: -.0103546232, w: .999089181}
+      scale: {x: .99999994, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lForearmJ
+      position: {x: -.119632736, y: 5.68434176e-16, z: 2.04281027e-16}
+      rotation: {x: 2.64135178e-06, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lWristJ
+      position: {x: -.239265472, y: 7.10542693e-16, z: 5.50670624e-16}
+      rotation: {x: -.0175383203, y: -.01727047, z: -.0153714567, w: .999578834}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lPalmJ
+      position: {x: -.0387445353, y: -.0038593912, z: .00506036729}
+      rotation: {x: 3.91155481e-08, y: 2.88709998e-08, z: -2.75904313e-08, w: 1}
+      scale: {x: .999999821, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger1J1
+      position: {x: -.0373619869, y: .00708665187, z: .0193799585}
+      rotation: {x: .0442277081, y: .048836194, z: -.0151229193, w: .997712493}
+      scale: {x: .999999821, y: .999999702, z: .999999881}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger1J2
+      position: {x: -.0299096014, y: 9.94759834e-16, z: 1.33226755e-16}
+      rotation: {x: -4.470348e-08, y: -7.20610771e-08, z: 5.84404845e-08, w: 1}
+      scale: {x: 1, y: 1.00000012, z: .999999762}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger1J3
+      position: {x: -.0260666031, y: 4.26325632e-16, z: 1.86517462e-16}
+      rotation: {x: 3.35276091e-08, y: -7.68341035e-09, z: -.0122310147, w: .999925196}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger1JTip
+      position: {x: -.0211493615, y: 2.84217088e-16, z: 1.1546319e-16}
+      rotation: {x: -2.23517365e-08, y: 3.72528941e-09, z: -6.29224672e-08, w: 1}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger2J1
+      position: {x: -.0368497334, y: .00516478624, z: .00103607262}
+      rotation: {x: -.0132105537, y: .00240430981, z: -.0277017429, w: .999526024}
+      scale: {x: 1, y: .999999762, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger2J2
+      position: {x: -.0361927748, y: -1.42108544e-16, z: 7.1054272e-17}
+      rotation: {x: 2.04890966e-08, y: -7.17118382e-08, z: -5.96046448e-08, w: 1}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger2J3
+      position: {x: -.0283284131, y: 5.68434176e-16, z: -1.77635673e-16}
+      rotation: {x: 3.8882721e-08, y: 1.27707622e-07, z: -.0411928222, w: .99915123}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger2JTip
+      position: {x: -.0221946687, y: -2.84217088e-16, z: 1.24344979e-16}
+      rotation: {x: 3.7252903e-08, y: 3.44589353e-08, z: 3.30619514e-08, w: 1}
+      scale: {x: .99999994, y: 1.00000012, z: .999999762}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger3J1
+      position: {x: -.0334992148, y: .0030697959, z: -.0163869169}
+      rotation: {x: -.0325868167, y: -.0395145454, z: -.0152187776, w: .998571575}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger3J2
+      position: {x: -.0319443718, y: 5.68434176e-16, z: -6.21724896e-17}
+      rotation: {x: 4.47034836e-08, y: -7.91624188e-08, z: -.00929730758, w: .999956846}
+      scale: {x: .999999762, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger3J3
+      position: {x: -.0242987722, y: -1.13686835e-15, z: -5.3290704e-17}
+      rotation: {x: -2.79396737e-08, y: 1.30385143e-08, z: -.0279726423, w: .999608755}
+      scale: {x: 1.00000024, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger3JTip
+      position: {x: -.0204879642, y: -1.42108544e-16, z: -4.44089183e-17}
+      rotation: {x: 1.86264471e-09, y: 6.23985983e-08, z: -2.81142931e-08, w: 1}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger4J1
+      position: {x: -.0248483252, y: -.0013322538, z: -.0292472951}
+      rotation: {x: -.130021423, y: -.0371064395, z: -.00612522103, w: .990797698}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger4J2
+      position: {x: -.0279895179, y: -7.10542693e-16, z: -1.06581408e-16}
+      rotation: {x: -1.86264533e-08, y: -4.09781968e-08, z: -.019640388, w: .999807119}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger4J3
+      position: {x: -.0208784249, y: 5.68434176e-16, z: -3.5527136e-17}
+      rotation: {x: -.0133372424, y: -.00428183284, z: -.0407129973, w: .999072671}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger4JTip
+      position: {x: -.0180976503, y: -7.10542693e-16, z: 1.77635673e-16}
+      rotation: {x: 0, y: 5.0291419e-08, z: -2.51457095e-08, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lThumbJ1
+      position: {x: -.0161864832, y: -.00619611563, z: .0210739113}
+      rotation: {x: .468709022, y: .373207361, z: -.112352401, w: .792720079}
+      scale: {x: .999999762, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lThumbJ2
+      position: {x: -.0314914584, y: .00165774755, z: -.00234332611}
+      rotation: {x: -.0533403046, y: -.0564789362, z: .00528594712, w: .996963859}
+      scale: {x: 1.00000012, y: .999999762, z: 1.00000024}
+      transformModified: 1
+    - name: Bloom_New_SH_lThumbJ3
+      position: {x: -.0320124775, y: 8.52651264e-16, z: 0}
+      rotation: {x: -.0407605171, y: .0185121056, z: -.0321639888, w: .998479605}
+      scale: {x: .999999881, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Bloom_New_SH_lThumbJTip
+      position: {x: -.026252985, y: 4.26325632e-16, z: 2.13162816e-16}
+      rotation: {x: -.0299245566, y: -.706473231, z: .0299246386, w: .706473351}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1.00000024}
+      transformModified: 1
+    - name: Bloom_New_SH_rClavicleJ
+      position: {x: -.0321197845, y: -.00509706326, z: .0329692923}
+      rotation: {x: -.536828518, y: -.606852651, z: -.419828892, w: .409009337}
+      scale: {x: .999999881, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: Bloom_New_SH_rShoulderJ
+      position: {x: .0736235455, y: 0, z: 1.02140514e-16}
+      rotation: {x: .0179590546, y: .161781102, z: .0538201183, w: .985194266}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_rElbowJ
+      position: {x: .286514729, y: -2.84217088e-16, z: -8.6153304e-16}
+      rotation: {x: .0230321605, y: .034395773, z: -.0103546884, w: .999089241}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Bloom_New_SH_rForearmJ
+      position: {x: .119632736, y: 1.42108544e-16, z: -3.55271347e-16}
+      rotation: {x: 7.9051739e-07, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rWristJ
+      position: {x: .239265472, y: -4.26325632e-16, z: -9.14823747e-16}
+      rotation: {x: -.0175382514, y: -.01727047, z: -.0153715592, w: .999578834}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rPalmJ
+      position: {x: .0387445353, y: .0038593912, z: -.00506036729}
+      rotation: {x: 9.31322486e-09, y: -2.60770285e-08, z: -2.98023188e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger1J1
+      position: {x: .0373619869, y: -.00708665187, z: -.0193799585}
+      rotation: {x: -.997712493, y: .0151228588, z: .0488361679, w: .0442277528}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger1J2
+      position: {x: .0299096014, y: 8.52651264e-16, z: 2.6645352e-17}
+      rotation: {x: -2.60770285e-08, y: -1.93249416e-08, z: 3.49245921e-09, w: 1}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger1J3
+      position: {x: .0260666031, y: 4.26325632e-16, z: 2.22044605e-16}
+      rotation: {x: -4.47034836e-08, y: 1.44354999e-08, z: .0122310566, w: .999925256}
+      scale: {x: .999999762, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger1JTip
+      position: {x: .0211493615, y: 1.42108544e-16, z: 1.42108544e-16}
+      rotation: {x: 2.60770268e-08, y: -3.95811988e-08, z: 1.19442092e-07, w: 1}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger2J1
+      position: {x: .0368497334, y: -.00516478624, z: -.00103607262}
+      rotation: {x: -.999526024, y: .0277017616, z: .00240429468, w: -.0132105071}
+      scale: {x: .999999881, y: .999999762, z: .999999702}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger2J2
+      position: {x: .0361927748, y: -4.26325632e-16, z: 2.6645351e-16}
+      rotation: {x: -7.07805157e-08, y: 5.68106771e-08, z: 3.51574272e-08, w: 1}
+      scale: {x: 1, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger2J3
+      position: {x: .0283284131, y: 1.42108544e-16, z: -1.77635673e-16}
+      rotation: {x: 1.01979822e-07, y: -2.32481398e-07, z: .0411960967, w: .999151111}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger2JTip
+      position: {x: .0221946687, y: 1.42108544e-16, z: 5.3290704e-17}
+      rotation: {x: 1.30385143e-08, y: -6.51925731e-08, z: -6.18165288e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger3J1
+      position: {x: .0334992148, y: -.0030697959, z: .0163869169}
+      rotation: {x: -.998571515, y: .0152198263, z: -.0395143889, w: -.0325869881}
+      scale: {x: .999999881, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger3J2
+      position: {x: .0319443718, y: 9.94759834e-16, z: -6.21724896e-17}
+      rotation: {x: 2.235174e-08, y: -1.76951271e-08, z: .00929742213, w: .999956846}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger3J3
+      position: {x: .0242987722, y: -1.27897687e-15, z: 3.5527136e-17}
+      rotation: {x: -8.38190104e-08, y: 5.07570697e-08, z: .0279725492, w: .999608696}
+      scale: {x: .999999881, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger3JTip
+      position: {x: .0204879642, y: 2.84217088e-16, z: -9.76996256e-17}
+      rotation: {x: 3.16649533e-08, y: 6.9849162e-09, z: -2.8463532e-08, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger4J1
+      position: {x: .0248483252, y: .0013322538, z: .0292472951}
+      rotation: {x: -.990797698, y: .00612572907, z: -.0371062905, w: -.130021378}
+      scale: {x: 1.00000012, y: .999999285, z: .999999523}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger4J2
+      position: {x: .0279895179, y: -1.42108544e-16, z: 1.77635673e-16}
+      rotation: {x: -1.19209275e-07, y: 1.117587e-08, z: .0196403135, w: .999807179}
+      scale: {x: .999999881, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger4J3
+      position: {x: .0208784249, y: 5.68434176e-16, z: 7.1054272e-17}
+      rotation: {x: -.0133370254, y: .00428194599, z: .0407133438, w: .999072731}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger4JTip
+      position: {x: .0180976503, y: 0, z: 1.42108544e-16}
+      rotation: {x: -2.23517365e-08, y: 7.63684298e-08, z: 3.81842149e-08, w: 1}
+      scale: {x: .99999994, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Bloom_New_SH_rThumbJ1
+      position: {x: .0161864832, y: .00619611563, z: -.0210739113}
+      rotation: {x: -.369287848, y: .369396031, z: -.845212877, w: -.11308527}
+      scale: {x: 1, y: 1, z: .999999762}
+      transformModified: 1
+    - name: Bloom_New_SH_rThumbJ2
+      position: {x: -.0316220075, y: 1.42108544e-16, z: 4.97379917e-16}
+      rotation: {x: .0580052063, y: .0274123773, z: .0282795988, w: .997539103}
+      scale: {x: .99999994, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Bloom_New_SH_rThumbJ3
+      position: {x: -.0320124775, y: 2.84217088e-16, z: 2.13162816e-16}
+      rotation: {x: -.0690804273, y: -.0218871459, z: -.0299675241, w: .996920705}
+      scale: {x: .999999881, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_rThumbJTip
+      position: {x: -.026252985, y: -2.84217088e-16, z: 0}
+      rotation: {x: .0303950701, y: -.706453264, z: -.0303947367, w: .706453204}
+      scale: {x: .999999881, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Bloom_New_SH_lHipJ
+      position: {x: -.0674666986, y: -.0319315419, z: -.0154921608}
+      rotation: {x: .451793939, y: .543012917, z: .45847553, w: .539276838}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lKneeJ
+      position: {x: -.40830797, y: -1.83533188e-13, z: 1.50990333e-16}
+      rotation: {x: -1.49011612e-08, y: -2.98023224e-08, z: .167616621, w: .985852301}
+      scale: {x: .999999821, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Bloom_New_SH_lAnkleJ
+      position: {x: -.538361371, y: -5.36699685e-10, z: -1.06581408e-16}
+      rotation: {x: -.155900493, y: -.0292187147, z: -.30835703, w: .93795377}
+      scale: {x: .999999821, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Bloom_New_SH_lBallJ
+      position: {x: -.187469319, y: -1.86879845e-10, z: 1.23794302e-12}
+      rotation: {x: 5.96046377e-08, y: -2.37574085e-07, z: -.523476779, w: .852039874}
+      scale: {x: 1.00000012, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_lToeJ
+      position: {x: -.0682481304, y: -6.80335371e-11, z: 7.2808426e-13}
+      rotation: {x: 5.08242124e-08, y: -.585210919, z: 3.48024614e-08, w: .810881138}
+      scale: {x: 1.00000024, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Bloom_New_SH_rHipJ
+      position: {x: .0674666986, y: -.0319315419, z: -.0154921608}
+      rotation: {x: .539276898, y: -.458475471, z: .543012977, w: -.451793879}
+      scale: {x: .999999821, y: .999999762, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rKneeJ
+      position: {x: .40830797, y: 1.33661926e-09, z: 8.88178367e-17}
+      rotation: {x: 2.98023224e-08, y: 4.47034836e-08, z: -.167616725, w: -.985852301}
+      scale: {x: .999999762, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_rAnkleJ
+      position: {x: .538361371, y: 1.44734402e-09, z: -4.44089183e-17}
+      rotation: {x: .155900493, y: .0292189382, z: .308356911, w: -.93795383}
+      scale: {x: 1.00000024, y: 1.00000048, z: 1.00000036}
+      transformModified: 1
+    - name: Bloom_New_SH_rBallJ
+      position: {x: .187469319, y: 5.03967756e-10, z: -3.33822748e-12}
+      rotation: {x: -1.4828133e-07, y: -5.96046306e-08, z: -.523476958, w: .852039814}
+      scale: {x: .999999881, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    - name: Bloom_New_SH_rToeJ
+      position: {x: .0682481304, y: 1.83469212e-10, z: -1.95532479e-12}
+      rotation: {x: -2.8420903e-08, y: .810881078, z: 6.02203514e-08, w: .585210979}
+      scale: {x: 1.00000024, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: OUTFITS_TIME
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Musa_Time
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

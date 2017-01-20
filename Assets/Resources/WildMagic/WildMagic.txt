@@ -1,0 +1,164 @@
+<Row>
+</Row>
+<Row>
+</Row>
+<Row>
+	<Cell/>
+	<Cell><Data>per sec</Data></Cell>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>ID</Data></Cell>
+	<Cell><Data>Value</Data></Cell>
+	<Cell><Data>Population Bonus</Data></Cell>
+	<Cell><Data>Description</Data></Cell>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>WILD_MAGIC_RATE_MAX</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Max wild magic rate of increase / decrease</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WILD_MAGIC_RATE_MIN</Data></Cell>
+	<Cell><Data>-10</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Min wild magic rate of increase / decrease</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WILD_MAGIC_RATE_INTERVAL</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>WMR bonus/penalty applied every 'x' seconds</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WILD_MAGIC_RATE_SAVE_INTERVAL</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>How many WMR intervals between saves</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>ENEMIES_WM_BOSS_ACTIVE</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Num enemies appearing in a puzzle sub-room</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>ENEMIES_WM_STRONG</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>(WM: -100 | -  51)   Num enemies appearing in a puzzle sub-room</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>ENEMIES_WM_MEDIUM</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>(WM: - 50 |       0) Num enemies appearing in a puzzle sub-room</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>ENEMIES_WM_MILD</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>(WM:    0  |     50) Num enemies appearing in a puzzle sub-room</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>ENEMIES_WM_WEAK</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>(WM:   51  |  100) Num enemies appearing in a puzzle sub-room</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>ENEMIES_WM_BOSS_DEAD</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Num enemies appearing in a puzzle sub-room</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DURATION_WM_OFF</Data></Cell>
+	<Cell><Data>60</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Boss dead: no enemies for 'x' seconds</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WM_RATE_DEFAULT</Data></Cell>
+	<Cell><Data>-0.001</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Constant -ve rate applied during game (-0.012 / minute)</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WM_RATE_COLLECT_GEM</Data></Cell>
+	<Cell><Data>0.5</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>Rate change (increment) and population bonus</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WM_RATE_COLLECT_KEY</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>10000</Data></Cell>
+	<Cell><Data>Rate change (increment) and population bonus</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WM_RATE_KILL_ENEMY</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+	<Cell><Data>Rate change (increment) and population bonus</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WM_RATE_BOSS_FIGHT_WIN_FIRST</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>50000</Data></Cell>
+	<Cell><Data>Rate change (increment) and population bonus</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WM_RATE_BOSS_FIGHT_WIN_DEFAULT</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>100000</Data></Cell>
+	<Cell><Data>Rate change (increment) and population bonus</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WM_RATE_LOSE_LIFE</Data></Cell>
+	<Cell><Data>0.2</Data></Cell>
+	<Cell><Data>-100</Data></Cell>
+	<Cell><Data>Rate change (decrement) and population penalty</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WM_RATE_DIE</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>-1000</Data></Cell>
+	<Cell><Data>Rate change (decrement) and population penalty</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WM_RATE_ENEMY_EATS_GEM</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>-100</Data></Cell>
+	<Cell><Data>Rate change (decrement) and population penalty</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WM_RATE_BOSS_APPEARS</Data></Cell>
+	<Cell><Data>-25</Data></Cell>
+	<Cell><Data>-10000</Data></Cell>
+	<Cell><Data>Rate change (increment) and population bonus</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>WM_RATE_BOSS_FIGHT_FAIL</Data></Cell>
+	<Cell><Data>-10</Data></Cell>
+	<Cell><Data>-49000</Data></Cell>
+	<Cell><Data>Rate change (increment) and population bonus</Data></Cell>
+</Row>
+</Table>
+</Workbook>

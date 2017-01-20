@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: fa48824e2247dd1449289033583427fb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ShelfBooks_1
+    100004: ShelfBooks_2
+    100006: ShelfBooks_3a
+    100008: ShelfBooks_3b
+    100010: WallShelf_1
+    100012: WallShelf_2
+    100014: WallShelf_3
+    100016: ShelfBooks_0
+    100018: WallShelf_0
+    400000: //RootNode
+    400002: ShelfBooks_1
+    400004: ShelfBooks_2
+    400006: ShelfBooks_3a
+    400008: ShelfBooks_3b
+    400010: WallShelf_1
+    400012: WallShelf_2
+    400014: WallShelf_3
+    400016: ShelfBooks_0
+    400018: WallShelf_0
+    2300000: ShelfBooks_1
+    2300002: ShelfBooks_2
+    2300004: ShelfBooks_3a
+    2300006: ShelfBooks_3b
+    2300008: WallShelf_1
+    2300010: WallShelf_2
+    2300012: WallShelf_3
+    2300014: ShelfBooks_0
+    2300016: WallShelf_0
+    3300000: ShelfBooks_1
+    3300002: ShelfBooks_2
+    3300004: ShelfBooks_3a
+    3300006: ShelfBooks_3b
+    3300008: WallShelf_1
+    3300010: WallShelf_2
+    3300012: WallShelf_3
+    3300014: ShelfBooks_0
+    3300016: WallShelf_0
+    4300000: ShelfBooks_3b
+    4300002: WallShelf_3
+    4300004: ShelfBooks_3a
+    4300006: WallShelf_2
+    4300008: ShelfBooks_2
+    4300010: WallShelf_1
+    4300012: ShelfBooks_1
+    4300014: WallShelf_0
+    4300016: ShelfBooks_0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

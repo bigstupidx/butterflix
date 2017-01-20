@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: e0aaa1b5bf116d64eb53bf67442c847b
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bloom
+    100002: //RootNode
+    100004: Bloom_LeftEye
+    100006: Bloom_New
+    100008: Bloom_New_MainC
+    100010: Bloom_New_MainHipC
+    100012: Bloom_New_MainHipCG
+    100014: Bloom_New_ROOTJ
+    100016: Bloom_New_SH_HeadJ
+    100018: Bloom_New_SH_HeadTipJ
+    100020: Bloom_New_SH_JawJ
+    100022: Bloom_New_SH_JawTipJ
+    100024: Bloom_New_SH_lAnkleJ
+    100026: Bloom_New_SH_lBallJ
+    100028: Bloom_New_SH_lClavicleJ
+    100030: Bloom_New_SH_lElbowJ
+    100032: Bloom_New_SH_lFinger1J1
+    100034: Bloom_New_SH_lFinger1J2
+    100036: Bloom_New_SH_lFinger1J3
+    100038: Bloom_New_SH_lFinger1JTip
+    100040: Bloom_New_SH_lFinger2J1
+    100042: Bloom_New_SH_lFinger2J2
+    100044: Bloom_New_SH_lFinger2J3
+    100046: Bloom_New_SH_lFinger2JTip
+    100048: Bloom_New_SH_lFinger3J1
+    100050: Bloom_New_SH_lFinger3J2
+    100052: Bloom_New_SH_lFinger3J3
+    100054: Bloom_New_SH_lFinger3JTip
+    100056: Bloom_New_SH_lFinger4J1
+    100058: Bloom_New_SH_lFinger4J2
+    100060: Bloom_New_SH_lFinger4J3
+    100062: Bloom_New_SH_lFinger4JTip
+    100064: Bloom_New_SH_lForearmJ
+    100066: Bloom_New_SH_lHipJ
+    100068: Bloom_New_SH_lKneeJ
+    100070: Bloom_New_SH_lPalmJ
+    100072: Bloom_New_SH_lShoulderJ
+    100074: Bloom_New_SH_lThumbJ1
+    100076: Bloom_New_SH_lThumbJ2
+    100078: Bloom_New_SH_lThumbJ3
+    100080: Bloom_New_SH_lThumbJTip
+    100082: Bloom_New_SH_lToeJ
+    100084: Bloom_New_SH_lWristJ
+    100086: Bloom_New_SH_Neck01J
+    100088: Bloom_New_SH_Neck02J
+    100090: Bloom_New_SH_Neck03J
+    100092: Bloom_New_SH_rAnkleJ
+    100094: Bloom_New_SH_rBallJ
+    100096: Bloom_New_SH_rClavicleJ
+    100098: Bloom_New_SH_rElbowJ
+    100100: Bloom_New_SH_rFinger1J1
+    100102: Bloom_New_SH_rFinger1J2
+    100104: Bloom_New_SH_rFinger1J3
+    100106: Bloom_New_SH_rFinger1JTip
+    100108: Bloom_New_SH_rFinger2J1
+    100110: Bloom_New_SH_rFinger2J2
+    100112: Bloom_New_SH_rFinger2J3
+    100114: Bloom_New_SH_rFinger2JTip
+    100116: Bloom_New_SH_rFinger3J1
+    100118: Bloom_New_SH_rFinger3J2
+    100120: Bloom_New_SH_rFinger3J3
+    100122: Bloom_New_SH_rFinger3JTip
+    100124: Bloom_New_SH_rFinger4J1
+    100126: Bloom_New_SH_rFinger4J2
+    100128: Bloom_New_SH_rFinger4J3
+    100130: Bloom_New_SH_rFinger4JTip
+    100132: Bloom_New_SH_rForearmJ
+    100134: Bloom_New_SH_rHipJ
+    100136: Bloom_New_SH_rKneeJ
+    100138: Bloom_New_SH_ROOTJ
+    100140: Bloom_New_SH_rPalmJ
+    100142: Bloom_New_SH_rShoulderJ
+    100144: Bloom_New_SH_rThumbJ1
+    100146: Bloom_New_SH_rThumbJ2
+    100148: Bloom_New_SH_rThumbJ3
+    100150: Bloom_New_SH_rThumbJTip
+    100152: Bloom_New_SH_rToeJ
+    100154: Bloom_New_SH_rWristJ
+    100156: Bloom_New_SH_Spine01J
+    100158: Bloom_New_SH_Spine02J
+    100160: Bloom_New_SH_Spine03J
+    100162: Bloom_New_SH_SpineTopJ
+    100164: Bloom_RightEye
+    100166: eyebrow
+    100168: eyecorner_l
+    100170: eyecorner_r
+    100172: eyeedge_l
+    100174: eyeedge_r
+    100176: eyelid_l
+    100178: eyelid_r
+    100180: eyelidlower_l
+    100182: eyelidlower_r
+    100184: Hair_L_Bangs
+    100186: Hair_Ponytail
+    100188: Hair_R_Bangs
+    100190: joint10
+    100192: joint11
+    100194: joint14
+    100196: joint15
+    100198: joint16
+    100200: joint19
+    100202: joint2
+    100204: joint20
+    100206: joint21
+    100208: joint25
+    100210: joint25 1
+    100212: joint26
+    100214: joint28
+    100216: joint28 1
+    100218: joint28 2
+    100220: joint28 3
+    100222: joint3
+    100224: joint31
+    100226: joint33
+    100228: joint35
+    100230: joint37
+    100232: joint37 1
+    100234: joint39
+    100236: joint4
+    100238: joint41
+    100240: joint41 1
+    100242: joint43
+    100244: joint43 1
+    100246: joint5
+    100248: joint6
+    100250: joint7
+    100252: joint8
+    100254: joint9
+    100256: Mouthedge_l
+    100258: Mouthedge_r
+    100260: Skirt_l
+    100262: Skirt_r
+    400000: Bloom
+    400002: //RootNode
+    400004: Bloom_LeftEye
+    400006: Bloom_New
+    400008: Bloom_New_MainC
+    400010: Bloom_New_MainHipC
+    400012: Bloom_New_MainHipCG
+    400014: Bloom_New_ROOTJ
+    400016: Bloom_New_SH_HeadJ
+    400018: Bloom_New_SH_HeadTipJ
+    400020: Bloom_New_SH_JawJ
+    400022: Bloom_New_SH_JawTipJ
+    400024: Bloom_New_SH_lAnkleJ
+    400026: Bloom_New_SH_lBallJ
+    400028: Bloom_New_SH_lClavicleJ
+    400030: Bloom_New_SH_lElbowJ
+    400032: Bloom_New_SH_lFinger1J1
+    400034: Bloom_New_SH_lFinger1J2
+    400036: Bloom_New_SH_lFinger1J3
+    400038: Bloom_New_SH_lFinger1JTip
+    400040: Bloom_New_SH_lFinger2J1
+    400042: Bloom_New_SH_lFinger2J2
+    400044: Bloom_New_SH_lFinger2J3
+    400046: Bloom_New_SH_lFinger2JTip
+    400048: Bloom_New_SH_lFinger3J1
+    400050: Bloom_New_SH_lFinger3J2
+    400052: Bloom_New_SH_lFinger3J3
+    400054: Bloom_New_SH_lFinger3JTip
+    400056: Bloom_New_SH_lFinger4J1
+    400058: Bloom_New_SH_lFinger4J2
+    400060: Bloom_New_SH_lFinger4J3
+    400062: Bloom_New_SH_lFinger4JTip
+    400064: Bloom_New_SH_lForearmJ
+    400066: Bloom_New_SH_lHipJ
+    400068: Bloom_New_SH_lKneeJ
+    400070: Bloom_New_SH_lPalmJ
+    400072: Bloom_New_SH_lShoulderJ
+    400074: Bloom_New_SH_lThumbJ1
+    400076: Bloom_New_SH_lThumbJ2
+    400078: Bloom_New_SH_lThumbJ3
+    400080: Bloom_New_SH_lThumbJTip
+    400082: Bloom_New_SH_lToeJ
+    400084: Bloom_New_SH_lWristJ
+    400086: Bloom_New_SH_Neck01J
+    400088: Bloom_New_SH_Neck02J
+    400090: Bloom_New_SH_Neck03J
+    400092: Bloom_New_SH_rAnkleJ
+    400094: Bloom_New_SH_rBallJ
+    400096: Bloom_New_SH_rClavicleJ
+    400098: Bloom_New_SH_rElbowJ
+    400100: Bloom_New_SH_rFinger1J1
+    400102: Bloom_New_SH_rFinger1J2
+    400104: Bloom_New_SH_rFinger1J3
+    400106: Bloom_New_SH_rFinger1JTip
+    400108: Bloom_New_SH_rFinger2J1
+    400110: Bloom_New_SH_rFinger2J2
+    400112: Bloom_New_SH_rFinger2J3
+    400114: Bloom_New_SH_rFinger2JTip
+    400116: Bloom_New_SH_rFinger3J1
+    400118: Bloom_New_SH_rFinger3J2
+    400120: Bloom_New_SH_rFinger3J3
+    400122: Bloom_New_SH_rFinger3JTip
+    400124: Bloom_New_SH_rFinger4J1
+    400126: Bloom_New_SH_rFinger4J2
+    400128: Bloom_New_SH_rFinger4J3
+    400130: Bloom_New_SH_rFinger4JTip
+    400132: Bloom_New_SH_rForearmJ
+    400134: Bloom_New_SH_rHipJ
+    400136: Bloom_New_SH_rKneeJ
+    400138: Bloom_New_SH_ROOTJ
+    400140: Bloom_New_SH_rPalmJ
+    400142: Bloom_New_SH_rShoulderJ
+    400144: Bloom_New_SH_rThumbJ1
+    400146: Bloom_New_SH_rThumbJ2
+    400148: Bloom_New_SH_rThumbJ3
+    400150: Bloom_New_SH_rThumbJTip
+    400152: Bloom_New_SH_rToeJ
+    400154: Bloom_New_SH_rWristJ
+    400156: Bloom_New_SH_Spine01J
+    400158: Bloom_New_SH_Spine02J
+    400160: Bloom_New_SH_Spine03J
+    400162: Bloom_New_SH_SpineTopJ
+    400164: Bloom_RightEye
+    400166: eyebrow
+    400168: eyecorner_l
+    400170: eyecorner_r
+    400172: eyeedge_l
+    400174: eyeedge_r
+    400176: eyelid_l
+    400178: eyelid_r
+    400180: eyelidlower_l
+    400182: eyelidlower_r
+    400184: Hair_L_Bangs
+    400186: Hair_Ponytail
+    400188: Hair_R_Bangs
+    400190: joint10
+    400192: joint11
+    400194: joint14
+    400196: joint15
+    400198: joint16
+    400200: joint19
+    400202: joint2
+    400204: joint20
+    400206: joint21
+    400208: joint25
+    400210: joint25 1
+    400212: joint26
+    400214: joint28
+    400216: joint28 1
+    400218: joint28 2
+    400220: joint28 3
+    400222: joint3
+    400224: joint31
+    400226: joint33
+    400228: joint35
+    400230: joint37
+    400232: joint37 1
+    400234: joint39
+    400236: joint4
+    400238: joint41
+    400240: joint41 1
+    400242: joint43
+    400244: joint43 1
+    400246: joint5
+    400248: joint6
+    400250: joint7
+    400252: joint8
+    400254: joint9
+    400256: Mouthedge_l
+    400258: Mouthedge_r
+    400260: Skirt_l
+    400262: Skirt_r
+    4300000: Bloom
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Bloom
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bloom:Bloom
+        weight: 0
+      - path: Bloom:Bloom_New
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_MainHipCG
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_MainHipCG/Bloom:Bloom_New_MainHipC
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_ROOTJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_lHipJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_lHipJ/Bloom:Bloom_New_SH_lKneeJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_lHipJ/Bloom:Bloom_New_SH_lKneeJ/Bloom:Bloom_New_SH_lAnkleJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_lHipJ/Bloom:Bloom_New_SH_lKneeJ/Bloom:Bloom_New_SH_lAnkleJ/Bloom:Bloom_New_SH_lBallJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_lHipJ/Bloom:Bloom_New_SH_lKneeJ/Bloom:Bloom_New_SH_lAnkleJ/Bloom:Bloom_New_SH_lBallJ/Bloom:Bloom_New_SH_lToeJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_lHipJ/Bloom:Skirt_l
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_lHipJ/Bloom:Skirt_l/Bloom:joint43
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_rHipJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_rHipJ/Bloom:Bloom_New_SH_rKneeJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_rHipJ/Bloom:Bloom_New_SH_rKneeJ/Bloom:Bloom_New_SH_rAnkleJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_rHipJ/Bloom:Bloom_New_SH_rKneeJ/Bloom:Bloom_New_SH_rAnkleJ/Bloom:Bloom_New_SH_rBallJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_rHipJ/Bloom:Bloom_New_SH_rKneeJ/Bloom:Bloom_New_SH_rAnkleJ/Bloom:Bloom_New_SH_rBallJ/Bloom:Bloom_New_SH_rToeJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_rHipJ/Bloom:Skirt_r
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_rHipJ/Bloom:Skirt_r/Bloom:joint43
+          1
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lForearmJ
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger1J1
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger1J1/Bloom:Bloom_New_SH_lFinger1J2
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger1J1/Bloom:Bloom_New_SH_lFinger1J2/Bloom:Bloom_New_SH_lFinger1J3
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger1J1/Bloom:Bloom_New_SH_lFinger1J2/Bloom:Bloom_New_SH_lFinger1J3/Bloom:Bloom_New_SH_lFinger1JTip
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger2J1
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger2J1/Bloom:Bloom_New_SH_lFinger2J2
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger2J1/Bloom:Bloom_New_SH_lFinger2J2/Bloom:Bloom_New_SH_lFinger2J3
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger2J1/Bloom:Bloom_New_SH_lFinger2J2/Bloom:Bloom_New_SH_lFinger2J3/Bloom:Bloom_New_SH_lFinger2JTip
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger3J1
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger3J1/Bloom:Bloom_New_SH_lFinger3J2
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger3J1/Bloom:Bloom_New_SH_lFinger3J2/Bloom:Bloom_New_SH_lFinger3J3
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger3J1/Bloom:Bloom_New_SH_lFinger3J2/Bloom:Bloom_New_SH_lFinger3J3/Bloom:Bloom_New_SH_lFinger3JTip
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger4J1
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger4J1/Bloom:Bloom_New_SH_lFinger4J2
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger4J1/Bloom:Bloom_New_SH_lFinger4J2/Bloom:Bloom_New_SH_lFinger4J3
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lPalmJ/Bloom:Bloom_New_SH_lFinger4J1/Bloom:Bloom_New_SH_lFinger4J2/Bloom:Bloom_New_SH_lFinger4J3/Bloom:Bloom_New_SH_lFinger4JTip
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lThumbJ1
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lThumbJ1/Bloom:Bloom_New_SH_lThumbJ2
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lThumbJ1/Bloom:Bloom_New_SH_lThumbJ2/Bloom:Bloom_New_SH_lThumbJ3
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_lClavicleJ/Bloom:Bloom_New_SH_lShoulderJ/Bloom:Bloom_New_SH_lElbowJ/Bloom:Bloom_New_SH_lWristJ/Bloom:Bloom_New_SH_lThumbJ1/Bloom:Bloom_New_SH_lThumbJ2/Bloom:Bloom_New_SH_lThumbJ3/Bloom:Bloom_New_SH_lThumbJTip
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Bloom_LeftEye
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Bloom_LeftEye/Bloom:joint41
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Bloom_New_SH_HeadTipJ
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Bloom_New_SH_JawJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Bloom_New_SH_JawJ/Bloom:Bloom_New_SH_JawTipJ
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Bloom_RightEye
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Bloom_RightEye/Bloom:joint41
+          1
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:eyebrow
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:eyebrow/Bloom:joint39
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_L_Bangs
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_L_Bangs/Bloom:joint14
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_L_Bangs/Bloom:joint14/Bloom:joint15
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_L_Bangs/Bloom:joint14/Bloom:joint15/Bloom:joint16
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_Ponytail
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_Ponytail/Bloom:joint2
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_Ponytail/Bloom:joint2/Bloom:joint3
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_Ponytail/Bloom:joint2/Bloom:joint3/Bloom:joint4
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_Ponytail/Bloom:joint2/Bloom:joint3/Bloom:joint4/Bloom:joint5
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_Ponytail/Bloom:joint2/Bloom:joint3/Bloom:joint4/Bloom:joint5/Bloom:joint6
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_Ponytail/Bloom:joint2/Bloom:joint3/Bloom:joint4/Bloom:joint5/Bloom:joint6/Bloom:joint7
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_Ponytail/Bloom:joint2/Bloom:joint3/Bloom:joint4/Bloom:joint5/Bloom:joint6/Bloom:joint7/Bloom:joint8
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_Ponytail/Bloom:joint2/Bloom:joint3/Bloom:joint4/Bloom:joint5/Bloom:joint6/Bloom:joint7/Bloom:joint8/Bloom:joint9
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_Ponytail/Bloom:joint2/Bloom:joint3/Bloom:joint4/Bloom:joint5/Bloom:joint6/Bloom:joint7/Bloom:joint8/Bloom:joint9/Bloom:joint10
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_Ponytail/Bloom:joint2/Bloom:joint3/Bloom:joint4/Bloom:joint5/Bloom:joint6/Bloom:joint7/Bloom:joint8/Bloom:joint9/Bloom:joint10/Bloom:joint11
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_R_Bangs
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_R_Bangs/Bloom:joint19
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_R_Bangs/Bloom:joint19/Bloom:joint20
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Hair_R_Bangs/Bloom:joint19/Bloom:joint20/Bloom:joint21
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint26
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint26/Bloom:eyecorner_l
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint26/Bloom:eyecorner_l/Bloom:joint28
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint26/Bloom:eyeedge_l
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint26/Bloom:eyeedge_l/Bloom:joint28
+          1
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint26/Bloom:eyelid_l
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint26/Bloom:eyelid_l/Bloom:joint28
+          2
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint26/Bloom:eyelidlower_l
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint26/Bloom:eyelidlower_l/Bloom:joint28
+          3
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint31
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint31/Bloom:eyecorner_r
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint31/Bloom:eyecorner_r/Bloom:joint35
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint31/Bloom:eyeedge_r
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint31/Bloom:eyeedge_r/Bloom:joint33
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint31/Bloom:eyelid_r
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint31/Bloom:eyelid_r/Bloom:joint37
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint31/Bloom:eyelidlower_r
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:joint31/Bloom:eyelidlower_r/Bloom:joint37
+          1
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Mouthedge_l
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Mouthedge_l/Bloom:joint25
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Mouthedge_r
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_Neck01J/Bloom:Bloom_New_SH_Neck02J/Bloom:Bloom_New_SH_Neck03J/Bloom:Bloom_New_SH_HeadJ/Bloom:Mouthedge_r/Bloom:joint25
+          1
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rForearmJ
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger1J1
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger1J1/Bloom:Bloom_New_SH_rFinger1J2
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger1J1/Bloom:Bloom_New_SH_rFinger1J2/Bloom:Bloom_New_SH_rFinger1J3
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger1J1/Bloom:Bloom_New_SH_rFinger1J2/Bloom:Bloom_New_SH_rFinger1J3/Bloom:Bloom_New_SH_rFinger1JTip
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger2J1
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger2J1/Bloom:Bloom_New_SH_rFinger2J2
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger2J1/Bloom:Bloom_New_SH_rFinger2J2/Bloom:Bloom_New_SH_rFinger2J3
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger2J1/Bloom:Bloom_New_SH_rFinger2J2/Bloom:Bloom_New_SH_rFinger2J3/Bloom:Bloom_New_SH_rFinger2JTip
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger3J1
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger3J1/Bloom:Bloom_New_SH_rFinger3J2
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger3J1/Bloom:Bloom_New_SH_rFinger3J2/Bloom:Bloom_New_SH_rFinger3J3
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger3J1/Bloom:Bloom_New_SH_rFinger3J2/Bloom:Bloom_New_SH_rFinger3J3/Bloom:Bloom_New_SH_rFinger3JTip
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger4J1
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger4J1/Bloom:Bloom_New_SH_rFinger4J2
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger4J1/Bloom:Bloom_New_SH_rFinger4J2/Bloom:Bloom_New_SH_rFinger4J3
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rPalmJ/Bloom:Bloom_New_SH_rFinger4J1/Bloom:Bloom_New_SH_rFinger4J2/Bloom:Bloom_New_SH_rFinger4J3/Bloom:Bloom_New_SH_rFinger4JTip
+        weight: 0
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rThumbJ1
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rThumbJ1/Bloom:Bloom_New_SH_rThumbJ2
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rThumbJ1/Bloom:Bloom_New_SH_rThumbJ2/Bloom:Bloom_New_SH_rThumbJ3
+        weight: 1
+      - path: Bloom:Bloom_New/Bloom:Bloom_New_MainC/Bloom:Bloom_New_SH_ROOTJ/Bloom:Bloom_New_SH_Spine01J/Bloom:Bloom_New_SH_Spine02J/Bloom:Bloom_New_SH_Spine03J/Bloom:Bloom_New_SH_SpineTopJ/Bloom:Bloom_New_SH_rClavicleJ/Bloom:Bloom_New_SH_rShoulderJ/Bloom:Bloom_New_SH_rElbowJ/Bloom:Bloom_New_SH_rWristJ/Bloom:Bloom_New_SH_rThumbJ1/Bloom:Bloom_New_SH_rThumbJ2/Bloom:Bloom_New_SH_rThumbJ3/Bloom:Bloom_New_SH_rThumbJTip
+        weight: 0
+      maskType: 1
+      maskSource: {fileID: 101100000, guid: 93a7199bec810f94c9aca8841e66130f, type: 2}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 75
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Bloom_New_SH_ROOTJ
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lHipJ
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rHipJ
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lKneeJ
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rKneeJ
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lAnkleJ
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rAnkleJ
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_Spine02J
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_SpineTopJ
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_Neck01J
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_HeadJ
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lClavicleJ
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rClavicleJ
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lShoulderJ
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rShoulderJ
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lElbowJ
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rElbowJ
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lWristJ
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rWristJ
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lBallJ
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rBallJ
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_JawJ
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lThumbJ1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lThumbJ2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lThumbJ3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger1J1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger1J2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger1J3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger2J1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger2J2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger2J3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger3J1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger3J2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger3J3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger4J1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger4J2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_lFinger4J3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rThumbJ1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rThumbJ2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rThumbJ3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger1J1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger1J2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger1J3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger2J1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger2J2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger2J3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger3J1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger3J2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger3J3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger4J1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger4J2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bloom_New_SH_rFinger4J3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Bloom_DefaultOutfit(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New
+      position: {x: .0108579323, y: .96250701, z: .192185462}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_MainC
+      position: {x: -.0108579323, y: -.96250701, z: -.192185462}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_MainHipCG
+      position: {x: -0, y: 1.1324625, z: .0223094933}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_MainHipC
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_ROOTJ
+      position: {x: -0, y: 1.1324625, z: .0223094933}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_ROOTJ
+      position: {x: -0, y: 1.1324625, z: .0223094933}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lHipJ
+      position: {x: -.0674666986, y: -.0319315419, z: -.0154921608}
+      rotation: {x: .451793969, y: .543012857, z: .45847556, w: .539276779}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Bloom_New_SH_lKneeJ
+      position: {x: -.40830797, y: -1.83533188e-13, z: 1.50990333e-16}
+      rotation: {x: -4.68901291e-08, y: -2.56359911e-09, z: .167616501, w: .985852301}
+      scale: {x: .99999994, y: .99999994, z: .999999464}
+      transformModified: 1
+    - name: Bloom_New_SH_lAnkleJ
+      position: {x: -.538361371, y: -1.40802918e-12, z: -1.06581408e-16}
+      rotation: {x: -.155936047, y: -.0292243659, z: -.308355331, w: .937948287}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000036}
+      transformModified: 1
+    - name: Bloom_New_SH_lBallJ
+      position: {x: -.187469319, y: -4.65654154e-13, z: -1.34541263e-13}
+      rotation: {x: -2.99602654e-08, y: -3.20513038e-08, z: -.523476779, w: .852039993}
+      scale: {x: .99999994, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Bloom_New_SH_lToeJ
+      position: {x: -.0682481304, y: -2.33036615e-12, z: 3.72626027e-11}
+      rotation: {x: 0, y: -.585211158, z: -0, w: .810881019}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skirt_l
+      position: {x: -.0310995802, y: .011844879, z: .0161781255}
+      rotation: {x: .498496503, y: .503305137, z: -.49154982, w: .506521523}
+      scale: {x: .999999881, y: .99999994, z: 1}
+      transformModified: 1
+    - name: joint43
+      position: {x: -0, y: -.183886945, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rHipJ
+      position: {x: .0674666986, y: -.0319315419, z: -.0154921608}
+      rotation: {x: .539276838, y: -.45847553, z: .543012857, w: -.451793939}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Bloom_New_SH_rKneeJ
+      position: {x: .40830797, y: 1.29750533e-09, z: 1.24344979e-16}
+      rotation: {x: 4.7027978e-08, y: -5.1359514e-08, z: -.167616546, w: -.985852301}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999702}
+      transformModified: 1
+    - name: Bloom_New_SH_rAnkleJ
+      position: {x: .538361371, y: 1.71073022e-09, z: 1.7763568e-17}
+      rotation: {x: .155935988, y: .0292243473, z: .308355242, w: -.937948287}
+      scale: {x: .999999821, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Bloom_New_SH_rBallJ
+      position: {x: .187469319, y: -2.87551427e-09, z: 1.63709227e-10}
+      rotation: {x: -1.37338114e-08, y: -7.03186345e-08, z: -.523476958, w: .852039874}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rToeJ
+      position: {x: .0682481304, y: -1.04682996e-09, z: -2.31032966e-12}
+      rotation: {x: 8.54859929e-17, y: .810881019, z: -8.54859929e-17, w: .585211158}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skirt_r
+      position: {x: .031099543, y: -.0118448911, z: -.0161743779}
+      rotation: {x: -.503303885, y: .498497814, z: -.506520212, w: -.491551101}
+      scale: {x: 1.00000012, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: joint43 1
+      position: {x: -0, y: -.183886945, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_Spine01J
+      position: {x: -0, y: .055258669, z: .0115558328}
+      rotation: {x: -.0177575927, y: 0, z: -0, w: .999842346}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_Spine02J
+      position: {x: -0, y: .0845503584, z: -.00159855525}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_Spine03J
+      position: {x: -0, y: .0694151297, z: -.0119122015}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_SpineTopJ
+      position: {x: 2.44524118e-17, y: .06959299, z: -9.76996256e-17}
+      rotation: {x: .5, y: -.5, z: .5, w: -.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lClavicleJ
+      position: {x: -.0321197845, y: -.00509706326, z: -.0329692923}
+      rotation: {x: -.60685271, y: .536828578, z: -.409009427, w: -.419828922}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lShoulderJ
+      position: {x: -.0736235455, y: 0, z: -1.7763568e-17}
+      rotation: {x: .0179591794, y: .161781177, z: .0538199879, w: .985194325}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_lElbowJ
+      position: {x: -.286514729, y: 1.42108544e-16, z: 5.92859059e-16}
+      rotation: {x: .0230320115, y: .0343956985, z: -.0103549315, w: .999089241}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_lForearmJ
+      position: {x: -.119632736, y: 5.68434176e-16, z: 2.22044605e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_lWristJ
+      position: {x: -.239265472, y: 4.26325632e-16, z: 5.86197727e-16}
+      rotation: {x: -.0175381172, y: -.017270375, z: -.0153710581, w: .999578893}
+      scale: {x: 1.00000024, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Bloom_New_SH_lPalmJ
+      position: {x: -.0387445353, y: -.0038593912, z: .00506036729}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger1J1
+      position: {x: -.0373619869, y: .00708665187, z: .0193799585}
+      rotation: {x: .0442276448, y: .0488361716, z: -.0151232611, w: .997712553}
+      scale: {x: .999999821, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger1J2
+      position: {x: -.0299096014, y: 9.94759834e-16, z: -8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger1J3
+      position: {x: -.0260666031, y: 5.68434176e-16, z: 2.57571734e-16}
+      rotation: {x: -2.07195283e-09, y: -8.85701201e-09, z: -.0122308899, w: .999925256}
+      scale: {x: .99999994, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger1JTip
+      position: {x: -.0211493615, y: 1.42108544e-16, z: 1.24344979e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger2J1
+      position: {x: -.0368497334, y: .00516478624, z: .00103607262}
+      rotation: {x: -.0132105304, y: .00240429631, z: -.027701987, w: .999526083}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger2J2
+      position: {x: -.0361927748, y: 1.42108544e-16, z: 7.1054272e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger2J3
+      position: {x: -.0283284131, y: 4.26325632e-16, z: -1.59872109e-16}
+      rotation: {x: 2.69467755e-08, y: 6.89020396e-08, z: -.0411936752, w: .99915123}
+      scale: {x: .99999994, y: 1, z: .999999762}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger2JTip
+      position: {x: -.0221946687, y: -2.84217088e-16, z: 1.59872109e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger3J1
+      position: {x: -.0334992148, y: .0030697959, z: -.0163869169}
+      rotation: {x: -.0325868167, y: -.0395142548, z: -.015218867, w: .998571575}
+      scale: {x: .999999881, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger3J2
+      position: {x: -.0319443718, y: 1.27897687e-15, z: -3.5527136e-17}
+      rotation: {x: 8.75286599e-09, y: 1.71512458e-08, z: -.00929755252, w: .999956846}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger3J3
+      position: {x: -.0242987722, y: -2.2737367e-15, z: -3.5527136e-17}
+      rotation: {x: -1.06611608e-08, y: -9.76443104e-09, z: -.027972417, w: .999608755}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger3JTip
+      position: {x: -.0204879642, y: 0, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger4J1
+      position: {x: -.0248483252, y: -.0013322538, z: -.0292472951}
+      rotation: {x: -.130021662, y: -.0371063612, z: -.00612566713, w: .990797639}
+      scale: {x: .999999702, y: 1, z: .999999762}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger4J2
+      position: {x: -.0279895179, y: -7.10542693e-16, z: 3.5527136e-17}
+      rotation: {x: 2.68280118e-08, y: 1.32043203e-08, z: -.0196398962, w: .999807119}
+      scale: {x: 1.00000012, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger4J3
+      position: {x: -.0208784249, y: 8.52651264e-16, z: -3.5527136e-17}
+      rotation: {x: -.0133369118, y: -.00428203493, z: -.0407135747, w: .999072731}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_lFinger4JTip
+      position: {x: -.0180976503, y: -8.52651264e-16, z: 2.48689959e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_lThumbJ1
+      position: {x: -.0161864832, y: -.00619611563, z: .0210739113}
+      rotation: {x: .468709171, y: .373207718, z: -.112352639, w: .792719841}
+      scale: {x: .999999762, y: .99999994, z: .999999583}
+      transformModified: 1
+    - name: Bloom_New_SH_lThumbJ2
+      position: {x: -.0314914584, y: .00165774755, z: -.00234332611}
+      rotation: {x: -.0533399507, y: -.0564787947, z: .00528575759, w: .996963918}
+      scale: {x: 1.00000036, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Bloom_New_SH_lThumbJ3
+      position: {x: -.0320124775, y: 7.10542693e-16, z: 2.13162816e-16}
+      rotation: {x: -.0407610089, y: .0185105484, z: -.0321621895, w: .998479605}
+      scale: {x: .999999881, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: Bloom_New_SH_lThumbJTip
+      position: {x: -.026252985, y: 4.26325632e-16, z: 2.84217088e-16}
+      rotation: {x: -.0299246423, y: -.706473291, z: .0299246423, w: .706473291}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_Neck01J
+      position: {x: -.0842778459, y: .0169484392, z: 5.44785163e-18}
+      rotation: {x: -.499276429, y: .500722528, z: -.499276429, w: -.500722528}
+      scale: {x: .994308531, y: 1, z: .994308293}
+      transformModified: 1
+    - name: Bloom_New_SH_Neck02J
+      position: {x: 3.88338302e-18, y: .0367008112, z: .00882601924}
+      rotation: {x: .000109823886, y: -1.85830194e-17, z: 7.24023249e-17, w: 1}
+      scale: {x: 1, y: .99999994, z: .999991655}
+      transformModified: 1
+    - name: Bloom_New_SH_Neck03J
+      position: {x: 3.347413e-18, y: .0254300367, z: .00758391479}
+      rotation: {x: -.000109666304, y: 4.15769849e-15, z: 2.05817525e-17, w: 1}
+      scale: {x: .994308531, y: 1.00000012, z: .994316876}
+      transformModified: 1
+    - name: Bloom_New_SH_HeadJ
+      position: {x: 4.14204273e-17, y: .0486963876, z: -1.5815969e-08}
+      rotation: {x: .499266446, y: -.500732541, z: .499266446, w: -.500732541}
+      scale: {x: .999999583, y: .999999762, z: .999999702}
+      transformModified: 1
+    - name: Bloom_LeftEye
+      position: {x: -.0544125885, y: -.0370205976, z: -.049999997}
+      rotation: {x: -.51005441, y: .492310494, z: -.507483363, w: -.489832163}
+      scale: {x: 1.00000024, y: .999998033, z: 1.00000262}
+      transformModified: 1
+    - name: joint41
+      position: {x: 3.5527136e-17, y: 0, z: .0974662155}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_HeadTipJ
+      position: {x: -.277113438, y: 6.07738548e-05, z: 1.30960848e-17}
+      rotation: {x: .508790076, y: -.491052598, z: .508790076, w: .491052598}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_JawJ
+      position: {x: .000643513049, y: -.012774297, z: 1.06597971e-17}
+      rotation: {x: -.508790076, y: .491052598, z: -.508790076, w: -.491052598}
+      scale: {x: 1.00000024, y: .999997973, z: 1.00000262}
+      transformModified: 1
+    - name: Bloom_New_SH_JawTipJ
+      position: {x: 3.641167e-17, y: -.0474045612, z: .0919516832}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_RightEye
+      position: {x: -.0544125885, y: -.0370205976, z: .049999997}
+      rotation: {x: -.507483363, y: .489832163, z: -.51005441, w: -.492310494}
+      scale: {x: 1.00000024, y: .999998033, z: 1.00000262}
+      transformModified: 1
+    - name: joint41 1
+      position: {x: 3.5527136e-17, y: 0, z: .0974662155}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyebrow
+      position: {x: -.0758205205, y: -.0122866677, z: -7.7980649e-18}
+      rotation: {x: -.508779347, y: .491063744, z: -.508779347, w: -.491063744}
+      scale: {x: 1.00000024, y: .999998033, z: 1.00000274}
+      transformModified: 1
+    - name: joint39
+      position: {x: -0, y: .0230511874, z: .112521045}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hair_L_Bangs
+      position: {x: -.162757188, y: -.105201498, z: -.00509028975}
+      rotation: {x: -.154978245, y: .734226227, z: -.564329088, w: -.344131231}
+      scale: {x: 1.00004053, y: 1.00004411, z: .999992132}
+      transformModified: 1
+    - name: joint14
+      position: {x: -.069337517, y: -1.69742689e-17, z: 1.38777875e-19}
+      rotation: {x: .0583623499, y: -.248598516, z: .00732488045, w: .966819048}
+      scale: {x: 1.00210071, y: 1.00004315, z: .997858763}
+      transformModified: 1
+    - name: joint15
+      position: {x: -.0668636262, y: -1.85546021e-16, z: -1.7763568e-17}
+      rotation: {x: -.138498366, y: -.256608158, z: -.141361058, w: .946037829}
+      scale: {x: .997414172, y: 1.00388718, z: .998714149}
+      transformModified: 1
+    - name: joint16
+      position: {x: -.0712081268, y: -6.07153217e-18, z: -4.21884744e-17}
+      rotation: {x: .10751912, y: .502097785, z: -.179680064, w: .839078367}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hair_Ponytail
+      position: {x: -.159811154, y: .171204254, z: -1.02293615e-16}
+      rotation: {x: -.0822827592, y: .996609032, z: 3.03262517e-08, w: 2.92690157e-08}
+      scale: {x: .999992847, y: 1.00001454, z: 1.00000024}
+      transformModified: 1
+    - name: joint2
+      position: {x: -.135014042, y: -1.55431224e-17, z: -1.49895698e-17}
+      rotation: {x: .991371155, y: .131085232, z: 6.93685109e-11, w: -6.33909849e-08}
+      scale: {x: .999076068, y: 1.00092995, z: 1}
+      transformModified: 1
+    - name: joint3
+      position: {x: -.160759732, y: -7.54951665e-17, z: 1.25957207e-17}
+      rotation: {x: -2.92507547e-08, y: -3.03438661e-08, z: .0484667309, w: .998824835}
+      scale: {x: .999786198, y: 1.00021315, z: .99999994}
+      transformModified: 1
+    - name: joint4
+      position: {x: -.146035537, y: -1.398881e-16, z: 1.15805666e-17}
+      rotation: {x: -.998342454, y: -.0575536154, z: -2.92507565e-08, w: 3.03438696e-08}
+      scale: {x: .999957681, y: 1.00004411, z: 1}
+      transformModified: 1
+    - name: joint5
+      position: {x: -.119527824, y: -4.55191436e-17, z: -9.49741896e-18}
+      rotation: {x: 4.01319866e-10, y: -3.66220831e-10, z: -.0128903855, w: .999916971}
+      scale: {x: 1.00004458, y: .999955952, z: .99999994}
+      transformModified: 1
+    - name: joint6
+      position: {x: -.115771994, y: 3.55271347e-16, z: -8.82088034e-18}
+      rotation: {x: -2.90934352e-08, y: -3.04947356e-08, z: .0286198109, w: .999590456}
+      scale: {x: .999875247, y: 1.0001241, z: 1}
+      transformModified: 1
+    - name: joint7
+      position: {x: -.11393027, y: -1.79856131e-16, z: -9.49860845e-18}
+      rotation: {x: 0, y: 0, z: -.0257081185, w: .999669492}
+      scale: {x: 1.00005949, y: .999941587, z: 1}
+      transformModified: 1
+    - name: joint8
+      position: {x: -.108976476, y: 3.10862448e-17, z: -8.38402972e-18}
+      rotation: {x: 0, y: 0, z: .0313683227, w: .999507964}
+      scale: {x: .999871373, y: 1.00012803, z: 1.00000012}
+      transformModified: 1
+    - name: joint9
+      position: {x: -.0750247687, y: -9.88098476e-17, z: -6.35916975e-18}
+      rotation: {x: 2.92656441e-08, y: 3.0329506e-08, z: -.0111032845, w: .999938369}
+      scale: {x: 1.00002098, y: .999979377, z: 1.00000012}
+      transformModified: 1
+    - name: joint10
+      position: {x: -.0925374404, y: 1.7763568e-17, z: -7.59061958e-18}
+      rotation: {x: -1.61288956e-08, y: -3.89385981e-08, z: -.355777651, w: .93457067}
+      scale: {x: 1.00067377, y: .999364257, z: 1}
+      transformModified: 1
+    - name: joint11
+      position: {x: -.0568036288, y: -3.10862448e-17, z: 1.20438345e-18}
+      rotation: {x: .270598054, y: .65328151, z: -.270598054, w: .65328151}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hair_R_Bangs
+      position: {x: -.159898579, y: -.11009568, z: .0052591539}
+      rotation: {x: .190646276, y: -.646401763, z: -.644559741, w: -.361056209}
+      scale: {x: 1.00004208, y: 1.00003731, z: .999991596}
+      transformModified: 1
+    - name: joint19
+      position: {x: -.0626729503, y: -1.8318679e-17, z: 1.11022296e-17}
+      rotation: {x: .0152977137, y: .261585385, z: .0404529311, w: .964210927}
+      scale: {x: .997595906, y: 1.00092506, z: 1.00148499}
+      transformModified: 1
+    - name: joint20
+      position: {x: -.0811291113, y: -1.6431301e-16, z: 1.6431301e-16}
+      rotation: {x: .326081425, y: .24515669, z: .0456496701, w: .911858201}
+      scale: {x: .998742521, y: .998219192, z: 1.0030458}
+      transformModified: 1
+    - name: joint21
+      position: {x: -.0559370257, y: 1.72310073e-16, z: -2.19824148e-16}
+      rotation: {x: .364510238, y: .686567843, z: -.294997364, w: .555637896}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint26
+      position: {x: -.0594932176, y: .0247598458, z: -.0647231936}
+      rotation: {x: 0, y: 0, z: .7288059, w: .684720337}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyecorner_l
+      position: {x: -.0437671505, y: 4.7184479e-18, z: 4.85912982e-18}
+      rotation: {x: -.00282358658, y: -.230090842, z: -.276425213, w: -.933080614}
+      scale: {x: 1.00005496, y: .999998569, z: 1.00000727}
+      transformModified: 1
+    - name: joint28
+      position: {x: -.068814531, y: .0116770202, z: .00150354847}
+      rotation: {x: .115324356, y: -.697639108, z: .115324356, w: .697639108}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyeedge_l
+      position: {x: -.0437671505, y: 4.7184479e-18, z: 4.85912982e-18}
+      rotation: {x: -.149407089, y: .47124052, z: .146165326, w: -.85688138}
+      scale: {x: 1.00000191, y: 1.00002074, z: 1.00001359}
+      transformModified: 1
+    - name: joint28 1
+      position: {x: -.0633189678, y: -1.90044375e-16, z: 9.71445151e-19}
+      rotation: {x: .125789449, y: -.688116729, z: .12850368, w: .702964604}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyelid_l
+      position: {x: -.0437671505, y: 4.7184479e-18, z: 4.85912982e-18}
+      rotation: {x: -.00113409129, y: .00512929773, z: .173398718, w: -.98483777}
+      scale: {x: .999991417, y: 1.00002778, z: 1.00000024}
+      transformModified: 1
+    - name: joint28 2
+      position: {x: -.067176953, y: 0, z: 0}
+      rotation: {x: .115324356, y: -.697639108, z: .115324356, w: .697639108}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyelidlower_l
+      position: {x: -.0437671505, y: 4.7184479e-18, z: 4.85912982e-18}
+      rotation: {x: -.012690871, y: .0672935992, z: -.166361734, w: -.983684063}
+      scale: {x: 1.00004005, y: .999992967, z: 1.00000119}
+      transformModified: 1
+    - name: joint28 3
+      position: {x: -.067176953, y: 0, z: 0}
+      rotation: {x: .115324356, y: -.697639108, z: .115324356, w: .697639108}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint31
+      position: {x: -.0594906807, y: .0247599259, z: .0647232011}
+      rotation: {x: 0, y: 0, z: -.684720337, w: .7288059}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyecorner_r
+      position: {x: .0437669754, y: -6.70694908e-06, z: 8.881784e-18}
+      rotation: {x: .00282355468, y: .230090827, z: .276425153, w: .933080614}
+      scale: {x: 1.00005496, y: .999998391, z: 1.00000703}
+      transformModified: 1
+    - name: joint35
+      position: {x: .0688156709, y: -.0116752088, z: -.0015032565}
+      rotation: {x: .115324356, y: -.697639108, z: .115324356, w: .697639108}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyeedge_r
+      position: {x: .0437669754, y: -6.70694908e-06, z: 8.881784e-18}
+      rotation: {x: .149407089, y: -.47124052, z: -.146165296, w: .85688138}
+      scale: {x: 1.00000191, y: 1.0000205, z: 1.00001335}
+      transformModified: 1
+    - name: joint33
+      position: {x: .0633153394, y: 8.09766243e-06, z: -1.46031755e-06}
+      rotation: {x: .125789449, y: -.688116729, z: .12850368, w: .702964604}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyelid_r
+      position: {x: .0437669754, y: -6.70694908e-06, z: 8.881784e-18}
+      rotation: {x: .00426681293, y: -.00306534604, z: -.173397601, w: .98483789}
+      scale: {x: .999991417, y: 1.00002754, z: 1.00000012}
+      transformModified: 1
+    - name: joint37
+      position: {x: .0671758801, y: 3.05008371e-06, z: -2.11350404e-08}
+      rotation: {x: .115324356, y: -.697639108, z: .115324356, w: .697639108}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyelidlower_r
+      position: {x: .0437669754, y: -6.70694908e-06, z: 8.881784e-18}
+      rotation: {x: .012690872, y: -.0672935545, z: .166361719, w: .983684123}
+      scale: {x: 1.00004005, y: .999992847, z: 1.00000107}
+      transformModified: 1
+    - name: joint37 1
+      position: {x: .0671758801, y: 3.05008371e-06, z: -2.11350404e-08}
+      rotation: {x: .115324356, y: -.697639108, z: .115324356, w: .697639108}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mouthedge_l
+      position: {x: .0113458885, y: -.000145542333, z: -6.15716058e-17}
+      rotation: {x: -.587602377, y: .567118645, z: -.415279031, w: -.400803357}
+      scale: {x: 1.00000036, y: .999997973, z: 1.00000215}
+      transformModified: 1
+    - name: joint25
+      position: {x: -0, y: -.0116670914, z: .1015037}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mouthedge_r
+      position: {x: .0113458885, y: -.000145542333, z: -6.15716058e-17}
+      rotation: {x: -.415279031, y: .400803357, z: -.587602377, w: -.567118645}
+      scale: {x: 1.00000048, y: .999997854, z: 1.00000215}
+      transformModified: 1
+    - name: joint25 1
+      position: {x: -0, y: -.0116670914, z: .1015037}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rClavicleJ
+      position: {x: -.0321197845, y: -.00509706326, z: .0329692923}
+      rotation: {x: -.536828518, y: -.60685271, z: -.419828922, w: .409009397}
+      scale: {x: .999999821, y: .999999821, z: .999999642}
+      transformModified: 1
+    - name: Bloom_New_SH_rShoulderJ
+      position: {x: .0736235455, y: 0, z: 1.02140514e-16}
+      rotation: {x: .0179591067, y: .161781058, z: .0538200438, w: .985194325}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Bloom_New_SH_rElbowJ
+      position: {x: .286514729, y: 1.42108544e-16, z: -8.79296591e-16}
+      rotation: {x: .0230319891, y: .0343958996, z: -.0103547648, w: .999089241}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Bloom_New_SH_rForearmJ
+      position: {x: .119632736, y: 0, z: -3.46389571e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_rWristJ
+      position: {x: .239265472, y: -5.68434176e-16, z: -8.97060195e-16}
+      rotation: {x: -.0175381247, y: -.0172703546, z: -.0153710609, w: .999578893}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rPalmJ
+      position: {x: .0387445353, y: .0038593912, z: -.00506036729}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger1J1
+      position: {x: .0373619869, y: -.00708665187, z: -.0193799585}
+      rotation: {x: -.997712553, y: .015123127, z: .0488361716, w: .0442276485}
+      scale: {x: .99999994, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger1J2
+      position: {x: .0299096014, y: 7.10542693e-16, z: 1.33226755e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger1J3
+      position: {x: .0260666031, y: 7.10542693e-16, z: 2.13162816e-16}
+      rotation: {x: 2.93273539e-09, y: -1.28395792e-08, z: .012231024, w: .999925196}
+      scale: {x: .99999994, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger1JTip
+      position: {x: .0211493615, y: 5.68434176e-16, z: 1.06581408e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger2J1
+      position: {x: .0368497334, y: -.00516478624, z: -.00103607262}
+      rotation: {x: -.999526083, y: .0277019031, z: .00240429607, w: -.0132105201}
+      scale: {x: 1.00000012, y: 1.0000006, z: 1.00000024}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger2J2
+      position: {x: .0361927748, y: -7.10542693e-16, z: 2.30926381e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger2J3
+      position: {x: .0283284131, y: 4.26325632e-16, z: -1.42108544e-16}
+      rotation: {x: -4.08313516e-09, y: 3.78446821e-08, z: .0411960594, w: .99915117}
+      scale: {x: 1, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger2JTip
+      position: {x: .0221946687, y: 4.26325632e-16, z: 8.88178367e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger3J1
+      position: {x: .0334992148, y: -.0030697959, z: .0163869169}
+      rotation: {x: -.998571515, y: .0152200358, z: -.0395147651, w: -.0325869136}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger3J2
+      position: {x: .0319443718, y: 0, z: -8.88178367e-17}
+      rotation: {x: 1.15924239e-08, y: -1.58271813e-08, z: .00929757953, w: .999956787}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger3J3
+      position: {x: .0242987722, y: -1.42108544e-16, z: -3.5527136e-17}
+      rotation: {x: -7.16183735e-09, y: 1.0764821e-08, z: .027972335, w: .999608755}
+      scale: {x: 1.00000024, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger3JTip
+      position: {x: .0204879642, y: 0, z: -7.1054272e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger4J1
+      position: {x: .0248483252, y: .0013322538, z: .0292472951}
+      rotation: {x: -.990797639, y: .00612606714, z: -.0371067747, w: -.130021587}
+      scale: {x: .99999994, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger4J2
+      position: {x: .0279895179, y: -2.84217088e-16, z: 2.48689959e-16}
+      rotation: {x: -2.47845726e-08, y: 1.28210988e-08, z: .0196398944, w: .999807179}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger4J3
+      position: {x: .0208784249, y: 8.52651264e-16, z: -3.5527136e-17}
+      rotation: {x: -.0133369127, y: .00428227475, z: .0407140702, w: .999072671}
+      scale: {x: 1, y: .999999881, z: 1.00000024}
+      transformModified: 1
+    - name: Bloom_New_SH_rFinger4JTip
+      position: {x: .0180976503, y: -5.68434176e-16, z: 7.1054272e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rThumbJ1
+      position: {x: .0161864832, y: .00619611563, z: -.0210739113}
+      rotation: {x: -.369288236, y: .369395852, z: -.845212758, w: -.113085397}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Bloom_New_SH_rThumbJ2
+      position: {x: -.0316220075, y: 1.42108544e-16, z: 2.84217088e-16}
+      rotation: {x: .05800483, y: .0274124201, z: .0282798484, w: .997539163}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Bloom_New_SH_rThumbJ3
+      position: {x: -.0320124775, y: 0, z: 2.84217088e-16}
+      rotation: {x: -.0690804049, y: -.0218867902, z: -.0299671479, w: .996920705}
+      scale: {x: 1, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Bloom_New_SH_rThumbJTip
+      position: {x: -.026252985, y: 1.42108544e-16, z: -2.13162816e-16}
+      rotation: {x: .0303950459, y: -.706453204, z: -.0303950459, w: .706453204}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Bloom_New_SH_ROOTJ
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

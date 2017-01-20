@@ -1,0 +1,714 @@
+<Row>
+</Row>
+<Row>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>Game Setting</Data></Cell>
+	<Cell><Data>Paramater Sent</Data></Cell>
+	<Cell><Data>Value</Data></Cell>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>CURRENT_VERSION</Data></Cell>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>VERSION_MAX_FAIRYLEVELS</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARD_SALEPRICE_MINT</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>0.5</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARD_SALEPRICE_SCUFFED</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>0.5</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>13</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>14</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>15</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>17</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>18</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NUM_PUZZLE_ROOM_KEYS</Data></Cell>
+	<Cell><Data>19</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>AWARD_GEMS_FOR_KEY</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>AWARD_GEMS_CHEST_SMALL</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>AWARD_GEMS_CHEST_MEDIUM</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>AWARD_GEMS_CHEST_LARGE</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>20</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>PLAYER_MAX_FAIRY_LEVEL</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>PLAYER_HEALTH</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>1000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>PLAYER_MAX_HEALTH</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>1000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>PLAYER_MAX_LIVES</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>PLAYER_MAX_GEMS</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>1000000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>PLAYER_MAX_RED_GEMS</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>1000000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>PLAYER_MAX_DIAMONDS</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>9999999</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>PLAYER_MAX_KEYS</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>1000000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>PLAYER_MAX_POPN</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>9999999</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>PUZZLE_ROOM_MAX_GEMS</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>PUZZLE_ROOM_MAX_REDGEMS</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DAMAGE_FALL_SMALL</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DAMAGE_FALL_LARGE</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>500000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DAMAGE</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DAMAGE</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>250</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DAMAGE</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>750</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DAMAGE</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>1000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DAMAGE</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CHANCE_ATTACK_PLAYER_AT_95_HEALTH</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CHANCE_ATTACK_PLAYER_AT_80_HEALTH</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>20</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CHANCE_ATTACK_PLAYER_AT_60_HEALTH</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>35</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CHANCE_ATTACK_PLAYER_AT_40_HEALTH</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>HEALTH_PACK_SMALL</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>HEALTH_PACK_MEDIUM</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>250</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>HEALTH_PACK_LARGE</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>500</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NPC_MAX_IN_SCENE</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NPC_POPULATION_RATIO</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>25000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BLOOM_DAMAGE</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BLOOM_DAMAGE</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>75</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BLOOM_DAMAGE</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BLOOM_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BLOOM_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>75</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BLOOM_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>STELLA_DAMAGE</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>STELLA_DAMAGE</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>75</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>STELLA_DAMAGE</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>STELLA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>STELLA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>75</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>STELLA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FLORA_DAMAGE</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FLORA_DAMAGE</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>75</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FLORA_DAMAGE</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FLORA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FLORA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>75</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FLORA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>AISHA_DAMAGE</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>AISHA_DAMAGE</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>75</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>AISHA_DAMAGE</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>AISHA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>AISHA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>75</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>AISHA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>MUSA_DAMAGE</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>MUSA_DAMAGE</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>75</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>MUSA_DAMAGE</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>MUSA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>MUSA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>75</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>MUSA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TECNA_DAMAGE</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TECNA_DAMAGE</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>75</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TECNA_DAMAGE</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TECNA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TECNA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>75</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TECNA_SPELL_DAMAGE</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>ENEMY_HEALTH</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>150</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>ENEMY_HEALTH</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>250</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>ENEMY_HEALTH</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>400</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_LEVEL_UNLOCK</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>20</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_HEALTH</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>1000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_HEALTH</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>2000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_HEALTH</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>3000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_RESPAWN_TIME</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_RESPAWN_SPEED</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>7200</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_SHIELD_STRENGTH</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>500</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_SHIELD_STRENGTH</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>1000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_SHIELD_STRENGTH</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>1500</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_ATTACK_INTERVAL</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>15</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_ATTACK_INTERVAL</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>12.5</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_ATTACK_INTERVAL</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_DISABLED_INTERVAL</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>15</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_DISABLED_INTERVAL</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>12.5</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_DISABLED_INTERVAL</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOSS_NUM_ENEMIES</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPN_NEW_GAME</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>1000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPN_INC_COMPLETE_PUZZLE_ROOM</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>1000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPN_INC_COLLECT_CARD</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>20</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPN_INC_COLLECT_CHARACTER_CARD</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>20</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPN_INC_COLLECT_RARE_CARD</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPN_INC_UNLOCK_NEW_ROOM</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>500</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPN_INC_FAIRY_UNLOCK</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPN_INC_FAIRY_UPGRADE</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>100</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>SOCIAL_FB_SHARE</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>SOCIAL_HS_POST</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>SOCIAL_VIDEO_SHARE</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>SOCIAL_VIDEO_WATCH</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_REDUCTION_MINT</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_REDUCTION_VG</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>20</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_REDUCTION_GOOD</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>35</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_REDUCTION_POOR</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>IAP_BUY_GEMS</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>2000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>IAP_BUY_GEMS</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>5000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>IAP_BUY_GEMS</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>10000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>IAP_BUY_GEMS</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>50000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>IAP_BUY_GEMS</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>200000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>IAP_INCREASE_MAX_LIVES</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>IAP_INCREASE_WM_WEDGE</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>NOTE: May be better to have a separate outfits sheet?</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>FAIRY_ID</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_X</Data></Cell>
+	<Cell><Data>-1</Data></Cell>
+	<Cell/>
+</Row>
+</Table>
+</Workbook>

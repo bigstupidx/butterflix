@@ -1,0 +1,7 @@
+<linker>
+ <assembly fullname="UnityEngine.Analytics">
+  <type fullname="UnityEngine.Analytics.Analytics" preserve="fields">
+   <method name="AutoStartUnityAnalytics"/>
+  </type>
+ </assembly>
+</linker>

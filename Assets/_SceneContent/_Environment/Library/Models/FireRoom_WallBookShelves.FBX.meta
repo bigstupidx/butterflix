@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 248f020f4343a6b48a2419e0101b4642
+timeCreated: 1435084926
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Books_01a
+    100002: Books_01b
+    100004: Books_02a
+    100006: Books_02b
+    100008: Books_03a
+    100010: Books_03b
+    100012: Bookshelf_01a
+    100014: Bookshelf_01b
+    100016: Bookshelf_02a
+    100018: Bookshelf_02b
+    100020: Bookshelf_03a
+    100022: Bookshelf_03b
+    100024: //RootNode
+    400000: Books_01a
+    400002: Books_01b
+    400004: Books_02a
+    400006: Books_02b
+    400008: Books_03a
+    400010: Books_03b
+    400012: Bookshelf_01a
+    400014: Bookshelf_01b
+    400016: Bookshelf_02a
+    400018: Bookshelf_02b
+    400020: Bookshelf_03a
+    400022: Bookshelf_03b
+    400024: //RootNode
+    2300000: Books_01a
+    2300002: Books_01b
+    2300004: Books_02a
+    2300006: Books_02b
+    2300008: Books_03a
+    2300010: Books_03b
+    2300012: Bookshelf_01a
+    2300014: Bookshelf_01b
+    2300016: Bookshelf_02a
+    2300018: Bookshelf_02b
+    2300020: Bookshelf_03a
+    2300022: Bookshelf_03b
+    3300000: Books_01a
+    3300002: Books_01b
+    3300004: Books_02a
+    3300006: Books_02b
+    3300008: Books_03a
+    3300010: Books_03b
+    3300012: Bookshelf_01a
+    3300014: Bookshelf_01b
+    3300016: Bookshelf_02a
+    3300018: Bookshelf_02b
+    3300020: Bookshelf_03a
+    3300022: Bookshelf_03b
+    4300000: Bookshelf_01a
+    4300002: Books_01a
+    4300004: Bookshelf_01b
+    4300006: Books_01b
+    4300008: Bookshelf_02a
+    4300010: Books_02a
+    4300012: Bookshelf_02b
+    4300014: Books_02b
+    4300016: Bookshelf_03a
+    4300018: Books_03a
+    4300020: Bookshelf_03b
+    4300022: Books_03b
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

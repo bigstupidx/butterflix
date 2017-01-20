@@ -1,0 +1,2076 @@
+fileFormatVersion: 2
+guid: b7badbaa48a45ad41b3d7fd62decf3a5
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Brafilius_01
+    100004: Jnt_Brafilius_03
+    100006: Jnt_Brafilius_Ankle_L
+    100008: Jnt_Brafilius_Ankle_R
+    100010: Jnt_Brafilius_Ball_L
+    100012: Jnt_Brafilius_Ball_R
+    100014: Jnt_Brafilius_Belly_Front
+    100016: Jnt_Brafilius_Belly_Side_L
+    100018: Jnt_Brafilius_Belly_Side_R
+    100020: Jnt_Brafilius_Brow
+    100022: Jnt_Brafilius_Cheek_L
+    100024: Jnt_Brafilius_Cheek_R
+    100026: Jnt_Brafilius_Clav_L
+    100028: Jnt_Brafilius_Clav_R
+    100030: Jnt_Brafilius_Collar_Back_01
+    100032: Jnt_Brafilius_Collar_Back_02be
+    100034: Jnt_Brafilius_Collar_Front_01_L
+    100036: Jnt_Brafilius_Collar_Front_01_R
+    100038: Jnt_Brafilius_Collar_Front_02be_L
+    100040: Jnt_Brafilius_Collar_Front_02be_R
+    100042: Jnt_Brafilius_Cravat_01
+    100044: Jnt_Brafilius_Cravat_02
+    100046: Jnt_Brafilius_Cravat_03
+    100048: Jnt_Brafilius_Cravat_04be
+    100050: Jnt_Brafilius_Elbow_L
+    100052: Jnt_Brafilius_Elbow_R
+    100054: Jnt_Brafilius_Eye_be_L
+    100056: Jnt_Brafilius_Eye_be_R
+    100058: Jnt_Brafilius_Eye_Bottom_Back_L
+    100060: Jnt_Brafilius_Eye_Bottom_Back_R
+    100062: Jnt_Brafilius_Eye_Bottom_L
+    100064: Jnt_Brafilius_Eye_Bottom_R
+    100066: Jnt_Brafilius_Eye_bs_L
+    100068: Jnt_Brafilius_Eye_bs_R
+    100070: Jnt_Brafilius_Eye_L
+    100072: Jnt_Brafilius_Eye_R
+    100074: Jnt_Brafilius_Eye_Top_Back_L
+    100076: Jnt_Brafilius_Eye_Top_Back_R
+    100078: Jnt_Brafilius_Eye_Top_Front_L
+    100080: Jnt_Brafilius_Eye_Top_Front_R
+    100082: Jnt_Brafilius_Eye_Top_L
+    100084: Jnt_Brafilius_Eye_Top_R
+    100086: Jnt_Brafilius_Eyebrow01_L
+    100088: Jnt_Brafilius_Eyebrow01_R
+    100090: Jnt_Brafilius_Eyebrow02_L
+    100092: Jnt_Brafilius_Eyebrow02_R
+    100094: Jnt_Brafilius_Feather01
+    100096: Jnt_Brafilius_Feather01_be
+    100098: Jnt_Brafilius_Feather02
+    100100: Jnt_Brafilius_Feather02_be
+    100102: Jnt_Brafilius_Fringe_01
+    100104: Jnt_Brafilius_Fringe_02
+    100106: Jnt_Brafilius_Hat
+    100108: Jnt_Brafilius_Hat_be
+    100110: Jnt_Brafilius_Head
+    100112: Jnt_Brafilius_Index_01_L
+    100114: Jnt_Brafilius_Index_01_R
+    100116: Jnt_Brafilius_Index_02_L
+    100118: Jnt_Brafilius_Index_02_R
+    100120: Jnt_Brafilius_Index_03_L
+    100122: Jnt_Brafilius_Index_03_R
+    100124: Jnt_Brafilius_Index_04be_L
+    100126: Jnt_Brafilius_Index_04be_R
+    100128: Jnt_Brafilius_Jaw
+    100130: Jnt_Brafilius_Jaw_be
+    100132: Jnt_Brafilius_Jowl_L
+    100134: Jnt_Brafilius_Jowl_R
+    100136: Jnt_Brafilius_Knee_L
+    100138: Jnt_Brafilius_Knee_R
+    100140: Jnt_Brafilius_Lip_Lower
+    100142: Jnt_Brafilius_Lip_Upper
+    100144: Jnt_Brafilius_Middle_01_L
+    100146: Jnt_Brafilius_Middle_01_R
+    100148: Jnt_Brafilius_Middle_02_L
+    100150: Jnt_Brafilius_Middle_02_R
+    100152: Jnt_Brafilius_Middle_03_L
+    100154: Jnt_Brafilius_Middle_03_R
+    100156: Jnt_Brafilius_Middle_04be_L
+    100158: Jnt_Brafilius_Middle_04be_R
+    100160: Jnt_Brafilius_Mouth_L
+    100162: Jnt_Brafilius_Mouth_R
+    100164: Jnt_Brafilius_Neck
+    100166: Jnt_Brafilius_Nose
+    100168: Jnt_Brafilius_Nose_bs
+    100170: Jnt_Brafilius_Palm_L
+    100172: Jnt_Brafilius_Palm_R
+    100174: Jnt_Brafilius_Pinky_01_L
+    100176: Jnt_Brafilius_Pinky_01_R
+    100178: Jnt_Brafilius_Pinky_02_L
+    100180: Jnt_Brafilius_Pinky_02_R
+    100182: Jnt_Brafilius_Pinky_03_L
+    100184: Jnt_Brafilius_Pinky_03_R
+    100186: Jnt_Brafilius_Pinky_04be_L
+    100188: Jnt_Brafilius_Pinky_04be_R
+    100190: Jnt_Brafilius_Ring_01_L
+    100192: Jnt_Brafilius_Ring_01_R
+    100194: Jnt_Brafilius_Ring_02_L
+    100196: Jnt_Brafilius_Ring_02_R
+    100198: Jnt_Brafilius_Ring_03_L
+    100200: Jnt_Brafilius_Ring_03_R
+    100202: Jnt_Brafilius_Ring_04be_L
+    100204: Jnt_Brafilius_Ring_04be_R
+    100206: Jnt_Brafilius_Shldr_L
+    100208: Jnt_Brafilius_Shldr_R
+    100210: Jnt_Brafilius_Sideburn1_01_L
+    100212: Jnt_Brafilius_Sideburn1_01_R
+    100214: Jnt_Brafilius_Sideburn1_02_L
+    100216: Jnt_Brafilius_Sideburn1_02_R
+    100218: Jnt_Brafilius_Sideburn1_03_L
+    100220: Jnt_Brafilius_Sideburn1_03_R
+    100222: Jnt_Brafilius_Sideburn2_01_L
+    100224: Jnt_Brafilius_Sideburn2_01_R
+    100226: Jnt_Brafilius_Sideburn2_02_L
+    100228: Jnt_Brafilius_Sideburn2_02_R
+    100230: Jnt_Brafilius_Sideburn2_03_L
+    100232: Jnt_Brafilius_Sideburn2_03_R
+    100234: Jnt_Brafilius_Spine01
+    100236: Jnt_Brafilius_Spine02
+    100238: Jnt_Brafilius_Tail_01
+    100240: Jnt_Brafilius_Tail_02
+    100242: Jnt_Brafilius_Tail_03
+    100244: Jnt_Brafilius_Tail_04
+    100246: Jnt_Brafilius_Tail_05be
+    100248: Jnt_Brafilius_Thigh_L
+    100250: Jnt_Brafilius_Thigh_R
+    100252: Jnt_Brafilius_Thumb_01_L
+    100254: Jnt_Brafilius_Thumb_01_R
+    100256: Jnt_Brafilius_Thumb_02_L
+    100258: Jnt_Brafilius_Thumb_02_R
+    100260: Jnt_Brafilius_Thumb_03be_L
+    100262: Jnt_Brafilius_Thumb_03be_R
+    100264: Jnt_Brafilius_Toe_L
+    100266: Jnt_Brafilius_Toe_R
+    100268: Jnt_Brafilius_Waist
+    100270: Jnt_Brafilius_Whiskers_L
+    100272: Jnt_Brafilius_Whiskers_R
+    100274: Jnt_Brafilius_Wrist_L
+    100276: Jnt_Brafilius_Wrist_R
+    400000: //RootNode
+    400002: Brafilius_01
+    400004: Jnt_Brafilius_03
+    400006: Jnt_Brafilius_Ankle_L
+    400008: Jnt_Brafilius_Ankle_R
+    400010: Jnt_Brafilius_Ball_L
+    400012: Jnt_Brafilius_Ball_R
+    400014: Jnt_Brafilius_Belly_Front
+    400016: Jnt_Brafilius_Belly_Side_L
+    400018: Jnt_Brafilius_Belly_Side_R
+    400020: Jnt_Brafilius_Brow
+    400022: Jnt_Brafilius_Cheek_L
+    400024: Jnt_Brafilius_Cheek_R
+    400026: Jnt_Brafilius_Clav_L
+    400028: Jnt_Brafilius_Clav_R
+    400030: Jnt_Brafilius_Collar_Back_01
+    400032: Jnt_Brafilius_Collar_Back_02be
+    400034: Jnt_Brafilius_Collar_Front_01_L
+    400036: Jnt_Brafilius_Collar_Front_01_R
+    400038: Jnt_Brafilius_Collar_Front_02be_L
+    400040: Jnt_Brafilius_Collar_Front_02be_R
+    400042: Jnt_Brafilius_Cravat_01
+    400044: Jnt_Brafilius_Cravat_02
+    400046: Jnt_Brafilius_Cravat_03
+    400048: Jnt_Brafilius_Cravat_04be
+    400050: Jnt_Brafilius_Elbow_L
+    400052: Jnt_Brafilius_Elbow_R
+    400054: Jnt_Brafilius_Eye_be_L
+    400056: Jnt_Brafilius_Eye_be_R
+    400058: Jnt_Brafilius_Eye_Bottom_Back_L
+    400060: Jnt_Brafilius_Eye_Bottom_Back_R
+    400062: Jnt_Brafilius_Eye_Bottom_L
+    400064: Jnt_Brafilius_Eye_Bottom_R
+    400066: Jnt_Brafilius_Eye_bs_L
+    400068: Jnt_Brafilius_Eye_bs_R
+    400070: Jnt_Brafilius_Eye_L
+    400072: Jnt_Brafilius_Eye_R
+    400074: Jnt_Brafilius_Eye_Top_Back_L
+    400076: Jnt_Brafilius_Eye_Top_Back_R
+    400078: Jnt_Brafilius_Eye_Top_Front_L
+    400080: Jnt_Brafilius_Eye_Top_Front_R
+    400082: Jnt_Brafilius_Eye_Top_L
+    400084: Jnt_Brafilius_Eye_Top_R
+    400086: Jnt_Brafilius_Eyebrow01_L
+    400088: Jnt_Brafilius_Eyebrow01_R
+    400090: Jnt_Brafilius_Eyebrow02_L
+    400092: Jnt_Brafilius_Eyebrow02_R
+    400094: Jnt_Brafilius_Feather01
+    400096: Jnt_Brafilius_Feather01_be
+    400098: Jnt_Brafilius_Feather02
+    400100: Jnt_Brafilius_Feather02_be
+    400102: Jnt_Brafilius_Fringe_01
+    400104: Jnt_Brafilius_Fringe_02
+    400106: Jnt_Brafilius_Hat
+    400108: Jnt_Brafilius_Hat_be
+    400110: Jnt_Brafilius_Head
+    400112: Jnt_Brafilius_Index_01_L
+    400114: Jnt_Brafilius_Index_01_R
+    400116: Jnt_Brafilius_Index_02_L
+    400118: Jnt_Brafilius_Index_02_R
+    400120: Jnt_Brafilius_Index_03_L
+    400122: Jnt_Brafilius_Index_03_R
+    400124: Jnt_Brafilius_Index_04be_L
+    400126: Jnt_Brafilius_Index_04be_R
+    400128: Jnt_Brafilius_Jaw
+    400130: Jnt_Brafilius_Jaw_be
+    400132: Jnt_Brafilius_Jowl_L
+    400134: Jnt_Brafilius_Jowl_R
+    400136: Jnt_Brafilius_Knee_L
+    400138: Jnt_Brafilius_Knee_R
+    400140: Jnt_Brafilius_Lip_Lower
+    400142: Jnt_Brafilius_Lip_Upper
+    400144: Jnt_Brafilius_Middle_01_L
+    400146: Jnt_Brafilius_Middle_01_R
+    400148: Jnt_Brafilius_Middle_02_L
+    400150: Jnt_Brafilius_Middle_02_R
+    400152: Jnt_Brafilius_Middle_03_L
+    400154: Jnt_Brafilius_Middle_03_R
+    400156: Jnt_Brafilius_Middle_04be_L
+    400158: Jnt_Brafilius_Middle_04be_R
+    400160: Jnt_Brafilius_Mouth_L
+    400162: Jnt_Brafilius_Mouth_R
+    400164: Jnt_Brafilius_Neck
+    400166: Jnt_Brafilius_Nose
+    400168: Jnt_Brafilius_Nose_bs
+    400170: Jnt_Brafilius_Palm_L
+    400172: Jnt_Brafilius_Palm_R
+    400174: Jnt_Brafilius_Pinky_01_L
+    400176: Jnt_Brafilius_Pinky_01_R
+    400178: Jnt_Brafilius_Pinky_02_L
+    400180: Jnt_Brafilius_Pinky_02_R
+    400182: Jnt_Brafilius_Pinky_03_L
+    400184: Jnt_Brafilius_Pinky_03_R
+    400186: Jnt_Brafilius_Pinky_04be_L
+    400188: Jnt_Brafilius_Pinky_04be_R
+    400190: Jnt_Brafilius_Ring_01_L
+    400192: Jnt_Brafilius_Ring_01_R
+    400194: Jnt_Brafilius_Ring_02_L
+    400196: Jnt_Brafilius_Ring_02_R
+    400198: Jnt_Brafilius_Ring_03_L
+    400200: Jnt_Brafilius_Ring_03_R
+    400202: Jnt_Brafilius_Ring_04be_L
+    400204: Jnt_Brafilius_Ring_04be_R
+    400206: Jnt_Brafilius_Shldr_L
+    400208: Jnt_Brafilius_Shldr_R
+    400210: Jnt_Brafilius_Sideburn1_01_L
+    400212: Jnt_Brafilius_Sideburn1_01_R
+    400214: Jnt_Brafilius_Sideburn1_02_L
+    400216: Jnt_Brafilius_Sideburn1_02_R
+    400218: Jnt_Brafilius_Sideburn1_03_L
+    400220: Jnt_Brafilius_Sideburn1_03_R
+    400222: Jnt_Brafilius_Sideburn2_01_L
+    400224: Jnt_Brafilius_Sideburn2_01_R
+    400226: Jnt_Brafilius_Sideburn2_02_L
+    400228: Jnt_Brafilius_Sideburn2_02_R
+    400230: Jnt_Brafilius_Sideburn2_03_L
+    400232: Jnt_Brafilius_Sideburn2_03_R
+    400234: Jnt_Brafilius_Spine01
+    400236: Jnt_Brafilius_Spine02
+    400238: Jnt_Brafilius_Tail_01
+    400240: Jnt_Brafilius_Tail_02
+    400242: Jnt_Brafilius_Tail_03
+    400244: Jnt_Brafilius_Tail_04
+    400246: Jnt_Brafilius_Tail_05be
+    400248: Jnt_Brafilius_Thigh_L
+    400250: Jnt_Brafilius_Thigh_R
+    400252: Jnt_Brafilius_Thumb_01_L
+    400254: Jnt_Brafilius_Thumb_01_R
+    400256: Jnt_Brafilius_Thumb_02_L
+    400258: Jnt_Brafilius_Thumb_02_R
+    400260: Jnt_Brafilius_Thumb_03be_L
+    400262: Jnt_Brafilius_Thumb_03be_R
+    400264: Jnt_Brafilius_Toe_L
+    400266: Jnt_Brafilius_Toe_R
+    400268: Jnt_Brafilius_Waist
+    400270: Jnt_Brafilius_Whiskers_L
+    400272: Jnt_Brafilius_Whiskers_R
+    400274: Jnt_Brafilius_Wrist_L
+    400276: Jnt_Brafilius_Wrist_R
+    4300000: Brafilius_01
+    7400000: DefeatedLoop
+    7400002: Defeated
+    9500000: //RootNode
+    13700000: Brafilius_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 'MuscleClip ''Brafilius@Defeated'' conversion warning:
+      ''Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+'
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Defeated
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Brafilius_01
+        weight: 0
+      - path: Jnt_Brafilius_Waist
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Belly_Front
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Belly_Side_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Belly_Side_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Index_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Index_01_L/Jnt_Brafilius_Index_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Index_01_L/Jnt_Brafilius_Index_02_L/Jnt_Brafilius_Index_03_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Index_01_L/Jnt_Brafilius_Index_02_L/Jnt_Brafilius_Index_03_L/Jnt_Brafilius_Index_04be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Middle_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Middle_01_L/Jnt_Brafilius_Middle_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Middle_01_L/Jnt_Brafilius_Middle_02_L/Jnt_Brafilius_Middle_03_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Middle_01_L/Jnt_Brafilius_Middle_02_L/Jnt_Brafilius_Middle_03_L/Jnt_Brafilius_Middle_04be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Pinky_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Pinky_01_L/Jnt_Brafilius_Pinky_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Pinky_01_L/Jnt_Brafilius_Pinky_02_L/Jnt_Brafilius_Pinky_03_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Pinky_01_L/Jnt_Brafilius_Pinky_02_L/Jnt_Brafilius_Pinky_03_L/Jnt_Brafilius_Pinky_04be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Ring_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Ring_01_L/Jnt_Brafilius_Ring_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Ring_01_L/Jnt_Brafilius_Ring_02_L/Jnt_Brafilius_Ring_03_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Ring_01_L/Jnt_Brafilius_Ring_02_L/Jnt_Brafilius_Ring_03_L/Jnt_Brafilius_Ring_04be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Thumb_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Thumb_01_L/Jnt_Brafilius_Thumb_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Thumb_01_L/Jnt_Brafilius_Thumb_02_L/Jnt_Brafilius_Thumb_03be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Index_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Index_01_R/Jnt_Brafilius_Index_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Index_01_R/Jnt_Brafilius_Index_02_R/Jnt_Brafilius_Index_03_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Index_01_R/Jnt_Brafilius_Index_02_R/Jnt_Brafilius_Index_03_R/Jnt_Brafilius_Index_04be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Middle_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Middle_01_R/Jnt_Brafilius_Middle_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Middle_01_R/Jnt_Brafilius_Middle_02_R/Jnt_Brafilius_Middle_03_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Middle_01_R/Jnt_Brafilius_Middle_02_R/Jnt_Brafilius_Middle_03_R/Jnt_Brafilius_Middle_04be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Pinky_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Pinky_01_R/Jnt_Brafilius_Pinky_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Pinky_01_R/Jnt_Brafilius_Pinky_02_R/Jnt_Brafilius_Pinky_03_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Pinky_01_R/Jnt_Brafilius_Pinky_02_R/Jnt_Brafilius_Pinky_03_R/Jnt_Brafilius_Pinky_04be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Ring_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Ring_01_R/Jnt_Brafilius_Ring_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Ring_01_R/Jnt_Brafilius_Ring_02_R/Jnt_Brafilius_Ring_03_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Ring_01_R/Jnt_Brafilius_Ring_02_R/Jnt_Brafilius_Ring_03_R/Jnt_Brafilius_Ring_04be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Thumb_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Thumb_01_R/Jnt_Brafilius_Thumb_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Thumb_01_R/Jnt_Brafilius_Thumb_02_R/Jnt_Brafilius_Thumb_03be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Back_01
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Back_01/Jnt_Brafilius_Collar_Back_02be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Front_01_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Front_01_L/Jnt_Brafilius_Collar_Front_02be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Front_01_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Front_01_R/Jnt_Brafilius_Collar_Front_02be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Cravat_01
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Cravat_01/Jnt_Brafilius_Cravat_02
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Cravat_01/Jnt_Brafilius_Cravat_02/Jnt_Brafilius_Cravat_03
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Cravat_01/Jnt_Brafilius_Cravat_02/Jnt_Brafilius_Cravat_03/Jnt_Brafilius_Cravat_04be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Brow
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Bottom_Back_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Bottom_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_L/Jnt_Brafilius_Eye_be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Top_Back_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Top_Front_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Top_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Bottom_Back_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Bottom_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_R/Jnt_Brafilius_Eye_be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Top_Back_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Top_Front_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Top_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eyebrow01_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eyebrow01_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eyebrow02_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eyebrow02_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Fringe_01
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Fringe_01/Jnt_Brafilius_Fringe_02
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Feather01
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Feather01/Jnt_Brafilius_Feather01_be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Feather02
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Feather02/Jnt_Brafilius_Feather02_be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Hat_be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Jaw
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Jaw/Jnt_Brafilius_Jaw_be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Jaw/Jnt_Brafilius_Lip_Lower
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Cheek_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Cheek_L/Jnt_Brafilius_Jowl_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Cheek_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Cheek_R/Jnt_Brafilius_Jowl_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Lip_Upper
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Mouth_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Mouth_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Nose
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Whiskers_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Whiskers_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_L/Jnt_Brafilius_Sideburn1_02_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_L/Jnt_Brafilius_Sideburn1_02_L/Jnt_Brafilius_Sideburn1_03_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_R/Jnt_Brafilius_Sideburn1_02_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_R/Jnt_Brafilius_Sideburn1_02_R/Jnt_Brafilius_Sideburn1_03_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_L/Jnt_Brafilius_Sideburn2_02_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_L/Jnt_Brafilius_Sideburn2_02_L/Jnt_Brafilius_Sideburn2_03_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_R/Jnt_Brafilius_Sideburn2_02_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_R/Jnt_Brafilius_Sideburn2_02_R/Jnt_Brafilius_Sideburn2_03_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01/Jnt_Brafilius_Tail_02
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01/Jnt_Brafilius_Tail_02/Jnt_Brafilius_Tail_03
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01/Jnt_Brafilius_Tail_02/Jnt_Brafilius_Tail_03/Jnt_Brafilius_Tail_04
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01/Jnt_Brafilius_Tail_02/Jnt_Brafilius_Tail_03/Jnt_Brafilius_Tail_04/Jnt_Brafilius_Tail_05be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L/Jnt_Brafilius_Knee_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L/Jnt_Brafilius_Knee_L/Jnt_Brafilius_Ankle_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L/Jnt_Brafilius_Knee_L/Jnt_Brafilius_Ankle_L/Jnt_Brafilius_Ball_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L/Jnt_Brafilius_Knee_L/Jnt_Brafilius_Ankle_L/Jnt_Brafilius_Ball_L/Jnt_Brafilius_Toe_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R/Jnt_Brafilius_Knee_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R/Jnt_Brafilius_Knee_R/Jnt_Brafilius_Ankle_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R/Jnt_Brafilius_Knee_R/Jnt_Brafilius_Ankle_R/Jnt_Brafilius_Ball_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R/Jnt_Brafilius_Knee_R/Jnt_Brafilius_Ankle_R/Jnt_Brafilius_Ball_R/Jnt_Brafilius_Toe_R
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: DefeatedLoop
+      takeName: Take 001
+      firstFrame: 37
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Brafilius_01
+        weight: 0
+      - path: Jnt_Brafilius_Waist
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Belly_Front
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Belly_Side_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Belly_Side_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Index_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Index_01_L/Jnt_Brafilius_Index_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Index_01_L/Jnt_Brafilius_Index_02_L/Jnt_Brafilius_Index_03_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Index_01_L/Jnt_Brafilius_Index_02_L/Jnt_Brafilius_Index_03_L/Jnt_Brafilius_Index_04be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Middle_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Middle_01_L/Jnt_Brafilius_Middle_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Middle_01_L/Jnt_Brafilius_Middle_02_L/Jnt_Brafilius_Middle_03_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Middle_01_L/Jnt_Brafilius_Middle_02_L/Jnt_Brafilius_Middle_03_L/Jnt_Brafilius_Middle_04be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Pinky_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Pinky_01_L/Jnt_Brafilius_Pinky_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Pinky_01_L/Jnt_Brafilius_Pinky_02_L/Jnt_Brafilius_Pinky_03_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Pinky_01_L/Jnt_Brafilius_Pinky_02_L/Jnt_Brafilius_Pinky_03_L/Jnt_Brafilius_Pinky_04be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Ring_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Ring_01_L/Jnt_Brafilius_Ring_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Ring_01_L/Jnt_Brafilius_Ring_02_L/Jnt_Brafilius_Ring_03_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Ring_01_L/Jnt_Brafilius_Ring_02_L/Jnt_Brafilius_Ring_03_L/Jnt_Brafilius_Ring_04be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Thumb_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Thumb_01_L/Jnt_Brafilius_Thumb_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Thumb_01_L/Jnt_Brafilius_Thumb_02_L/Jnt_Brafilius_Thumb_03be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Index_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Index_01_R/Jnt_Brafilius_Index_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Index_01_R/Jnt_Brafilius_Index_02_R/Jnt_Brafilius_Index_03_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Index_01_R/Jnt_Brafilius_Index_02_R/Jnt_Brafilius_Index_03_R/Jnt_Brafilius_Index_04be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Middle_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Middle_01_R/Jnt_Brafilius_Middle_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Middle_01_R/Jnt_Brafilius_Middle_02_R/Jnt_Brafilius_Middle_03_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Middle_01_R/Jnt_Brafilius_Middle_02_R/Jnt_Brafilius_Middle_03_R/Jnt_Brafilius_Middle_04be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Pinky_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Pinky_01_R/Jnt_Brafilius_Pinky_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Pinky_01_R/Jnt_Brafilius_Pinky_02_R/Jnt_Brafilius_Pinky_03_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Pinky_01_R/Jnt_Brafilius_Pinky_02_R/Jnt_Brafilius_Pinky_03_R/Jnt_Brafilius_Pinky_04be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Ring_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Ring_01_R/Jnt_Brafilius_Ring_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Ring_01_R/Jnt_Brafilius_Ring_02_R/Jnt_Brafilius_Ring_03_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Ring_01_R/Jnt_Brafilius_Ring_02_R/Jnt_Brafilius_Ring_03_R/Jnt_Brafilius_Ring_04be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Thumb_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Thumb_01_R/Jnt_Brafilius_Thumb_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Thumb_01_R/Jnt_Brafilius_Thumb_02_R/Jnt_Brafilius_Thumb_03be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Back_01
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Back_01/Jnt_Brafilius_Collar_Back_02be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Front_01_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Front_01_L/Jnt_Brafilius_Collar_Front_02be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Front_01_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Front_01_R/Jnt_Brafilius_Collar_Front_02be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Cravat_01
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Cravat_01/Jnt_Brafilius_Cravat_02
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Cravat_01/Jnt_Brafilius_Cravat_02/Jnt_Brafilius_Cravat_03
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Cravat_01/Jnt_Brafilius_Cravat_02/Jnt_Brafilius_Cravat_03/Jnt_Brafilius_Cravat_04be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Brow
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Bottom_Back_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Bottom_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_L/Jnt_Brafilius_Eye_be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Top_Back_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Top_Front_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Top_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Bottom_Back_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Bottom_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_R/Jnt_Brafilius_Eye_be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Top_Back_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Top_Front_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Top_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eyebrow01_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eyebrow01_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eyebrow02_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eyebrow02_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Fringe_01
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Fringe_01/Jnt_Brafilius_Fringe_02
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Feather01
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Feather01/Jnt_Brafilius_Feather01_be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Feather02
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Feather02/Jnt_Brafilius_Feather02_be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Hat_be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Jaw
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Jaw/Jnt_Brafilius_Jaw_be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Jaw/Jnt_Brafilius_Lip_Lower
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Cheek_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Cheek_L/Jnt_Brafilius_Jowl_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Cheek_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Cheek_R/Jnt_Brafilius_Jowl_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Lip_Upper
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Mouth_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Mouth_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Nose
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Whiskers_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Whiskers_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_L/Jnt_Brafilius_Sideburn1_02_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_L/Jnt_Brafilius_Sideburn1_02_L/Jnt_Brafilius_Sideburn1_03_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_R/Jnt_Brafilius_Sideburn1_02_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_R/Jnt_Brafilius_Sideburn1_02_R/Jnt_Brafilius_Sideburn1_03_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_L/Jnt_Brafilius_Sideburn2_02_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_L/Jnt_Brafilius_Sideburn2_02_L/Jnt_Brafilius_Sideburn2_03_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_R/Jnt_Brafilius_Sideburn2_02_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_R/Jnt_Brafilius_Sideburn2_02_R/Jnt_Brafilius_Sideburn2_03_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01/Jnt_Brafilius_Tail_02
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01/Jnt_Brafilius_Tail_02/Jnt_Brafilius_Tail_03
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01/Jnt_Brafilius_Tail_02/Jnt_Brafilius_Tail_03/Jnt_Brafilius_Tail_04
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01/Jnt_Brafilius_Tail_02/Jnt_Brafilius_Tail_03/Jnt_Brafilius_Tail_04/Jnt_Brafilius_Tail_05be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L/Jnt_Brafilius_Knee_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L/Jnt_Brafilius_Knee_L/Jnt_Brafilius_Ankle_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L/Jnt_Brafilius_Knee_L/Jnt_Brafilius_Ankle_L/Jnt_Brafilius_Ball_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L/Jnt_Brafilius_Knee_L/Jnt_Brafilius_Ankle_L/Jnt_Brafilius_Ball_L/Jnt_Brafilius_Toe_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R/Jnt_Brafilius_Knee_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R/Jnt_Brafilius_Knee_R/Jnt_Brafilius_Ankle_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R/Jnt_Brafilius_Knee_R/Jnt_Brafilius_Ankle_R/Jnt_Brafilius_Ball_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R/Jnt_Brafilius_Knee_R/Jnt_Brafilius_Ankle_R/Jnt_Brafilius_Ball_R/Jnt_Brafilius_Toe_R
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: Jnt_Brafilius_Waist
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Thigh_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Thigh_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Knee_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Knee_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ankle_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ankle_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Spine01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Spine02
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Clav_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Clav_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Shldr_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Shldr_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Elbow_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Elbow_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Wrist_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Wrist_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ball_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ball_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Eye_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Eye_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Thumb_01_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Thumb_02_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Index_01_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Index_02_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Index_03_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Middle_01_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Middle_02_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Middle_03_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ring_01_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ring_02_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ring_03_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Pinky_01_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Pinky_02_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Pinky_03_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Thumb_01_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Thumb_02_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Index_01_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Index_02_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Index_03_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Middle_01_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Middle_02_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Middle_03_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ring_01_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ring_02_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ring_03_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Pinky_01_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Pinky_02_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Pinky_03_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Brafilius@Idle(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Brafilius_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Waist
+      position: {x: 0, y: .753216743, z: -.138668522}
+      rotation: {x: .407149076, y: -.578125954, z: -.407149076, w: .578125954}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thigh_R
+      position: {x: -.0363756381, y: .104479417, z: -.176940992}
+      rotation: {x: .0920085907, y: .993557334, z: -.0640911311, w: -.0164538939}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Knee_R
+      position: {x: -.487752229, y: 2.74835616e-16, z: 5.14736661e-17}
+      rotation: {x: -.953315794, y: -.300857931, z: .0195584558, w: -.0170586053}
+      scale: {x: .99999994, y: .999999583, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ankle_R
+      position: {x: -.185626477, y: 4.2463555e-17, z: 7.00427638e-16}
+      rotation: {x: .75252521, y: .65620482, z: -.00234037708, w: -.0556391068}
+      scale: {x: 1.00000012, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ball_R
+      position: {x: -.242000192, y: -1.05507377e-16, z: 2.00036413e-16}
+      rotation: {x: -.0117236385, y: -.0344170146, z: -.256466448, w: .965869009}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Toe_R
+      position: {x: -.234244391, y: 5.18494311e-17, z: 1.70608698e-17}
+      rotation: {x: .660627007, y: -.0227236301, z: .749926805, w: .0257952828}
+      scale: {x: 1.00000012, y: .999999762, z: .999999642}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thigh_L
+      position: {x: -.0363760665, y: .104479618, z: .176941141}
+      rotation: {x: .0920088738, y: .993557334, z: .0640903637, w: .016453715}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Knee_L
+      position: {x: -.487752825, y: -5.75762622e-18, z: 2.6244229e-17}
+      rotation: {x: -.953315973, y: -.300857604, z: -.0195582695, w: .0170580745}
+      scale: {x: 1, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ankle_L
+      position: {x: -.185626611, y: 2.8972302e-17, z: -3.34188527e-15}
+      rotation: {x: .752524734, y: .656205297, z: .00234000618, w: .0556398854}
+      scale: {x: .99999994, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ball_L
+      position: {x: -.241999939, y: -3.4416914e-17, z: 2.35644751e-16}
+      rotation: {x: .0117241982, y: .0344188325, z: -.256465644, w: .965869188}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Toe_L
+      position: {x: -.234244078, y: -4.64097086e-18, z: 1.68929836e-17}
+      rotation: {x: -.0227237362, y: -.66062808, z: -.025795335, w: .749925971}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Spine01
+      position: {x: -.177666292, y: 3.4972025e-17, z: -1.01355069e-16}
+      rotation: {x: 0, y: 0, z: -.168871373, w: .985638142}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Belly_Side_R
+      position: {x: -.00918597542, y: .131216049, z: -.480348736}
+      rotation: {x: 0, y: 0, z: -1, w: 0}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Spine02
+      position: {x: -.195407152, y: -9.45675166e-19, z: 4.95151721e-18}
+      rotation: {x: -.996766627, y: .0803508535, z: 2.9738576e-08, w: 2.98659266e-08}
+      scale: {x: 1.00000036, y: 1.00000048, z: 1.0000006}
+      transformModified: 1
+    - name: Jnt_Brafilius_03
+      position: {x: -.170849875, y: 8.38509347e-17, z: -7.23150905e-18}
+      rotation: {x: -5.01953359e-08, y: 6.74795899e-08, z: .134664729, w: .990891278}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Collar_Back_01
+      position: {x: -.113848522, y: .151885837, z: 1.33670807e-17}
+      rotation: {x: .935766697, y: -.352619767, z: 2.51159555e-08, w: -3.3845911e-08}
+      scale: {x: 1.00000012, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Collar_Back_02be
+      position: {x: -.155087978, y: 8.881784e-18, z: -5.55111479e-18}
+      rotation: {x: -.421375811, y: .567840159, z: .421375811, w: .567840159}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Collar_Front_01_L
+      position: {x: -.138353765, y: -.201695591, z: -.138141021}
+      rotation: {x: .564575493, y: -.473235548, z: .180935368, w: .651586652}
+      scale: {x: .999999762, y: .999999881, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Collar_Front_02be_L
+      position: {x: -.182350308, y: 4.94049238e-17, z: -8.881784e-18}
+      rotation: {x: -.0126768714, y: .0408128351, z: .296359122, w: .95411998}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Clav_R
+      position: {x: -.00450937171, y: .0186235737, z: .213949993}
+      rotation: {x: -.466028661, y: .531805694, z: .291213691, w: .644356012}
+      scale: {x: .999999881, y: .999999821, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Shldr_R
+      position: {x: -.112192847, y: 1.13242746e-16, z: 6.71655834e-17}
+      rotation: {x: .0255430955, y: .0116672954, z: .173436776, w: .984444618}
+      scale: {x: 1, y: .999999881, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Elbow_R
+      position: {x: -.313462526, y: -1.50598938e-16, z: 5.27243103e-17}
+      rotation: {x: -.0769695416, y: -.0431216173, z: -.0337510817, w: .995528579}
+      scale: {x: .99999994, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Wrist_R
+      position: {x: -.297482222, y: 2.38018028e-17, z: 7.39332774e-17}
+      rotation: {x: .0171272848, y: .0319885798, z: -.000738158822, w: .999341249}
+      scale: {x: .99999994, y: 1, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Palm_R
+      position: {x: -.0713009983, y: 1.74702451e-16, z: 3.58513809e-17}
+      rotation: {x: -.113265567, y: -.251993954, z: -.0657073855, w: .958828747}
+      scale: {x: 1, y: .999999881, z: .999999583}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_01_R
+      position: {x: -.0769363493, y: -9.38295453e-17, z: -6.23081473e-17}
+      rotation: {x: .126533344, y: .260613084, z: .0936479867, w: .952523053}
+      scale: {x: .999999821, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_02_R
+      position: {x: -.0558441915, y: -1.44685298e-16, z: 1.29471276e-16}
+      rotation: {x: -.00596951973, y: -.0052133319, z: .0400193483, w: .999167502}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_03_R
+      position: {x: -.0366756134, y: 1.09993925e-16, z: 1.09819517e-18}
+      rotation: {x: -.0180409737, y: -.0145320864, z: -.0373694636, w: .999033034}
+      scale: {x: .99999994, y: .999999881, z: 1.00000036}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_04be_R
+      position: {x: -.0354055129, y: -2.66201197e-17, z: -1.84778533e-17}
+      rotation: {x: .0538267419, y: -.0151323089, z: .961175084, w: .270215094}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_01_R
+      position: {x: -.0535264462, y: .00210124091, z: .0317305848}
+      rotation: {x: .137618169, y: .307614654, z: .0627226457, w: .939414918}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_02_R
+      position: {x: -.0672300309, y: -1.1415017e-16, z: 6.28253138e-17}
+      rotation: {x: -.0160498451, y: -.0155819282, z: .0371050499, w: .999060988}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_03_R
+      position: {x: -.0413716957, y: 9.30169959e-17, z: -4.55371e-17}
+      rotation: {x: .0038255183, y: .00548502523, z: -.00303633977, w: .999973059}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_04be_R
+      position: {x: -.0389787816, y: -2.55312195e-16, z: 1.57986005e-16}
+      rotation: {x: -.010948821, y: .00342275831, z: .954386115, w: .298354775}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_01_R
+      position: {x: -.0256635882, y: -.00119266461, z: .0556606948}
+      rotation: {x: .172761902, y: .328990161, z: .0212879386, w: .928151786}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_02_R
+      position: {x: -.0581645295, y: -2.3157717e-17, z: 3.30871385e-17}
+      rotation: {x: -.00324763008, y: -.00623839302, z: .0205775313, w: .999763548}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_03_R
+      position: {x: -.038439732, y: 2.2830889e-16, z: -4.42929112e-17}
+      rotation: {x: -.02005817, y: -.0359487981, z: .00836676918, w: .999117315}
+      scale: {x: .99999994, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_04be_R
+      position: {x: -.0363910049, y: -1.1491209e-16, z: -2.6724227e-17}
+      rotation: {x: -.0964228436, y: .0255118199, z: .961914003, w: .254505813}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thumb_01_R
+      position: {x: -.0152547024, y: -.0202452727, z: -.0545637868}
+      rotation: {x: -.0449243039, y: -.117299691, z: .0105331987, w: .992024004}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000048}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thumb_02_R
+      position: {x: -.0945997313, y: -9.86738459e-17, z: -1.76123213e-17}
+      rotation: {x: .0684602112, y: .0328215137, z: .0221956242, w: .996866763}
+      scale: {x: .999999702, y: .999999821, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thumb_03be_R
+      position: {x: -.0445342995, y: -5.7396362e-17, z: -1.5598608e-16}
+      rotation: {x: .174484298, y: .146630093, z: .833526433, w: .503277898}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_01_R
+      position: {x: .00433192356, y: -.00919052493, z: .0746349767}
+      rotation: {x: .197942153, y: .326645255, z: .0126557201, w: .924100459}
+      scale: {x: 1.00000024, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_02_R
+      position: {x: -.0517580844, y: -2.60751099e-16, z: 1.97033443e-16}
+      rotation: {x: .0127528254, y: .0247938763, z: -.00264989841, w: .999607742}
+      scale: {x: 1, y: 1.00000012, z: .999999702}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_03_R
+      position: {x: -.0305731576, y: -1.26325493e-17, z: 1.08681778e-16}
+      rotation: {x: -.0348950587, y: -.0353263244, z: -.0175365414, w: .998612463}
+      scale: {x: 1, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_04be_R
+      position: {x: -.0270311572, y: -6.23432396e-17, z: -4.03395041e-17}
+      rotation: {x: -.14827472, y: .0298881643, z: .969004393, w: .195325032}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Neck
+      position: {x: -.115893282, y: -1.17208396e-16, z: -1.16896825e-17}
+      rotation: {x: -8.79515127e-10, y: -5.51054313e-10, z: .0246236082, w: .999696851}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Head
+      position: {x: -.0392489769, y: -6.26442208e-17, z: -4.35144731e-18}
+      rotation: {x: 4.37952217e-08, y: -7.2023596e-08, z: .00213091611, w: .999997735}
+      scale: {x: .999999642, y: .999999762, z: .999999642}
+      transformModified: 1
+    - name: Jnt_Brafilius_Nose_bs
+      position: {x: -.0743979141, y: -.133564696, z: -4.00786841e-17}
+      rotation: {x: .121542051, y: -.221441776, z: .537157655, w: .804768741}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Whiskers_L
+      position: {x: -.100721262, y: -1.14273173e-15, z: 5.95429063e-16}
+      rotation: {x: -.0218798909, y: -.505083144, z: -.0373406596, w: .861984909}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Mouth_L
+      position: {x: -.0909641236, y: -.028899163, z: -.038186498}
+      rotation: {x: 5.24335286e-09, y: .300705761, z: -1.38907312e-08, w: .953716993}
+      scale: {x: .999999821, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Nose
+      position: {x: -.0999059379, y: .0308423974, z: .0572653897}
+      rotation: {x: -.00511935633, y: -.0623983629, z: -.00471538445, w: .998027086}
+      scale: {x: .999999821, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Cheek_L
+      position: {x: -.07143116, y: .0240602233, z: -.0708173811}
+      rotation: {x: -.292142481, y: -.697784662, z: .199462175, w: .622867763}
+      scale: {x: 1.00000012, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Jnt_Brafilius_Jowl_L
+      position: {x: -.0743092149, y: .00329682394, z: -4.87348188e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Jnt_Brafilius_Lip_Upper
+      position: {x: -.0813440382, y: -.0288642496, z: .0437837243}
+      rotation: {x: -.00511935633, y: -.0623983629, z: -.00471538445, w: .998027086}
+      scale: {x: .999999821, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Mouth_R
+      position: {x: -.016560195, y: -.0353544913, z: .0950967595}
+      rotation: {x: 2.18092611e-09, y: .300705761, z: 3.78900893e-08, w: .953717053}
+      scale: {x: .999999821, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Whiskers_R
+      position: {x: -.0529468991, y: -.00415100437, z: .0855816752}
+      rotation: {x: -.0218798611, y: -.505083144, z: -.0373406298, w: .861984849}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Cheek_R
+      position: {x: .0236144606, y: .0158130247, z: .0994423851}
+      rotation: {x: .378324002, y: .903636098, z: .0612329468, w: .191215664}
+      scale: {x: .999999404, y: .99999994, z: .999999464}
+      transformModified: 1
+    - name: Jnt_Brafilius_Jowl_R
+      position: {x: -.0743084326, y: .00329683744, z: 6.61979489e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Jaw
+      position: {x: -.0620896183, y: -.103195436, z: -2.72417029e-17}
+      rotation: {x: 1.61936136e-08, y: 3.89117432e-08, z: .807337821, w: .5900895}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Jaw_be
+      position: {x: -.146685049, y: -1.50990333e-16, z: -2.14061439e-17}
+      rotation: {x: 0, y: 0, z: -.80733788, w: .59008944}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Lip_Lower
+      position: {x: -.121965207, y: .045811668, z: -3.01980666e-16}
+      rotation: {x: 1.61936118e-08, y: 3.89117432e-08, z: -.80733788, w: .5900895}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eyebrow02_L
+      position: {x: -.193004817, y: -.152228788, z: -.0872166455}
+      rotation: {x: .366737217, y: -.604569077, z: .366737217, w: .604569137}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eyebrow01_L
+      position: {x: -.182105348, y: -.174951032, z: -.0380402505}
+      rotation: {x: .366737217, y: -.604569077, z: .366737217, w: .604569137}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Brow
+      position: {x: -.161422476, y: -.176726788, z: -4.79616313e-16}
+      rotation: {x: .366737217, y: -.604569077, z: .366737217, w: .604569137}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn2_01_L
+      position: {x: -.0979386717, y: -.106438644, z: -.103444286}
+      rotation: {x: .591841757, y: -.656195164, z: .1634361, w: .438656896}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn2_02_L
+      position: {x: -.0591376089, y: 1.00054708e-16, z: 5.41685643e-17}
+      rotation: {x: .116442367, y: -.226652846, z: -.0939927772, w: .962411046}
+      scale: {x: 1, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn2_03_L
+      position: {x: -.0979761183, y: 2.93250052e-17, z: -2.31032438e-17}
+      rotation: {x: -.148859739, y: .506275296, z: .239613399, w: .814930379}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_bs_L
+      position: {x: -.130462229, y: -.118488006, z: -.0543162972}
+      rotation: {x: .139403671, y: -.161564842, z: .361135602, w: .907768965}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Top_Back_L
+      position: {x: -.0329266787, y: -.00296476902, z: -.0210446808}
+      rotation: {x: .0895539373, y: -.532449305, z: .139608532, w: .830052614}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Top_Front_L
+      position: {x: -.0239598528, y: -.024494037, z: .0253354833}
+      rotation: {x: .0895539373, y: -.532449305, z: .139608532, w: .830052614}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Bottom_L
+      position: {x: -.0340708867, y: -.0298500508, z: -.00817631744}
+      rotation: {x: .0895539373, y: -.532449305, z: .139608532, w: .830052614}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Top_L
+      position: {x: -.0461565144, y: -2.02948755e-15, z: 3.64708247e-16}
+      rotation: {x: .0895539373, y: -.532449305, z: .139608532, w: .830052614}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Bottom_Back_L
+      position: {x: -.0279839803, y: -.01398159, z: -.0230488349}
+      rotation: {x: .0895539373, y: -.532449305, z: .139608532, w: .830052614}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_L
+      position: {x: -.0129142627, y: -.00767888874, z: .000450089865}
+      rotation: {x: -.0304367952, y: .21121119, z: .184647784, w: .959358454}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_be_L
+      position: {x: -.0236623567, y: .00560289063, z: -.0104841851}
+      rotation: {x: -.0166240111, y: -.706911385, z: -.0166240111, w: .706911385}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn1_01_L
+      position: {x: -.236537978, y: -.0443171263, z: -.115542069}
+      rotation: {x: -.0220714603, y: -.527101338, z: .769172549, w: .360625386}
+      scale: {x: 1.00000036, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn1_02_L
+      position: {x: -.079936482, y: -3.50887634e-17, z: -1.04347484e-16}
+      rotation: {x: .940718591, y: .319202483, z: -.00795926806, w: -.114433736}
+      scale: {x: .999999762, y: .999999583, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn1_03_L
+      position: {x: -.0797564685, y: 2.51848465e-16, z: -3.55338957e-17}
+      rotation: {x: -.574501038, y: -.74552387, z: .206221089, w: -.267610908}
+      scale: {x: 1.00000024, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Fringe_01
+      position: {x: -.232463986, y: -.155665964, z: -6.33457229e-17}
+      rotation: {x: -.216953322, y: -.976181984, z: 2.91565385e-08, w: 3.0434407e-08}
+      scale: {x: 1.00000036, y: 1.00000024, z: 1.00000036}
+      transformModified: 1
+    - name: Jnt_Brafilius_Fringe_02
+      position: {x: -.060763251, y: 1.73715588e-17, z: -1.41614859e-17}
+      rotation: {x: .489165545, y: .51060462, z: -.489165545, w: .51060462}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Hat
+      position: {x: -.243525609, y: .00021047231, z: -6.75015591e-16}
+      rotation: {x: -2.61499213e-08, y: 3.30535634e-08, z: -.123730771, w: .992315888}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Hat_be
+      position: {x: -.223258793, y: 7.22425335e-17, z: -1.32169168e-17}
+      rotation: {x: .438722938, y: -.554546893, z: .438722938, w: .554546893}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Feather02
+      position: {x: -.00986067578, y: .0340082645, z: .0677598044}
+      rotation: {x: -.787998021, y: .376279354, z: .134853646, w: .468281388}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Jnt_Brafilius_Feather02_be
+      position: {x: -.225721672, y: -.0231005419, z: .0227782745}
+      rotation: {x: .241203874, y: -.200513721, z: -.0925362259, w: .945014298}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Feather01
+      position: {x: -.00986067578, y: .0340082645, z: .0677598044}
+      rotation: {x: -.73819983, y: .613029301, z: .125198856, w: .252153546}
+      scale: {x: .99999994, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Feather01_be
+      position: {x: -.249203429, y: 2.09743715e-16, z: -6.13078477e-17}
+      rotation: {x: .307352901, y: -.367962092, z: -.241660565, w: .843645811}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn1_01_R
+      position: {x: -.236542091, y: -.0443149284, z: .115542002}
+      rotation: {x: .022079451, y: .527103543, z: .769176424, w: .360613286}
+      scale: {x: 1.00000036, y: 1.00000048, z: 1.00000036}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn1_02_R
+      position: {x: -.0799433365, y: -5.31403159e-17, z: -2.93878081e-17}
+      rotation: {x: -.940721512, y: -.319196194, z: -.00795619469, w: -.114427119}
+      scale: {x: 1, y: .999999762, z: .999999821}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn1_03_R
+      position: {x: -.0797535852, y: -4.20740323e-17, z: -1.2174971e-16}
+      rotation: {x: .745531023, y: -.574497163, z: -.267605245, w: -.2062134}
+      scale: {x: 1.00000012, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn2_01_R
+      position: {x: -.0979347751, y: -.106440686, z: .103444003}
+      rotation: {x: -.591875315, y: .656163216, z: .163413957, w: .438667625}
+      scale: {x: 1.0000006, y: 1, z: 1.0000006}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn2_02_R
+      position: {x: -.0591405742, y: 6.14082409e-17, z: 3.18889674e-17}
+      rotation: {x: .116454951, y: -.226650298, z: .0939383656, w: -.962415516}
+      scale: {x: .999999523, y: .999999881, z: .999999344}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn2_03_R
+      position: {x: -.0979754999, y: -1.50170008e-16, z: -6.69006871e-17}
+      rotation: {x: -.506276608, y: -.148857936, z: .814930916, w: -.239610001}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eyebrow02_R
+      position: {x: -.193004817, y: -.15222913, z: .0872165933}
+      rotation: {x: .604569197, y: .366737247, z: .604569137, w: -.366737247}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_bs_R
+      position: {x: -.130460769, y: -.118488759, z: .0543163009}
+      rotation: {x: -.139404505, y: .161563307, z: .361128598, w: .907771945}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000036}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Bottom_Back_R
+      position: {x: -.0279829428, y: -.0139839742, z: .0230489615}
+      rotation: {x: .532449186, y: .0895581841, z: .830051124, w: -.139614969}
+      scale: {x: .999999762, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Top_R
+      position: {x: -.0461568385, y: -1.9049663e-15, z: -1.33260941e-15}
+      rotation: {x: .532449186, y: .0895581841, z: .830051124, w: -.139614969}
+      scale: {x: .999999762, y: .999999762, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Top_Back_R
+      position: {x: -.0329263248, y: -.00296484143, z: .0210448578}
+      rotation: {x: .532449186, y: .0895581841, z: .830051124, w: -.139614969}
+      scale: {x: .999999762, y: .999999762, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Top_Front_R
+      position: {x: -.0239593145, y: -.0244961046, z: -.0253355931}
+      rotation: {x: .532449186, y: .0895581245, z: .830051124, w: -.13961491}
+      scale: {x: 1, y: .999999642, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Bottom_R
+      position: {x: -.034071289, y: -.0298487227, z: .00817626622}
+      rotation: {x: .532449186, y: .0895581245, z: .830051124, w: -.13961491}
+      scale: {x: 1, y: .999999642, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_R
+      position: {x: -.013030462, y: -.00762848184, z: -.000487149111}
+      rotation: {x: .030443294, y: -.21120967, z: .184632912, w: .959361494}
+      scale: {x: .99999994, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_be_R
+      position: {x: -.0235663764, y: .00551294303, z: .0104789585}
+      rotation: {x: .706911743, y: -.0166075733, z: .706911743, w: .0166075733}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eyebrow01_R
+      position: {x: -.182108596, y: -.174949676, z: .038040299}
+      rotation: {x: .604569197, y: .366737247, z: .604569137, w: -.366737247}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Clav_L
+      position: {x: -.00451280782, y: .0186251067, z: -.213950217}
+      rotation: {x: .417060822, y: -.571016908, z: .34717685, w: .616009891}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Shldr_L
+      position: {x: -.110429965, y: .0198099222, z: -1.29429956e-16}
+      rotation: {x: -.0264771953, y: -.00935709663, z: .085502483, w: .995942116}
+      scale: {x: 1, y: .999999762, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Elbow_L
+      position: {x: -.313465595, y: -1.398881e-16, z: -8.77920781e-18}
+      rotation: {x: .0769702271, y: .0431209579, z: -.0337526239, w: .995528519}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Wrist_L
+      position: {x: -.297481835, y: -1.81178018e-16, z: -1.30715144e-16}
+      rotation: {x: -.0171286166, y: -.0319913626, z: -.000742017, w: .99934113}
+      scale: {x: 1, y: 1.00000012, z: .999999702}
+      transformModified: 1
+    - name: Jnt_Brafilius_Palm_L
+      position: {x: -.0713014454, y: -3.73034925e-16, z: -7.50447368e-17}
+      rotation: {x: .113268234, y: .252000839, z: -.0657017007, w: .958827019}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_01_L
+      position: {x: .00433311937, y: -.0091909552, z: -.0746344998}
+      rotation: {x: -.197944, y: -.326650202, z: .0126525685, w: .924098313}
+      scale: {x: 1.00000024, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_02_L
+      position: {x: -.0517586805, y: -1.72847092e-16, z: -9.07038366e-18}
+      rotation: {x: -.0127478577, y: -.0247848965, z: -.00266563008, w: .99960798}
+      scale: {x: .999999702, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_03_L
+      position: {x: -.030573424, y: 1.45814578e-16, z: 3.33743654e-17}
+      rotation: {x: .0348918587, y: .0353287011, z: -.0175284203, w: .998612642}
+      scale: {x: .99999994, y: 1.00000036, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_04be_L
+      position: {x: -.0270300265, y: -2.64399134e-17, z: -6.17072436e-18}
+      rotation: {x: .0298883729, y: .148270875, z: -.195331305, w: .969003677}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_01_L
+      position: {x: -.0256633461, y: -.00119263085, z: -.0556604676}
+      rotation: {x: -.172755748, y: -.328998059, z: .0212811287, w: .928150237}
+      scale: {x: 1.00000012, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_02_L
+      position: {x: -.0581678264, y: -3.79405301e-16, z: 1.78488553e-17}
+      rotation: {x: .0032229668, y: .00619043736, z: .020646153, w: .999762535}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_03_L
+      position: {x: -.0384323858, y: 2.69201841e-16, z: -1.50637547e-17}
+      rotation: {x: .0200910289, y: .036005415, z: .00828740373, w: .999115229}
+      scale: {x: .999999642, y: .999999762, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_04be_L
+      position: {x: -.0363949277, y: -2.17225107e-17, z: -1.24296626e-18}
+      rotation: {x: .0255038384, y: .0964029282, z: -.254481077, w: .961922765}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_01_L
+      position: {x: -.0769362971, y: -2.6645352e-17, z: -3.5527136e-17}
+      rotation: {x: -.126540139, y: -.260614157, z: .0936620906, w: .952520549}
+      scale: {x: .999999881, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_02_L
+      position: {x: -.0558412857, y: -2.39939976e-16, z: 3.14323173e-17}
+      rotation: {x: .00596655812, y: .00521659013, z: .0400192514, w: .999167562}
+      scale: {x: 1, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_03_L
+      position: {x: -.0366794318, y: 8.89666498e-17, z: -3.3963533e-17}
+      rotation: {x: .0180450026, y: .0145550584, z: -.0373642519, w: .999032795}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_04be_L
+      position: {x: -.0354016051, y: 9.27405257e-17, z: -3.07652189e-18}
+      rotation: {x: -.0151355295, y: -.0538292639, z: -.270256609, w: .961163223}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_01_L
+      position: {x: -.0535261966, y: .00210123463, z: -.0317311473}
+      rotation: {x: -.137614071, y: -.307615191, z: .0627075508, w: .939416409}
+      scale: {x: 1.00000024, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_02_L
+      position: {x: -.0672328547, y: -8.53419576e-17, z: 1.5073793e-16}
+      rotation: {x: .0160479546, y: .0155755263, z: .0371071286, w: .999061048}
+      scale: {x: .999999523, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_03_L
+      position: {x: -.0413711928, y: 7.58050978e-18, z: -2.14239051e-17}
+      rotation: {x: -.00382711878, y: -.00548719289, z: -.00304516149, w: .999973059}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_04be_L
+      position: {x: -.0389783941, y: -1.96369104e-16, z: -1.49683824e-16}
+      rotation: {x: .003422776, y: .0109488731, z: -.298354894, w: .954386055}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thumb_01_L
+      position: {x: -.0152547173, y: -.0202446226, z: .0545642897}
+      rotation: {x: .0449221432, y: .117293298, z: .0105310567, w: .992024899}
+      scale: {x: .999999762, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thumb_02_L
+      position: {x: -.094600074, y: -5.91018232e-17, z: 1.12415883e-16}
+      rotation: {x: -.068458654, y: -.0328221768, z: .0221922398, w: .996866882}
+      scale: {x: 1.00000024, y: .999999702, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thumb_03be_L
+      position: {x: -.0445340686, y: 9.46780209e-17, z: -3.97301399e-17}
+      rotation: {x: .14663057, y: -.174483955, z: -.503275633, w: .833527803}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Cravat_01
+      position: {x: -.155038998, y: -.274676591, z: -7.5493843e-17}
+      rotation: {x: -3.78300591e-08, y: -3.94430799e-09, z: .805350959, w: .592798412}
+      scale: {x: .999999881, y: .999999642, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Cravat_02
+      position: {x: -.209630787, y: 2.30926381e-16, z: -3.33080089e-17}
+      rotation: {x: -2.05549995e-08, y: -3.67946846e-08, z: .14469789, w: .989475906}
+      scale: {x: 1, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Cravat_03
+      position: {x: -.130592719, y: -1.23928636e-16, z: -1.34040433e-17}
+      rotation: {x: -2.05549995e-08, y: -3.67946846e-08, z: .210395828, w: .97761637}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Cravat_04be
+      position: {x: -.24768202, y: 1.55431224e-17, z: 2.03612361e-17}
+      rotation: {x: 0, y: 0, z: .961786687, w: -.273799926}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Collar_Front_01_R
+      position: {x: -.138356596, y: -.201694071, z: .138141006}
+      rotation: {x: .473235428, y: .564575493, z: .651586652, w: -.180935323}
+      scale: {x: 1.00000012, y: .999999821, z: .999999642}
+      transformModified: 1
+    - name: Jnt_Brafilius_Collar_Front_02be_R
+      position: {x: .182349339, y: 2.02228716e-06, z: -2.50232915e-07}
+      rotation: {x: -.0126768714, y: .0408128351, z: .296359122, w: .95411998}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Belly_Side_L
+      position: {x: .0609582029, y: .0521411598, z: .432624221}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Belly_Front
+      position: {x: .0439762101, y: .641311049, z: -.0694427788}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Tail_01
+      position: {x: -.0646740347, y: -.0935059562, z: -1.03812466e-17}
+      rotation: {x: 0, y: 0, z: .769216657, w: .638988078}
+      scale: {x: .999999762, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Tail_02
+      position: {x: -.0795280784, y: 6.4963e-17, z: 4.85762683e-18}
+      rotation: {x: -8.45659454e-09, y: -4.13736849e-08, z: -.302693099, w: .953088105}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Tail_03
+      position: {x: -.140065327, y: 3.64223572e-17, z: -1.94730046e-17}
+      rotation: {x: -1.37550238e-09, y: -1.7157431e-09, z: -.223454922, w: .974714339}
+      scale: {x: 1.00000012, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Tail_04
+      position: {x: -.134132564, y: -1.34025348e-16, z: -3.44703069e-17}
+      rotation: {x: -3.15394324e-08, y: -5.93387952e-08, z: -.362391442, w: .932026029}
+      scale: {x: .999999881, y: .999999821, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Tail_05be
+      position: {x: -.171827614, y: -7.34891542e-17, z: -5.71521849e-17}
+      rotation: {x: 0, y: -0, z: -.0284542423, w: .999595106}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 505f7e8a4801b1349be8c2e0f2c47295,
+    type: 3}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

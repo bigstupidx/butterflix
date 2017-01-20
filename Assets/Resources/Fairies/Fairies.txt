@@ -1,0 +1,76 @@
+<Row>
+</Row>
+<Row>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>Fairy</Data></Cell>
+	<Cell><Data>Unlock Cost (Keys,Gems,Population)</Data></Cell>
+	<Cell><Data>Level 1 Cost (Keys,Gems,Population)</Data></Cell>
+	<Cell><Data>Level 2 Cost (Keys,Gems,Population)</Data></Cell>
+	<Cell><Data>Level 3 Cost (Keys,Gems,Population)</Data></Cell>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>BLOOM</Data></Cell>
+	<Cell><Data>0-0-0</Data></Cell>
+	<Cell><Data>0-0-0</Data></Cell>
+	<Cell><Data>4-3000-50000</Data></Cell>
+	<Cell><Data>5-4000-125000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>STELLA</Data></Cell>
+	<Cell><Data>7-2000-50000</Data></Cell>
+	<Cell><Data>0-0-0</Data></Cell>
+	<Cell><Data>8-3000-100000</Data></Cell>
+	<Cell><Data>9-4000-200000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FLORA</Data></Cell>
+	<Cell><Data>5-2000-75000</Data></Cell>
+	<Cell><Data>0-0-0</Data></Cell>
+	<Cell><Data>6-3000-150000</Data></Cell>
+	<Cell><Data>7-4000-300000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>MUSA</Data></Cell>
+	<Cell><Data>10-2000-150000</Data></Cell>
+	<Cell><Data>0-0-0</Data></Cell>
+	<Cell><Data>11-3000-300000</Data></Cell>
+	<Cell><Data>12-4000-600000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TECNA</Data></Cell>
+	<Cell><Data>14-2000-125000</Data></Cell>
+	<Cell><Data>0-0-0</Data></Cell>
+	<Cell><Data>15-3000-250000</Data></Cell>
+	<Cell><Data>16-4000-500000</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>AISHA</Data></Cell>
+	<Cell><Data>12-2000-100000</Data></Cell>
+	<Cell><Data>0-0-0</Data></Cell>
+	<Cell><Data>13-3000-200000</Data></Cell>
+	<Cell><Data>14-4000-400000</Data></Cell>
+</Row>
+</Table>
+</Workbook>

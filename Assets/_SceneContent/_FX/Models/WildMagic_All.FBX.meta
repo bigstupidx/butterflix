@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: 4cf25dbb21be32441bb39c2f426a5692
+timeCreated: 1436795687
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: WildMagic_Base_Large
+    100004: WildMagic_Base_Med
+    100006: WildMagic_Base_Small
+    100008: WildMagic_Overlay_Large
+    100010: WildMagic_Overlay_Med
+    100012: WildMagic_Overlay_Small
+    400000: //RootNode
+    400002: WildMagic_Base_Large
+    400004: WildMagic_Base_Med
+    400006: WildMagic_Base_Small
+    400008: WildMagic_Overlay_Large
+    400010: WildMagic_Overlay_Med
+    400012: WildMagic_Overlay_Small
+    2300000: WildMagic_Base_Large
+    2300002: WildMagic_Base_Med
+    2300004: WildMagic_Base_Small
+    2300006: WildMagic_Overlay_Large
+    2300008: WildMagic_Overlay_Med
+    2300010: WildMagic_Overlay_Small
+    3300000: WildMagic_Base_Large
+    3300002: WildMagic_Base_Med
+    3300004: WildMagic_Base_Small
+    3300006: WildMagic_Overlay_Large
+    3300008: WildMagic_Overlay_Med
+    3300010: WildMagic_Overlay_Small
+    4300000: WildMagic_Overlay_Med
+    4300002: WildMagic_Base_Med
+    4300004: WildMagic_Overlay_Large
+    4300006: WildMagic_Base_Large
+    4300008: WildMagic_Base_Small
+    4300010: WildMagic_Overlay_Small
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .400000006
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

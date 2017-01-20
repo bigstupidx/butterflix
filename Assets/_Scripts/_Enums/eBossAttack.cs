@@ -1,0 +1,1 @@
+﻿public enum eBossAttack { ATTACK_01 = 0, ATTACK_02, ATTACK_03, NUM_ATTACKS, NULL }

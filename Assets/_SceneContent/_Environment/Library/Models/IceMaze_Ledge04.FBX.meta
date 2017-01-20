@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 278ee13f8d561104ebaf3912244c4760
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: IceMaze_Ledge04
+    100004: IceMaze_Ledge04_Floor
+    100006: IceMaze_Ledge00
+    100008: IceMaze_Ledge00_Floor
+    100010: IceMaze_Ledge01
+    100012: IceMaze_Ledge01_Floor
+    100014: IceMaze_Ledge02
+    100016: IceMaze_Ledge02_Floor
+    100018: IceMaze_Ledge03
+    100020: IceMaze_Ledge03_Floor
+    400000: //RootNode
+    400002: IceMaze_Ledge04
+    400004: IceMaze_Ledge04_Floor
+    400006: IceMaze_Ledge00
+    400008: IceMaze_Ledge00_Floor
+    400010: IceMaze_Ledge01
+    400012: IceMaze_Ledge01_Floor
+    400014: IceMaze_Ledge02
+    400016: IceMaze_Ledge02_Floor
+    400018: IceMaze_Ledge03
+    400020: IceMaze_Ledge03_Floor
+    2300000: IceMaze_Ledge04
+    2300002: IceMaze_Ledge04_Floor
+    2300004: IceMaze_Ledge00
+    2300006: IceMaze_Ledge00_Floor
+    2300008: IceMaze_Ledge01
+    2300010: IceMaze_Ledge01_Floor
+    2300012: IceMaze_Ledge02
+    2300014: IceMaze_Ledge02_Floor
+    2300016: IceMaze_Ledge03
+    2300018: IceMaze_Ledge03_Floor
+    3300000: IceMaze_Ledge04
+    3300002: IceMaze_Ledge04_Floor
+    3300004: IceMaze_Ledge00
+    3300006: IceMaze_Ledge00_Floor
+    3300008: IceMaze_Ledge01
+    3300010: IceMaze_Ledge01_Floor
+    3300012: IceMaze_Ledge02
+    3300014: IceMaze_Ledge02_Floor
+    3300016: IceMaze_Ledge03
+    3300018: IceMaze_Ledge03_Floor
+    4300000: IceMaze_Ledge04
+    4300002: IceMaze_Ledge04_Floor
+    4300004: IceMaze_Ledge00
+    4300006: IceMaze_Ledge01
+    4300008: IceMaze_Ledge02
+    4300010: IceMaze_Ledge03
+    4300012: IceMaze_Ledge00_Floor
+    4300014: IceMaze_Ledge01_Floor
+    4300016: IceMaze_Ledge02_Floor
+    4300018: IceMaze_Ledge03_Floor
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

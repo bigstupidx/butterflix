@@ -1,0 +1,1369 @@
+fileFormatVersion: 2
+guid: c189b678f8114e045a67a1e7213dfdc5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: eyebrow
+    100004: eyecorner_l
+    100006: eyecorner_r
+    100008: eyeedge_l
+    100010: eyeedge_r
+    100012: eyelid_l
+    100014: eyelid_r
+    100016: eyelidlower_l
+    100018: eyelidlower_r
+    100020: Flora_Fringe_R_1
+    100022: Flora_Fringe_R_2
+    100024: Flora_Fringe_R_3
+    100026: Flora_Fringe_R_4
+    100028: Flora_LeftEye
+    100030: Flora_New
+    100032: Flora_New_MainC
+    100034: Flora_New_MainHipC
+    100036: Flora_New_MainHipCG
+    100038: Flora_New_ROOTJ
+    100040: Flora_New_SH_HeadJ
+    100042: Flora_New_SH_HeadTipJ
+    100044: Flora_New_SH_JawJ
+    100046: Flora_New_SH_JawTipJ
+    100048: Flora_New_SH_lAnkleJ
+    100050: Flora_New_SH_lBallJ
+    100052: Flora_New_SH_lClavicleJ
+    100054: Flora_New_SH_lElbowJ
+    100056: Flora_New_SH_lFinger1J1
+    100058: Flora_New_SH_lFinger1J2
+    100060: Flora_New_SH_lFinger1J3
+    100062: Flora_New_SH_lFinger1JTip
+    100064: Flora_New_SH_lFinger2J1
+    100066: Flora_New_SH_lFinger2J2
+    100068: Flora_New_SH_lFinger2J3
+    100070: Flora_New_SH_lFinger2JTip
+    100072: Flora_New_SH_lFinger3J1
+    100074: Flora_New_SH_lFinger3J2
+    100076: Flora_New_SH_lFinger3J3
+    100078: Flora_New_SH_lFinger3JTip
+    100080: Flora_New_SH_lFinger4J1
+    100082: Flora_New_SH_lFinger4J2
+    100084: Flora_New_SH_lFinger4J3
+    100086: Flora_New_SH_lFinger4JTip
+    100088: Flora_New_SH_lForearmJ
+    100090: Flora_New_SH_lHipJ
+    100092: Flora_New_SH_lKneeJ
+    100094: Flora_New_SH_lPalmJ
+    100096: Flora_New_SH_lShoulderJ
+    100098: Flora_New_SH_lThumbJ1
+    100100: Flora_New_SH_lThumbJ2
+    100102: Flora_New_SH_lThumbJ3
+    100104: Flora_New_SH_lThumbJTip
+    100106: Flora_New_SH_lToeJ
+    100108: Flora_New_SH_lWristJ
+    100110: Flora_New_SH_Neck01J
+    100112: Flora_New_SH_Neck02J
+    100114: Flora_New_SH_Neck03J
+    100116: Flora_New_SH_rAnkleJ
+    100118: Flora_New_SH_rBallJ
+    100120: Flora_New_SH_rClavicleJ
+    100122: Flora_New_SH_rElbowJ
+    100124: Flora_New_SH_rFinger1J1
+    100126: Flora_New_SH_rFinger1J2
+    100128: Flora_New_SH_rFinger1J3
+    100130: Flora_New_SH_rFinger1JTip
+    100132: Flora_New_SH_rFinger2J1
+    100134: Flora_New_SH_rFinger2J2
+    100136: Flora_New_SH_rFinger2J3
+    100138: Flora_New_SH_rFinger2JTip
+    100140: Flora_New_SH_rFinger3J1
+    100142: Flora_New_SH_rFinger3J2
+    100144: Flora_New_SH_rFinger3J3
+    100146: Flora_New_SH_rFinger3JTip
+    100148: Flora_New_SH_rFinger4J1
+    100150: Flora_New_SH_rFinger4J2
+    100152: Flora_New_SH_rFinger4J3
+    100154: Flora_New_SH_rFinger4JTip
+    100156: Flora_New_SH_rForearmJ
+    100158: Flora_New_SH_rHipJ
+    100160: Flora_New_SH_rKneeJ
+    100162: Flora_New_SH_ROOTJ
+    100164: Flora_New_SH_rPalmJ
+    100166: Flora_New_SH_rShoulderJ
+    100168: Flora_New_SH_rThumbJ1
+    100170: Flora_New_SH_rThumbJ2
+    100172: Flora_New_SH_rThumbJ3
+    100174: Flora_New_SH_rThumbJTip
+    100176: Flora_New_SH_rToeJ
+    100178: Flora_New_SH_rWristJ
+    100180: Flora_New_SH_Spine01J
+    100182: Flora_New_SH_Spine02J
+    100184: Flora_New_SH_Spine03J
+    100186: Flora_New_SH_SpineTopJ
+    100188: Flora_RightEye
+    100190: Hair_Ponytail
+    100192: joint2
+    100194: joint25
+    100196: joint25 1
+    100198: joint26
+    100200: joint28
+    100202: joint28 1
+    100204: joint28 2
+    100206: joint28 3
+    100208: joint3
+    100210: joint31
+    100212: joint33
+    100214: joint35
+    100216: joint37
+    100218: joint37 1
+    100220: joint39
+    100222: joint4
+    100224: joint41
+    100226: joint41 1
+    100228: joint43
+    100230: joint43 1
+    100232: joint44
+    100234: joint5
+    100236: joint6
+    100238: Mesh_Daphne
+    100240: Mouthedge_l
+    100242: Mouthedge_r
+    100244: Skirt_l
+    100246: Skirt_r
+    100248: Teachers
+    400000: //RootNode
+    400002: eyebrow
+    400004: eyecorner_l
+    400006: eyecorner_r
+    400008: eyeedge_l
+    400010: eyeedge_r
+    400012: eyelid_l
+    400014: eyelid_r
+    400016: eyelidlower_l
+    400018: eyelidlower_r
+    400020: Flora_Fringe_R_1
+    400022: Flora_Fringe_R_2
+    400024: Flora_Fringe_R_3
+    400026: Flora_Fringe_R_4
+    400028: Flora_LeftEye
+    400030: Flora_New
+    400032: Flora_New_MainC
+    400034: Flora_New_MainHipC
+    400036: Flora_New_MainHipCG
+    400038: Flora_New_ROOTJ
+    400040: Flora_New_SH_HeadJ
+    400042: Flora_New_SH_HeadTipJ
+    400044: Flora_New_SH_JawJ
+    400046: Flora_New_SH_JawTipJ
+    400048: Flora_New_SH_lAnkleJ
+    400050: Flora_New_SH_lBallJ
+    400052: Flora_New_SH_lClavicleJ
+    400054: Flora_New_SH_lElbowJ
+    400056: Flora_New_SH_lFinger1J1
+    400058: Flora_New_SH_lFinger1J2
+    400060: Flora_New_SH_lFinger1J3
+    400062: Flora_New_SH_lFinger1JTip
+    400064: Flora_New_SH_lFinger2J1
+    400066: Flora_New_SH_lFinger2J2
+    400068: Flora_New_SH_lFinger2J3
+    400070: Flora_New_SH_lFinger2JTip
+    400072: Flora_New_SH_lFinger3J1
+    400074: Flora_New_SH_lFinger3J2
+    400076: Flora_New_SH_lFinger3J3
+    400078: Flora_New_SH_lFinger3JTip
+    400080: Flora_New_SH_lFinger4J1
+    400082: Flora_New_SH_lFinger4J2
+    400084: Flora_New_SH_lFinger4J3
+    400086: Flora_New_SH_lFinger4JTip
+    400088: Flora_New_SH_lForearmJ
+    400090: Flora_New_SH_lHipJ
+    400092: Flora_New_SH_lKneeJ
+    400094: Flora_New_SH_lPalmJ
+    400096: Flora_New_SH_lShoulderJ
+    400098: Flora_New_SH_lThumbJ1
+    400100: Flora_New_SH_lThumbJ2
+    400102: Flora_New_SH_lThumbJ3
+    400104: Flora_New_SH_lThumbJTip
+    400106: Flora_New_SH_lToeJ
+    400108: Flora_New_SH_lWristJ
+    400110: Flora_New_SH_Neck01J
+    400112: Flora_New_SH_Neck02J
+    400114: Flora_New_SH_Neck03J
+    400116: Flora_New_SH_rAnkleJ
+    400118: Flora_New_SH_rBallJ
+    400120: Flora_New_SH_rClavicleJ
+    400122: Flora_New_SH_rElbowJ
+    400124: Flora_New_SH_rFinger1J1
+    400126: Flora_New_SH_rFinger1J2
+    400128: Flora_New_SH_rFinger1J3
+    400130: Flora_New_SH_rFinger1JTip
+    400132: Flora_New_SH_rFinger2J1
+    400134: Flora_New_SH_rFinger2J2
+    400136: Flora_New_SH_rFinger2J3
+    400138: Flora_New_SH_rFinger2JTip
+    400140: Flora_New_SH_rFinger3J1
+    400142: Flora_New_SH_rFinger3J2
+    400144: Flora_New_SH_rFinger3J3
+    400146: Flora_New_SH_rFinger3JTip
+    400148: Flora_New_SH_rFinger4J1
+    400150: Flora_New_SH_rFinger4J2
+    400152: Flora_New_SH_rFinger4J3
+    400154: Flora_New_SH_rFinger4JTip
+    400156: Flora_New_SH_rForearmJ
+    400158: Flora_New_SH_rHipJ
+    400160: Flora_New_SH_rKneeJ
+    400162: Flora_New_SH_ROOTJ
+    400164: Flora_New_SH_rPalmJ
+    400166: Flora_New_SH_rShoulderJ
+    400168: Flora_New_SH_rThumbJ1
+    400170: Flora_New_SH_rThumbJ2
+    400172: Flora_New_SH_rThumbJ3
+    400174: Flora_New_SH_rThumbJTip
+    400176: Flora_New_SH_rToeJ
+    400178: Flora_New_SH_rWristJ
+    400180: Flora_New_SH_Spine01J
+    400182: Flora_New_SH_Spine02J
+    400184: Flora_New_SH_Spine03J
+    400186: Flora_New_SH_SpineTopJ
+    400188: Flora_RightEye
+    400190: Hair_Ponytail
+    400192: joint2
+    400194: joint25
+    400196: joint25 1
+    400198: joint26
+    400200: joint28
+    400202: joint28 1
+    400204: joint28 2
+    400206: joint28 3
+    400208: joint3
+    400210: joint31
+    400212: joint33
+    400214: joint35
+    400216: joint37
+    400218: joint37 1
+    400220: joint39
+    400222: joint4
+    400224: joint41
+    400226: joint41 1
+    400228: joint43
+    400230: joint43 1
+    400232: joint44
+    400234: joint5
+    400236: joint6
+    400238: Mesh_Daphne
+    400240: Mouthedge_l
+    400242: Mouthedge_r
+    400244: Skirt_l
+    400246: Skirt_r
+    400248: Teachers
+    4300000: Mesh_Daphne
+    9500000: //RootNode
+    13700000: Mesh_Daphne
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Flora_New_SH_ROOTJ
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lHipJ
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rHipJ
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lKneeJ
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rKneeJ
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lAnkleJ
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rAnkleJ
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_Spine02J
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_SpineTopJ
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_Neck01J
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_HeadJ
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lClavicleJ
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rClavicleJ
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lShoulderJ
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rShoulderJ
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lElbowJ
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rElbowJ
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lWristJ
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rWristJ
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lBallJ
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rBallJ
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_JawJ
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lThumbJ1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lThumbJ2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lThumbJ3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lFinger1J1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lFinger1J2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lFinger1J3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lFinger2J1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lFinger2J2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lFinger2J3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lFinger3J1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lFinger3J2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lFinger3J3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lFinger4J1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lFinger4J2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_lFinger4J3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rThumbJ1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rThumbJ2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rThumbJ3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rFinger1J1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rFinger1J2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rFinger1J3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rFinger2J1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rFinger2J2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rFinger2J3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rFinger3J1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rFinger3J2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rFinger3J3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rFinger4J1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rFinger4J2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Flora_New_SH_rFinger4J3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Daphne_01(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New
+      position: {x: .0108579323, y: .96250701, z: .192185462}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_MainC
+      position: {x: -.0108579323, y: -.96250701, z: -.192185462}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_MainHipCG
+      position: {x: -0, y: 1.1324625, z: .0223094933}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_MainHipC
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_ROOTJ
+      position: {x: -0, y: 1.1324625, z: .0223094933}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_ROOTJ
+      position: {x: -0, y: 1.1324625, z: .0223094933}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_lHipJ
+      position: {x: -.0674666986, y: -.0319315419, z: -.0154921608}
+      rotation: {x: .451793969, y: .543012857, z: .45847556, w: .539276779}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_lKneeJ
+      position: {x: -.40830797, y: -1.83533188e-13, z: 1.50990333e-16}
+      rotation: {x: -4.68901291e-08, y: -2.56359911e-09, z: .167616501, w: .985852301}
+      scale: {x: .999999642, y: .999999881, z: .999999523}
+      transformModified: 1
+    - name: Flora_New_SH_lAnkleJ
+      position: {x: -.538361371, y: -5.36699685e-10, z: -1.06581408e-16}
+      rotation: {x: -.135766938, y: -.026147712, z: -.3092058, w: .940890789}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Flora_New_SH_lBallJ
+      position: {x: -.187469319, y: -1.86879817e-10, z: 1.23791645e-12}
+      rotation: {x: -7.45967288e-09, y: -3.61256269e-08, z: -.523476839, w: .852039993}
+      scale: {x: .999999762, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_lToeJ
+      position: {x: -.0682481304, y: -6.80335302e-11, z: 7.28110877e-13}
+      rotation: {x: 0, y: -.585211158, z: -0, w: .810881019}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skirt_l
+      position: {x: -.0310995802, y: .011844879, z: .0161781255}
+      rotation: {x: .498496503, y: .503305137, z: -.49154982, w: .506521523}
+      scale: {x: .999999762, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: joint43
+      position: {x: -0, y: -.183886945, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_rHipJ
+      position: {x: .0674666986, y: -.0319315419, z: -.0154921608}
+      rotation: {x: .539276838, y: -.45847553, z: .543012857, w: -.451793939}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Flora_New_SH_rKneeJ
+      position: {x: .40830797, y: 1.33661926e-09, z: 1.77635673e-16}
+      rotation: {x: 2.81264043e-08, y: -8.24745605e-09, z: -.167616501, w: -.985852361}
+      scale: {x: .999999821, y: 1, z: .999999762}
+      transformModified: 1
+    - name: Flora_New_SH_rAnkleJ
+      position: {x: .538361371, y: 1.4473438e-09, z: 6.21724896e-17}
+      rotation: {x: .135766909, y: .0261476971, z: .309205711, w: -.940890789}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Flora_New_SH_rBallJ
+      position: {x: .187469319, y: 5.03967701e-10, z: -3.33817414e-12}
+      rotation: {x: -7.87818966e-09, y: -3.94722761e-08, z: -.523476958, w: .852039933}
+      scale: {x: .999999821, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Flora_New_SH_rToeJ
+      position: {x: .0682481304, y: 1.83469212e-10, z: -1.9553159e-12}
+      rotation: {x: -8.54859929e-17, y: .810881019, z: 8.54859929e-17, w: .585211158}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skirt_r
+      position: {x: .031099543, y: -.0118448911, z: -.0161743779}
+      rotation: {x: -.503303885, y: .498497814, z: -.506520212, w: -.491551101}
+      scale: {x: 1, y: .999999702, z: .999999881}
+      transformModified: 1
+    - name: joint43 1
+      position: {x: -0, y: -.183886945, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_Spine01J
+      position: {x: -0, y: .055258669, z: .0115558328}
+      rotation: {x: -.0177575927, y: 0, z: -0, w: .999842346}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_Spine02J
+      position: {x: -0, y: .0845503584, z: -.00159855525}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_Spine03J
+      position: {x: -0, y: .0694151297, z: -.0119122015}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_SpineTopJ
+      position: {x: 2.44524118e-17, y: .06959299, z: -9.76996256e-17}
+      rotation: {x: .5, y: -.5, z: .5, w: -.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_lClavicleJ
+      position: {x: -.0321197845, y: -.00509706326, z: -.0329692923}
+      rotation: {x: -.606852651, y: .536828578, z: -.409009367, w: -.419828922}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Flora_New_SH_lShoulderJ
+      position: {x: -.0736235455, y: 0, z: -1.7763568e-17}
+      rotation: {x: .0179723017, y: .161780417, z: .0538175032, w: .985194325}
+      scale: {x: .99999994, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: Flora_New_SH_lElbowJ
+      position: {x: -.286514729, y: 2.84217088e-16, z: 5.92859059e-16}
+      rotation: {x: .0230285432, y: .034399759, z: -.0103736334, w: .999089003}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    - name: Flora_New_SH_lForearmJ
+      position: {x: -.119632736, y: 2.84217088e-16, z: 2.30926381e-16}
+      rotation: {x: 2.64135178e-06, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_lWristJ
+      position: {x: -.239265472, y: 2.84217088e-16, z: 6.39488435e-16}
+      rotation: {x: -.017536195, y: -.0172985401, z: -.0153548624, w: .999578655}
+      scale: {x: .999999881, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Flora_New_SH_lPalmJ
+      position: {x: -.0387445353, y: -.0038593912, z: .00506036729}
+      rotation: {x: -2.4351591e-08, y: -9.50106452e-11, z: -3.42949775e-08, w: 1}
+      scale: {x: 1, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger1J1
+      position: {x: -.0373619869, y: .00708665187, z: .0193799585}
+      rotation: {x: .0442276075, y: .0488361903, z: -.0151231643, w: .997712553}
+      scale: {x: .999999881, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger1J2
+      position: {x: -.0299096014, y: 7.10542693e-16, z: 1.7763568e-17}
+      rotation: {x: 4.17896118e-08, y: 3.6573887e-08, z: 4.21166426e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger1J3
+      position: {x: -.0260666031, y: 8.52651264e-16, z: 2.57571734e-16}
+      rotation: {x: -4.51412276e-08, y: -2.360796e-08, z: -.0122310165, w: .999925196}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger1JTip
+      position: {x: -.0211493615, y: 0, z: 2.39808156e-16}
+      rotation: {x: 5.49687691e-08, y: 1.86259861e-08, z: -1.40592844e-08, w: 1}
+      scale: {x: 1, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger2J1
+      position: {x: -.0368497334, y: .00516478624, z: .00103607262}
+      rotation: {x: -.0132105537, y: .00240429724, z: -.0277018342, w: .999526083}
+      scale: {x: 1.00000012, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger2J2
+      position: {x: -.0361927748, y: -4.26325632e-16, z: 1.06581408e-16}
+      rotation: {x: -1.4498025e-08, y: -4.59265825e-09, z: 1.27826061e-08, w: 1}
+      scale: {x: 1, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger2J3
+      position: {x: -.0283284131, y: 1.27897687e-15, z: -2.13162816e-16}
+      rotation: {x: 5.67358995e-08, y: -2.11984297e-08, z: -.0411996879, w: .999150991}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger2JTip
+      position: {x: -.0221946687, y: -4.26325632e-16, z: 1.42108544e-16}
+      rotation: {x: -1.33738514e-08, y: -2.33774795e-08, z: -1.69790138e-08, w: 1}
+      scale: {x: 1, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger3J1
+      position: {x: -.0334992148, y: .0030697959, z: -.0163869169}
+      rotation: {x: -.0325867683, y: -.0395142362, z: -.0152188046, w: .998571575}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger3J2
+      position: {x: -.0319443718, y: 4.26325632e-16, z: -9.76996256e-17}
+      rotation: {x: 3.55641525e-08, y: 5.72763925e-09, z: -.00929743703, w: .999956787}
+      scale: {x: 1, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger3J3
+      position: {x: -.0242987722, y: -1.13686835e-15, z: -8.881784e-18}
+      rotation: {x: -1.5794356e-08, y: -1.48711061e-08, z: -.0279724523, w: .999608696}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger3JTip
+      position: {x: -.0204879642, y: -2.84217088e-16, z: -3.5527136e-17}
+      rotation: {x: 1.19062618e-08, y: 2.86320567e-08, z: 1.51667496e-08, w: 1}
+      scale: {x: 1, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger4J1
+      position: {x: -.0248483252, y: -.0013322538, z: -.0292472951}
+      rotation: {x: -.130021825, y: -.0371057466, z: -.00612652069, w: .990797698}
+      scale: {x: 1.00000012, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger4J2
+      position: {x: -.0279895179, y: -1.13686835e-15, z: -3.5527136e-17}
+      rotation: {x: 1.28543345e-08, y: 8.42741876e-09, z: -.0196399018, w: .999807119}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger4J3
+      position: {x: -.0208784249, y: 1.13686835e-15, z: 3.5527136e-17}
+      rotation: {x: -.0133368718, y: -.00428214809, z: -.040709421, w: .999072909}
+      scale: {x: 1.00000012, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_lFinger4JTip
+      position: {x: -.0180976503, y: -1.13686835e-15, z: 1.06581408e-16}
+      rotation: {x: -9.40518863e-09, y: -4.00549904e-09, z: -2.89470936e-09, w: 1}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_lThumbJ1
+      position: {x: -.0161864832, y: -.00619611563, z: .0210739113}
+      rotation: {x: .468706548, y: .373205215, z: -.112359941, w: .79272151}
+      scale: {x: .999999881, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: Flora_New_SH_lThumbJ2
+      position: {x: -.0314914584, y: .00165774755, z: -.00234332611}
+      rotation: {x: -.0533398762, y: -.0564752705, z: .00528395316, w: .996964157}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Flora_New_SH_lThumbJ3
+      position: {x: -.0320124775, y: 5.68434176e-16, z: -7.1054272e-17}
+      rotation: {x: -.0407610685, y: .018508561, z: -.032163281, w: .998479605}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_lThumbJTip
+      position: {x: -.026252985, y: 1.42108544e-16, z: 2.13162816e-16}
+      rotation: {x: -.0299246367, y: -.706473291, z: .0299246833, w: .706473351}
+      scale: {x: .999999762, y: .999999821, z: .999999523}
+      transformModified: 1
+    - name: Flora_New_SH_Neck01J
+      position: {x: -.0842778459, y: .0169484392, z: 5.44785163e-18}
+      rotation: {x: -.499276429, y: .500722528, z: -.499276429, w: -.500722528}
+      scale: {x: .994308531, y: 1, z: .994308352}
+      transformModified: 1
+    - name: Flora_New_SH_Neck02J
+      position: {x: 3.88338302e-18, y: .0367008112, z: .00882601924}
+      rotation: {x: .000109816436, y: -2.77467686e-15, z: -7.614404e-17, w: 1}
+      scale: {x: 1, y: .99999994, z: .999991715}
+      transformModified: 1
+    - name: Flora_New_SH_Neck03J
+      position: {x: 3.347413e-18, y: .0254300367, z: .00758391479}
+      rotation: {x: -.000109671892, y: 1.38302184e-15, z: -5.55618739e-17, w: 1}
+      scale: {x: .994308531, y: 1, z: .994316936}
+      transformModified: 1
+    - name: Flora_New_SH_HeadJ
+      position: {x: 4.14204273e-17, y: .0486963876, z: -1.5815969e-08}
+      rotation: {x: .499266446, y: -.500732541, z: .499266446, w: -.500732541}
+      scale: {x: .999999762, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: eyebrow
+      position: {x: -.0758205205, y: -.0122866677, z: -7.7980649e-18}
+      rotation: {x: -.508779347, y: .491063714, z: -.508779347, w: -.491063714}
+      scale: {x: 1, y: 1.00000274, z: .999997854}
+      transformModified: 1
+    - name: joint39
+      position: {x: -0, y: .0230511874, z: .112521045}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_Fringe_R_1
+      position: {x: -.176617891, y: -.0876576081, z: .0180139001}
+      rotation: {x: .706995547, y: .0125423139, z: -.0125423139, w: -.706995547}
+      scale: {x: .99986285, y: 1.0000236, z: 1.00011623}
+      transformModified: 1
+    - name: Flora_Fringe_R_2
+      position: {x: .0551421307, y: -.0503178574, z: -.0148313995}
+      rotation: {x: 0, y: -5.13296925e-08, z: 0, w: -1}
+      scale: {x: .999999225, y: 1.0000006, z: .999999821}
+      transformModified: 1
+    - name: Flora_Fringe_R_3
+      position: {x: .0686632246, y: -.0473468155, z: .0291496217}
+      rotation: {x: -.359833598, y: -.0736896545, z: -.186601222, w: .911191404}
+      scale: {x: 1.00029206, y: .999741435, z: .999999821}
+      transformModified: 1
+    - name: Flora_Fringe_R_4
+      position: {x: .103548944, y: .0502411351, z: -.000674023642}
+      rotation: {x: -.934810042, y: -.34571898, z: -.00404367922, w: -.0811932236}
+      scale: {x: .995853126, y: 1.00407279, z: 1.00009799}
+      transformModified: 1
+    - name: joint44
+      position: {x: .0905319303, y: .0390803888, z: -.00573844044}
+      rotation: {x: .356078267, y: -.261351883, z: .723256826, w: .530851245}
+      scale: {x: 1.0007571, y: .998181522, z: 1.0010668}
+      transformModified: 1
+    - name: Flora_LeftEye
+      position: {x: -.0544125885, y: -.0370205976, z: -.049999997}
+      rotation: {x: -.51005441, y: .492310464, z: -.507483363, w: -.489832133}
+      scale: {x: 1.00000012, y: 1.00000274, z: .999997914}
+      transformModified: 1
+    - name: joint41
+      position: {x: 3.5527136e-17, y: 0, z: .0974662155}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_HeadTipJ
+      position: {x: -.277113438, y: 6.07738548e-05, z: 1.30960848e-17}
+      rotation: {x: .508790076, y: -.491052598, z: .508790076, w: .491052598}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_JawJ
+      position: {x: .000643513049, y: -.012774297, z: 1.06597971e-17}
+      rotation: {x: -.508790135, y: .491052628, z: -.508790135, w: -.491052628}
+      scale: {x: .999999821, y: 1.0000025, z: .999997795}
+      transformModified: 1
+    - name: Flora_New_SH_JawTipJ
+      position: {x: 3.641167e-17, y: -.0474045612, z: .0919516832}
+      rotation: {x: -8.8102631e-08, y: 8.23443936e-24, z: 9.35124374e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_RightEye
+      position: {x: -.0544125885, y: -.0370205976, z: .049999997}
+      rotation: {x: -.507483363, y: .489832133, z: -.51005441, w: -.492310464}
+      scale: {x: 1.00000012, y: 1.00000274, z: .999997914}
+      transformModified: 1
+    - name: joint41 1
+      position: {x: 3.5527136e-17, y: 0, z: .0974662155}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hair_Ponytail
+      position: {x: -.0241479464, y: .0893750563, z: 6.16437947e-18}
+      rotation: {x: -.0822827443, y: .996609032, z: 3.03262517e-08, w: 2.92690139e-08}
+      scale: {x: 1.00001442, y: .999992669, z: .99999994}
+      transformModified: 1
+    - name: joint2
+      position: {x: -.120958351, y: .0104992278, z: -4.51744972e-17}
+      rotation: {x: .991371155, y: .131085172, z: 6.93720636e-11, w: -6.33909849e-08}
+      scale: {x: .999060035, y: 1.00094593, z: 1.00000012}
+      transformModified: 1
+    - name: joint3
+      position: {x: -.160992444, y: -.0776234493, z: 2.84217077e-15}
+      rotation: {x: -2.92507512e-08, y: -3.03438625e-08, z: .0484666042, w: .998824835}
+      scale: {x: .999790609, y: 1.00020921, z: 1.00000012}
+      transformModified: 1
+    - name: joint4
+      position: {x: -.133933097, y: -.0280102678, z: .00750744389}
+      rotation: {x: -.998342454, y: -.0575536117, z: -2.92507565e-08, w: 3.03438696e-08}
+      scale: {x: .999962926, y: 1.00003898, z: 1.00000024}
+      transformModified: 1
+    - name: joint5
+      position: {x: -.166249037, y: .000956635457, z: -.025104424}
+      rotation: {x: 4.01323419e-10, y: -3.66224384e-10, z: -.0128905047, w: .999916971}
+      scale: {x: 1.00004578, y: .9999547, z: 1}
+      transformModified: 1
+    - name: joint6
+      position: {x: -.148912787, y: -.0279738642, z: .02765017}
+      rotation: {x: 1.39515392e-16, y: -2.37724065e-17, z: .0286198314, w: .999590397}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint26
+      position: {x: -.0594932176, y: .0247598458, z: -.0647231936}
+      rotation: {x: 0, y: 0, z: -.7288059, w: -.684720337}
+      scale: {x: .999996483, y: 1.00000477, z: 1}
+      transformModified: 1
+    - name: eyecorner_l
+      position: {x: -.0437671505, y: 4.7184479e-18, z: 4.85912982e-18}
+      rotation: {x: .00282356422, y: .230090871, z: .276425183, w: .933080614}
+      scale: {x: .999457121, y: 1.00067544, z: .999924064}
+      transformModified: 1
+    - name: joint28
+      position: {x: -.068814531, y: .0116770202, z: .00150354847}
+      rotation: {x: .115324363, y: -.697639167, z: .115324385, w: .697639108}
+      scale: {x: 1, y: 1.00319803, z: .996819615}
+      transformModified: 1
+    - name: eyeedge_l
+      position: {x: -.0437671505, y: 4.7184479e-18, z: 4.85912982e-18}
+      rotation: {x: .149407089, y: -.47124055, z: -.146165371, w: .85688132}
+      scale: {x: 1.000314, y: .999868691, z: .999852955}
+      transformModified: 1
+    - name: joint28 1
+      position: {x: -.0633189678, y: -1.90044375e-16, z: 9.71445151e-19}
+      rotation: {x: .125789449, y: -.688116729, z: .12850368, w: .702964604}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyelid_l
+      position: {x: -.0437671505, y: 4.7184479e-18, z: 4.85912982e-18}
+      rotation: {x: .00113409106, y: -.00512929773, z: -.173398748, w: .98483777}
+      scale: {x: 1.00048816, y: .99953407, z: 1.00000012}
+      transformModified: 1
+    - name: joint28 2
+      position: {x: -.067176953, y: 0, z: 0}
+      rotation: {x: .115324363, y: -.697639108, z: .115324363, w: .697639108}
+      scale: {x: .999999881, y: .99813205, z: 1.00186872}
+      transformModified: 1
+    - name: eyelidlower_l
+      position: {x: -.0437671505, y: 4.7184479e-18, z: 4.85912982e-18}
+      rotation: {x: .0126908682, y: -.0672935992, z: .166361704, w: .983684063}
+      scale: {x: .99956131, y: 1.00047612, z: .999991417}
+      transformModified: 1
+    - name: joint28 3
+      position: {x: -.067176953, y: 0, z: 0}
+      rotation: {x: .115324356, y: -.697639108, z: .115324356, w: .697639108}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint31
+      position: {x: -.0594906807, y: .0247599259, z: .0647232011}
+      rotation: {x: 0, y: 0, z: -.684720337, w: .728805959}
+      scale: {x: .999996245, y: 1.00000453, z: 1}
+      transformModified: 1
+    - name: eyecorner_r
+      position: {x: .0437669754, y: -6.70694908e-06, z: 8.881784e-18}
+      rotation: {x: .00282356283, y: .230090842, z: .276425123, w: .933080673}
+      scale: {x: .999456942, y: 1.00067568, z: .999924123}
+      transformModified: 1
+    - name: joint35
+      position: {x: .0688156709, y: -.0116752088, z: -.0015032565}
+      rotation: {x: .115324445, y: -.697639108, z: .115324393, w: .697639108}
+      scale: {x: .99999994, y: 1.00319767, z: .996819556}
+      transformModified: 1
+    - name: eyeedge_r
+      position: {x: .0437669754, y: -6.70694908e-06, z: 8.881784e-18}
+      rotation: {x: .132696286, y: -.469934165, z: -.108005531, w: .865960956}
+      scale: {x: 1.00025821, y: .999925554, z: .999842286}
+      transformModified: 1
+    - name: joint33
+      position: {x: .0633153394, y: 8.09766243e-06, z: -1.46031755e-06}
+      rotation: {x: .125789449, y: -.688116729, z: .12850368, w: .702964604}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyelid_r
+      position: {x: .0437669754, y: -6.70694908e-06, z: 8.881784e-18}
+      rotation: {x: .00426681293, y: -.00306534627, z: -.173397645, w: .984837949}
+      scale: {x: 1.0004884, y: .999533951, z: 1}
+      transformModified: 1
+    - name: joint37
+      position: {x: .0671758801, y: 3.05008371e-06, z: -2.11350404e-08}
+      rotation: {x: .115324341, y: -.697639167, z: .115324341, w: .697639108}
+      scale: {x: 1.00000012, y: .998131871, z: 1.00186884}
+      transformModified: 1
+    - name: eyelidlower_r
+      position: {x: .0437669754, y: -6.70694908e-06, z: 8.881784e-18}
+      rotation: {x: .0126908701, y: -.0672935173, z: .166361704, w: .983684123}
+      scale: {x: .999561489, y: 1.000476, z: .999991298}
+      transformModified: 1
+    - name: joint37 1
+      position: {x: .0671758801, y: 3.05008371e-06, z: -2.11350404e-08}
+      rotation: {x: .115324356, y: -.697639108, z: .115324356, w: .697639108}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mouthedge_l
+      position: {x: .0113458885, y: -.000145542333, z: -6.15716058e-17}
+      rotation: {x: -.587602377, y: .567118585, z: -.415279031, w: -.400803328}
+      scale: {x: .999999821, y: 1.00000262, z: .999998093}
+      transformModified: 1
+    - name: joint25
+      position: {x: -0, y: -.0116670914, z: .1015037}
+      rotation: {x: -6.6795188e-08, y: 9.18425425e-09, z: 8.92930174e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Mouthedge_r
+      position: {x: .0113458885, y: -.000145542333, z: -6.15716058e-17}
+      rotation: {x: -.415279031, y: .400803328, z: -.587602377, w: -.567118585}
+      scale: {x: .999999642, y: 1.00000262, z: .999998212}
+      transformModified: 1
+    - name: joint25 1
+      position: {x: -0, y: -.0116670914, z: .1015037}
+      rotation: {x: -6.68247964e-08, y: -9.18425425e-09, z: -8.96913921e-09, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Flora_New_SH_rClavicleJ
+      position: {x: -.0321197845, y: -.00509706326, z: .0329692923}
+      rotation: {x: -.536828637, y: -.606852651, z: -.419828892, w: .409009367}
+      scale: {x: 1, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: Flora_New_SH_rShoulderJ
+      position: {x: .0736235455, y: 0, z: 1.02140514e-16}
+      rotation: {x: .0179702025, y: .161780581, z: .0538187735, w: .985194266}
+      scale: {x: 1.00000048, y: 1.00000012, z: 1.00000036}
+      transformModified: 1
+    - name: Flora_New_SH_rElbowJ
+      position: {x: .286514729, y: 0, z: -8.59312596e-16}
+      rotation: {x: .0230309609, y: .0343956016, z: -.0103611713, w: .999089181}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_rForearmJ
+      position: {x: .119632736, y: 1.42108544e-16, z: -3.73034925e-16}
+      rotation: {x: 7.89972034e-07, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_rWristJ
+      position: {x: .239265472, y: -2.84217088e-16, z: -9.32587298e-16}
+      rotation: {x: -.0175377745, y: -.0172981992, z: -.015371589, w: .999578416}
+      scale: {x: .99999994, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_rPalmJ
+      position: {x: .0387445353, y: .0038593912, z: -.00506036729}
+      rotation: {x: -2.44797498e-08, y: -2.78435697e-09, z: 2.29925092e-08, w: 1}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger1J1
+      position: {x: .0373619869, y: -.00708665187, z: -.0193799585}
+      rotation: {x: -.997712553, y: .0151232379, z: .0488361456, w: .0442276523}
+      scale: {x: .999999881, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger1J2
+      position: {x: .0299096014, y: 7.10542693e-16, z: 8.88178367e-17}
+      rotation: {x: -2.13157474e-08, y: 8.26708391e-09, z: -2.16001474e-08, w: 1}
+      scale: {x: .999999881, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger1J3
+      position: {x: .0260666031, y: 9.94759834e-16, z: 1.95399251e-16}
+      rotation: {x: 2.31238779e-08, y: -6.32106349e-08, z: .0122309253, w: .999925256}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger1JTip
+      position: {x: .0211493615, y: 4.26325632e-16, z: 1.33226755e-16}
+      rotation: {x: 8.18279489e-09, y: 3.36485351e-09, z: -4.56449234e-09, w: 1}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger2J1
+      position: {x: .0368497334, y: -.00516478624, z: -.00103607262}
+      rotation: {x: -.999526083, y: .0277019646, z: .00240429491, w: -.0132105025}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger2J2
+      position: {x: .0361927748, y: -8.52651264e-16, z: 2.30926381e-16}
+      rotation: {x: -1.42112331e-08, y: 2.68112266e-09, z: 1.01252198e-08, w: 1}
+      scale: {x: 1, y: 1, z: .999999762}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger2J3
+      position: {x: .0283284131, y: 2.84217088e-16, z: -1.59872109e-16}
+      rotation: {x: 3.4712806e-09, y: 1.11274858e-07, z: .0411962532, w: .999151111}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger2JTip
+      position: {x: .0221946687, y: 7.10542693e-16, z: 1.06581408e-16}
+      rotation: {x: 1.86751077e-08, y: 1.12183223e-08, z: 1.48271537e-08, w: 1}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger3J1
+      position: {x: .0334992148, y: -.0030697959, z: .0163869169}
+      rotation: {x: -.998571575, y: .0152191045, z: -.0395143516, w: -.0325868651}
+      scale: {x: 1, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger3J2
+      position: {x: .0319443718, y: 4.26325632e-16, z: -1.50990333e-16}
+      rotation: {x: 9.78278436e-09, y: -2.19951501e-09, z: .00929747894, w: .999956846}
+      scale: {x: 1.00000012, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger3J3
+      position: {x: .0242987722, y: -5.68434176e-16, z: 0}
+      rotation: {x: 1.32659341e-08, y: -3.40814239e-08, z: .0279723946, w: .999608696}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger3JTip
+      position: {x: .0204879642, y: 1.42108544e-16, z: -7.99360543e-17}
+      rotation: {x: -1.74447408e-08, y: 7.20656201e-09, z: -3.65994524e-08, w: 1}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger4J1
+      position: {x: .0248483252, y: .0013322538, z: .0292472951}
+      rotation: {x: -.990797698, y: .00612555724, z: -.0371068306, w: -.130021632}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger4J2
+      position: {x: .0279895179, y: 1.42108544e-16, z: 1.42108544e-16}
+      rotation: {x: -5.67249892e-09, y: 1.78915727e-09, z: .0196398478, w: .999807119}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger4J3
+      position: {x: .0208784249, y: 4.26325632e-16, z: -1.06581408e-16}
+      rotation: {x: -.0133368652, y: .00428234739, z: .0407188013, w: .999072492}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_rFinger4JTip
+      position: {x: .0180976503, y: -4.26325632e-16, z: 7.1054272e-17}
+      rotation: {x: 1.42420902e-08, y: -2.51045318e-08, z: -3.0185241e-08, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Flora_New_SH_rThumbJ1
+      position: {x: .0161864832, y: .00619611563, z: -.0210739113}
+      rotation: {x: -.369287312, y: .369393677, z: -.845213354, w: -.113091357}
+      scale: {x: 1, y: 1.00000036, z: .999999821}
+      transformModified: 1
+    - name: Flora_New_SH_rThumbJ2
+      position: {x: -.0316220075, y: 0, z: 5.68434176e-16}
+      rotation: {x: .0580048822, y: .0274107661, z: .0282766949, w: .997539222}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Flora_New_SH_rThumbJ3
+      position: {x: -.0320124775, y: 1.42108544e-16, z: 7.1054272e-17}
+      rotation: {x: -.0690804273, y: -.0218893699, z: -.0299657602, w: .996920705}
+      scale: {x: .999999881, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Flora_New_SH_rThumbJTip
+      position: {x: -.026252985, y: 0, z: -7.1054272e-17}
+      rotation: {x: .0303950571, y: -.706453264, z: -.0303949919, w: .706453264}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Teachers
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mesh_Daphne
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

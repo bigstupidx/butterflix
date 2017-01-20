@@ -1,0 +1,2086 @@
+<Row>
+</Row>
+<Row>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>ID</Data></Cell>
+	<Cell><Data>Classification</Data></Cell>
+	<Cell><Data>Cost</Data></Cell>
+	<Cell><Data>Cost scuffed</Data></Cell>
+	<Cell><Data>Rarity</Data></Cell>
+	<Cell><Data>Wait Time (minutes)</Data></Cell>
+	<Cell><Data>Reveal Price</Data></Cell>
+	<Cell><Data>Page</Data></Cell>
+	<Cell><Data>Position (1-12)</Data></Cell>
+	<Cell><Data>GUI Texture (Small)</Data></Cell>
+	<Cell><Data>GUI Texture (Large)</Data></Cell>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>CARD_0000_BLOOM-BELIEVIX</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0000_BLOOM-BELIEVIX_S</Data></Cell>
+	<Cell><Data>CARD_0000_BLOOM-BELIEVIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0001_STELLA-BELIEVIX</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0001_STELLA-BELIEVIX_S</Data></Cell>
+	<Cell><Data>CARD_0001_STELLA-BELIEVIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0002_FLORA-BELIEVIX</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0002_FLORA-BELIEVIX_S</Data></Cell>
+	<Cell><Data>CARD_0002_FLORA-BELIEVIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0003_AISHA-BELIEVIX</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0003_AISHA-BELIEVIX_S</Data></Cell>
+	<Cell><Data>CARD_0003_AISHA-BELIEVIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0004_MUSA-BELIEVIX</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>CARD_0004_MUSA-BELIEVIX_S</Data></Cell>
+	<Cell><Data>CARD_0004_MUSA-BELIEVIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0005_TECNA-BELIEVIX</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>CARD_0005_TECNA-BELIEVIX_S</Data></Cell>
+	<Cell><Data>CARD_0005_TECNA-BELIEVIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0006_BLOOM-ENCHANTIX</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>CARD_0006_BLOOM-ENCHANTIX_S</Data></Cell>
+	<Cell><Data>CARD_0006_BLOOM-ENCHANTIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0007_STELLA-ENCHANTIX</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>CARD_0007_STELLA-ENCHANTIX_S</Data></Cell>
+	<Cell><Data>CARD_0007_STELLA-ENCHANTIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0008_FLORA-ENCHANTIX</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>CARD_0008_FLORA-ENCHANTIX_S</Data></Cell>
+	<Cell><Data>CARD_0008_FLORA-ENCHANTIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0009_AISHA-ENCHANTIX</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>CARD_0009_AISHA-ENCHANTIX_S</Data></Cell>
+	<Cell><Data>CARD_0009_AISHA-ENCHANTIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0010_MUSA-ENCHANTIX</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>CARD_0010_MUSA-ENCHANTIX_S</Data></Cell>
+	<Cell><Data>CARD_0010_MUSA-ENCHANTIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0011_TECNA-ENCHANTIX</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>CARD_0011_TECNA-ENCHANTIX_S</Data></Cell>
+	<Cell><Data>CARD_0011_TECNA-ENCHANTIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0012_BLOOM-SIRENIX(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0012_BLOOM-SIRENIX_S</Data></Cell>
+	<Cell><Data>CARD_0012_BLOOM-SIRENIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0013_STELLA-SIRENIX(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0013_STELLA-SIRENIX_S</Data></Cell>
+	<Cell><Data>CARD_0013_STELLA-SIRENIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0014_FLORA-SIRENIX(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0014_FLORA-SIRENIX_S</Data></Cell>
+	<Cell><Data>CARD_0014_FLORA-SIRENIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0015_AISHA-SIRENIX</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0015_AISHA-SIRENIX_S</Data></Cell>
+	<Cell><Data>CARD_0015_AISHA-SIRENIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0016_MUSA-SIRENIX(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>CARD_0016_MUSA-SIRENIX_S</Data></Cell>
+	<Cell><Data>CARD_0016_MUSA-SIRENIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0017_TECNA-SIRENIX(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>CARD_0017_TECNA-SIRENIX_S</Data></Cell>
+	<Cell><Data>CARD_0017_TECNA-SIRENIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0018_BLOOM-BLOOMIX(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>CARD_0018_BLOOM-BLOOMIX_S</Data></Cell>
+	<Cell><Data>CARD_0018_BLOOM-BLOOMIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0018_STELLA-BLOOMIX(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>CARD_0018_STELLA-BLOOMIX_S</Data></Cell>
+	<Cell><Data>CARD_0018_STELLA-BLOOMIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0019_FLORA-BLOOMIX(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>CARD_0019_FLORA-BLOOMIX_S</Data></Cell>
+	<Cell><Data>CARD_0019_FLORA-BLOOMIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0020_AISHA-BLOOMIX(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>CARD_0020_AISHA-BLOOMIX_S</Data></Cell>
+	<Cell><Data>CARD_0020_AISHA-BLOOMIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0021_MUSA-BLOOMIX(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>CARD_0021_MUSA-BLOOMIX_S</Data></Cell>
+	<Cell><Data>CARD_0021_MUSA-BLOOMIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0022_TECNA-BLOOMIX(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>CARD_0022_TECNA-BLOOMIX_S</Data></Cell>
+	<Cell><Data>CARD_0022_TECNA-BLOOMIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0023_BLOOM-BUTTERFLIX(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0023_BLOOM-BUTTERFLIX_S</Data></Cell>
+	<Cell><Data>CARD_0023_BLOOM-BUTTERFLIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0024_STELLA-BUTTERFLIX(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0024_STELLA-BUTTERFLIX_S</Data></Cell>
+	<Cell><Data>CARD_0024_STELLA-BUTTERFLIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0025_FLORA-BUTTERFLIX(newline)(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0025_FLORA-BUTTERFLIX_S</Data></Cell>
+	<Cell><Data>CARD_0025_FLORA-BUTTERFLIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0026_AISHA-BUTTERFLIX(newline)(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0026_AISHA-BUTTERFLIX_S</Data></Cell>
+	<Cell><Data>CARD_0026_AISHA-BUTTERFLIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0027_MUSA-BUTTERFLIX(newline)(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>CARD_0027_MUSA-BUTTERFLIX_S</Data></Cell>
+	<Cell><Data>CARD_0027_MUSA-BUTTERFLIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0028_TECNA-BUTTERFLIX(newline)(newline)</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>CARD_0028_TECNA-BUTTERFLIX_S</Data></Cell>
+	<Cell><Data>CARD_0028_TECNA-BUTTERFLIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0029_BLOOM-ROCK</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>CARD_0029_BLOOM-ROCK_S</Data></Cell>
+	<Cell><Data>CARD_0029_BLOOM-ROCK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0030_STELLA-ROCK</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>CARD_0030_STELLA-ROCK_S</Data></Cell>
+	<Cell><Data>CARD_0030_STELLA-ROCK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0031_FLORA-ROCK</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>CARD_0031_FLORA-ROCK_S</Data></Cell>
+	<Cell><Data>CARD_0031_FLORA-ROCK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0032_AISHA-ROCK</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>CARD_0032_AISHA-ROCK_S</Data></Cell>
+	<Cell><Data>CARD_0032_AISHA-ROCK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0033_MUSA-ROCK</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>CARD_0033_MUSA-ROCK_S</Data></Cell>
+	<Cell><Data>CARD_0033_MUSA-ROCK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0034_TECNA-ROCK</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>CARD_0034_TECNA-ROCK_S</Data></Cell>
+	<Cell><Data>CARD_0034_TECNA-ROCK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0035_BLOOM-S6</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0035_BLOOM-S6_S</Data></Cell>
+	<Cell><Data>CARD_0035_BLOOM-S6</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0036_STELLA-S6</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0036_STELLA-S6_S</Data></Cell>
+	<Cell><Data>CARD_0036_STELLA-S6</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0037_FLORA-S6</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0037_FLORA-S6_S</Data></Cell>
+	<Cell><Data>CARD_0037_FLORA-S6</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0038_AISHA-S6</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0038_AISHA-S6_S</Data></Cell>
+	<Cell><Data>CARD_0038_AISHA-S6</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0039_MUSA-S6</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>CARD_0039_MUSA-S6_S</Data></Cell>
+	<Cell><Data>CARD_0039_MUSA-S6</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0040_TECNA-S6</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>CARD_0040_TECNA-S6_S</Data></Cell>
+	<Cell><Data>CARD_0040_TECNA-S6</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0041_KIKO</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0041_KIKO_S</Data></Cell>
+	<Cell><Data>CARD_0041_KIKO</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0042_BELLE</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0042_BELLE_S</Data></Cell>
+	<Cell><Data>CARD_0042_BELLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0043_CHICKO</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0043_CHICKO_S</Data></Cell>
+	<Cell><Data>CARD_0043_CHICKO</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0044_COCO</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0044_COCO_S</Data></Cell>
+	<Cell><Data>CARD_0044_COCO</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0045_GINGER</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>CARD_0045_GINGER_S</Data></Cell>
+	<Cell><Data>CARD_0045_GINGER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0046_MILLY</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>CARD_0046_MILLY_S</Data></Cell>
+	<Cell><Data>CARD_0046_MILLY</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0047_PEPE</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>CARD_0047_PEPE_S</Data></Cell>
+	<Cell><Data>CARD_0047_PEPE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0048_BRANDON</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>CARD_0048_BRANDON_S</Data></Cell>
+	<Cell><Data>CARD_0048_BRANDON</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0049_HELIA</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>CARD_0049_HELIA_S</Data></Cell>
+	<Cell><Data>CARD_0049_HELIA</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0050_RIVEN</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>CARD_0050_RIVEN_S</Data></Cell>
+	<Cell><Data>CARD_0050_RIVEN</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0051_SKY</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>CARD_0051_SKY_S</Data></Cell>
+	<Cell><Data>CARD_0051_SKY</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0052_TIMMY</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>CARD_0052_TIMMY_S</Data></Cell>
+	<Cell><Data>CARD_0052_TIMMY</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0053_ELAS</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>CARD_0053_ELAS_S</Data></Cell>
+	<Cell><Data>CARD_0053_ELAS</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0054_AMAROK</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>CARD_0054_AMAROK_S</Data></Cell>
+	<Cell><Data>CARD_0054_AMAROK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0055_SHINY</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>CARD_0055_SHINY_S</Data></Cell>
+	<Cell><Data>CARD_0055_SHINY</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0056_FLITTER</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>CARD_0056_FLITTER_S</Data></Cell>
+	<Cell><Data>CARD_0056_FLITTER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0057_CRITTY</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>CARD_0057_CRITTY_S</Data></Cell>
+	<Cell><Data>CARD_0057_CRITTY</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0058_SQUONK</Data></Cell>
+	<Cell><Data>WINX</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>CARD_0058_SQUONK_S</Data></Cell>
+	<Cell><Data>CARD_0058_SQUONK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0007_BRAFILIUS</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0007_BRAFILIUS_S</Data></Cell>
+	<Cell><Data>CARD_0007_BRAFILIUS</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0008_MUTANT(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0008_MUTANT_S</Data></Cell>
+	<Cell><Data>CARD_0008_MUTANT</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0009_EVIL_FLOWER(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>VERYCOMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0009_EVIL_FLOWER_S</Data></Cell>
+	<Cell><Data>CARD_0009_EVIL_FLOWER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0010_SPIT_MONSTER(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0010_SPIT_MONSTER_S</Data></Cell>
+	<Cell><Data>CARD_0010_SPIT_MONSTER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0010_SPIT_MONSTER_PURPLE(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>CARD_0010_SPIT_MONSTER_PURPLE_S</Data></Cell>
+	<Cell><Data>CARD_0010_SPIT_MONSTER_PURPLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0011_SCRAPERS(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>VERYCOMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>CARD_0011_SCRAPERS_S</Data></Cell>
+	<Cell><Data>CARD_0011_SCRAPERS</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0012_MONSTER_INSECT(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>VERYCOMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>CARD_0012_MONSTER_INSECT_S</Data></Cell>
+	<Cell><Data>CARD_0012_MONSTER_INSECT</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0013_LITTLE_RAIDER(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>CARD_0013_LITTLE_RAIDER_S</Data></Cell>
+	<Cell><Data>CARD_0013_LITTLE_RAIDER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0014_JANT_RAIDER(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>CARD_0014_JANT_RAIDER_S</Data></Cell>
+	<Cell><Data>CARD_0014_JANT_RAIDER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0015_PRICLE_GREEN(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>CARD_0015_PRICLE_GREEN_S</Data></Cell>
+	<Cell><Data>CARD_0015_PRICLE_GREEN</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0016_PRICLE_RED(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>CARD_0016_PRICLE_RED_S</Data></Cell>
+	<Cell><Data>CARD_0016_PRICLE_RED</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0017_KERBOG(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>VERYCOMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>CARD_0017_KERBOG_S</Data></Cell>
+	<Cell><Data>CARD_0017_KERBOG</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0018_DEMOLISHER(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0018_DEMOLISHER_S</Data></Cell>
+	<Cell><Data>CARD_0018_DEMOLISHER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0019_BRUTE_MONSTER(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0019_BRUTE_MONSTER_S</Data></Cell>
+	<Cell><Data>CARD_0019_BRUTE_MONSTER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0020_BIGRAIDER(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0020_BIGRAIDER_S</Data></Cell>
+	<Cell><Data>CARD_0020_BIGRAIDER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0022_GIANT_MOSTER_JELLYFISH(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0022_GIANT_MOSTER_JELLYFISH_S</Data></Cell>
+	<Cell><Data>CARD_0022_GIANT_MOSTER_JELLYFISH</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0023_CROW_RAT(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>VERYCOMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>CARD_0023_CROW_RAT_S</Data></Cell>
+	<Cell><Data>CARD_0023_CROW_RAT</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0024_CROW_VALTOR(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>CARD_0024_CROW_VALTOR_S</Data></Cell>
+	<Cell><Data>CARD_0024_CROW_VALTOR</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0021_TRITANNUS_HUMAN(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>CARD_0021_TRITANNUS_HUMAN_S</Data></Cell>
+	<Cell><Data>CARD_0021_TRITANNUS_HUMAN</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0025_TRITANNUS(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>CARD_0025_TRITANNUS_S</Data></Cell>
+	<Cell><Data>CARD_0025_TRITANNUS</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0031_DUMAN(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>CARD_0031_DUMAN_S</Data></Cell>
+	<Cell><Data>CARD_0031_DUMAN</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0028_SELINA(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>CARD_0028_SELINA_S</Data></Cell>
+	<Cell><Data>CARD_0028_SELINA</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0029_OGRON(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>CARD_0029_OGRON_S</Data></Cell>
+	<Cell><Data>CARD_0029_OGRON</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0027_STORMY(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>CARD_0027_STORMY_S</Data></Cell>
+	<Cell><Data>CARD_0027_STORMY</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0033_DARCY(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0033_DARCY_S</Data></Cell>
+	<Cell><Data>CARD_0033_DARCY</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0030_ICY_SIRENIX(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0030_ICY_SIRENIX_S</Data></Cell>
+	<Cell><Data>CARD_0030_ICY_SIRENIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0026_STORMY_SIRENIX(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0026_STORMY_SIRENIX_S</Data></Cell>
+	<Cell><Data>CARD_0026_STORMY_SIRENIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0032_DARCY_SIRENIX(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0032_DARCY_SIRENIX_S</Data></Cell>
+	<Cell><Data>CARD_0032_DARCY_SIRENIX</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0035_BIG_SHARK(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>CARD_0035_BIG_SHARK_S</Data></Cell>
+	<Cell><Data>CARD_0035_BIG_SHARK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0047_UNDERWATER_SHADOW(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>CARD_0047_UNDERWATER_SHADOW_S</Data></Cell>
+	<Cell><Data>CARD_0047_UNDERWATER_SHADOW</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0045_POLLUTION_MONSTER(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>CARD_0045_POLLUTION_MONSTER_S</Data></Cell>
+	<Cell><Data>CARD_0045_POLLUTION_MONSTER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0036_BLOB_MONSTER(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>CARD_0036_BLOB_MONSTER_S</Data></Cell>
+	<Cell><Data>CARD_0036_BLOB_MONSTER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0042_GARBAGE_MONSTER</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>CARD_0042_GARBAGE_MONSTER_S</Data></Cell>
+	<Cell><Data>CARD_0042_GARBAGE_MONSTER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0040_DEVOURER(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>CARD_0040_DEVOURER_S</Data></Cell>
+	<Cell><Data>CARD_0040_DEVOURER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0041_EXECUTIONER(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>CARD_0041_EXECUTIONER_S</Data></Cell>
+	<Cell><Data>CARD_0041_EXECUTIONER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0049_WILD_DRAGON(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>CARD_0049_WILD_DRAGON_S</Data></Cell>
+	<Cell><Data>CARD_0049_WILD_DRAGON</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0037_DARCY_HEAD(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0037_DARCY_HEAD_S</Data></Cell>
+	<Cell><Data>CARD_0037_DARCY_HEAD</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0039_ICY_HEAD(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0039_ICY_HEAD_S</Data></Cell>
+	<Cell><Data>CARD_0039_ICY_HEAD</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0038_STORMY_HEAD(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>VERYRARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0038_STORMY_HEAD_S</Data></Cell>
+	<Cell><Data>CARD_0038_STORMY_HEAD</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0034_BALTOR(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0034_BALTOR_S</Data></Cell>
+	<Cell><Data>CARD_0034_BALTOR</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0043_LORD_DARKAR(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>CARD_0043_LORD_DARKAR_S</Data></Cell>
+	<Cell><Data>CARD_0043_LORD_DARKAR</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0046_RED_FLOWER(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>CARD_0046_RED_FLOWER_S</Data></Cell>
+	<Cell><Data>CARD_0046_RED_FLOWER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0044_MANTICORE(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>CARD_0044_MANTICORE_S</Data></Cell>
+	<Cell><Data>CARD_0044_MANTICORE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0048_WASP(newline)</Data></Cell>
+	<Cell><Data>WILD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>CARD_0048_WASP_S</Data></Cell>
+	<Cell><Data>CARD_0048_WASP</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0000_BLOOM-PHONE</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0000_BLOOM-PHONE_S</Data></Cell>
+	<Cell><Data>CARD_0000_BLOOM-PHONE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0001_STELLA-PHONE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0001_STELLA-PHONE_S</Data></Cell>
+	<Cell><Data>CARD_0001_STELLA-PHONE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0002_FLORA-PHONE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0002_FLORA-PHONE_S</Data></Cell>
+	<Cell><Data>CARD_0002_FLORA-PHONE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0003_AISAH-PHONE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0003_AISAH-PHONE_S</Data></Cell>
+	<Cell><Data>CARD_0003_AISAH-PHONE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0004_MUSA-PHONE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>CARD_0004_MUSA-PHONE_S</Data></Cell>
+	<Cell><Data>CARD_0004_MUSA-PHONE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0005_TECNA-PHONE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>16</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>RARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>CARD_0005_TECNA-PHONE_S</Data></Cell>
+	<Cell><Data>CARD_0005_TECNA-PHONE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0006_BLOOM-WALKIETALKIE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>CARD_0006_BLOOM-WALKIETALKIE_S</Data></Cell>
+	<Cell><Data>CARD_0006_BLOOM-WALKIETALKIE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0007_STELLA-WALKIETALKIE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>CARD_0007_STELLA-WALKIETALKIE_S</Data></Cell>
+	<Cell><Data>CARD_0007_STELLA-WALKIETALKIE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0008_FLORA-WALKIETALKIE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>CARD_0008_FLORA-WALKIETALKIE_S</Data></Cell>
+	<Cell><Data>CARD_0008_FLORA-WALKIETALKIE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0009_AISHA-WALKIETALKIE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>CARD_0009_AISHA-WALKIETALKIE_S</Data></Cell>
+	<Cell><Data>CARD_0009_AISHA-WALKIETALKIE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0010_MUSA-WALKIETALKIE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>CARD_0010_MUSA-WALKIETALKIE_S</Data></Cell>
+	<Cell><Data>CARD_0010_MUSA-WALKIETALKIE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0011_TECNA-WALKIETALKIE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>CARD_0011_TECNA-WALKIETALKIE_S</Data></Cell>
+	<Cell><Data>CARD_0011_TECNA-WALKIETALKIE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0012_BLOOM-SUITCASE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>VERYCOMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0012_BLOOM-SUITCASE_S</Data></Cell>
+	<Cell><Data>CARD_0012_BLOOM-SUITCASE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0013_STELLA-SUITCASE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>VERYCOMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0013_STELLA-SUITCASE_S</Data></Cell>
+	<Cell><Data>CARD_0013_STELLA-SUITCASE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0014_FLORA-SUITCASE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>VERYCOMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0014_FLORA-SUITCASE_S</Data></Cell>
+	<Cell><Data>CARD_0014_FLORA-SUITCASE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0015_AISHA-SUITCASE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>VERYCOMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0015_AISHA-SUITCASE_S</Data></Cell>
+	<Cell><Data>CARD_0015_AISHA-SUITCASE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0016_MUSA-SUITCASE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>VERYCOMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>CARD_0016_MUSA-SUITCASE_S</Data></Cell>
+	<Cell><Data>CARD_0016_MUSA-SUITCASE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0017_TECNA-SUITCASE(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>VERYCOMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>CARD_0017_TECNA-SUITCASE_S</Data></Cell>
+	<Cell><Data>CARD_0017_TECNA-SUITCASE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0018_BLOOM-BEAUTY BAG(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>CARD_0018_BLOOM-BEAUTY BAG_S</Data></Cell>
+	<Cell><Data>CARD_0018_BLOOM-BEAUTY BAG</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0019_STELLA-DRAWING BLOCK(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>CARD_0019_STELLA-DRAWING BLOCK_S</Data></Cell>
+	<Cell><Data>CARD_0019_STELLA-DRAWING BLOCK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0020_FLORA-BAG(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>CARD_0020_FLORA-BAG_S</Data></Cell>
+	<Cell><Data>CARD_0020_FLORA-BAG</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0021_MUSA-BAG(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>CARD_0021_MUSA-BAG_S</Data></Cell>
+	<Cell><Data>CARD_0021_MUSA-BAG</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0022_ELDORA_FLOWER(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>CARD_0022_ELDORA_FLOWER_S</Data></Cell>
+	<Cell><Data>CARD_0022_ELDORA_FLOWER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0023_ERENDORS_JEWELBAG</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>CARD_0023_ERENDORS_JEWELBAG_S</Data></Cell>
+	<Cell><Data>CARD_0023_ERENDORS_JEWELBAG</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0024_HEARTCRYSTAL(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0024_HEARTCRYSTAL_S</Data></Cell>
+	<Cell><Data>CARD_0024_HEARTCRYSTAL</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0025_LEGADARIUM(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0025_LEGADARIUM_S</Data></Cell>
+	<Cell><Data>CARD_0025_LEGADARIUM</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0026_LIGHTSHELL(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0026_LIGHTSHELL_S</Data></Cell>
+	<Cell><Data>CARD_0026_LIGHTSHELL</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0027_LOVE PENDANT OF ERAKLION(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0027_LOVE_PENDANT_OF_ERAKLION_S</Data></Cell>
+	<Cell><Data>CARD_0027_LOVE_PENDANT_OF_ERAKLION</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0028_RING(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>CARD_0028_RING_S</Data></Cell>
+	<Cell><Data>CARD_0028_RING</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0029_SIRENIX BOOK(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>CARD_0029_SIRENIX BOOK_S</Data></Cell>
+	<Cell><Data>CARD_0029_SIRENIX BOOK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0030_SNOWFLAKE BOOK(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>CARD_0030_SNOWFLAKE BOOK_S</Data></Cell>
+	<Cell><Data>CARD_0030_SNOWFLAKE BOOK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0031_WIND BOOK(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>CARD_0031_WIND BOOK_S</Data></Cell>
+	<Cell><Data>CARD_0031_WIND BOOK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0042_FISH_01</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>CARD_0042_FISH_01_S</Data></Cell>
+	<Cell><Data>CARD_0042_FISH_01</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0043_FISH_02</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>CARD_0043_FISH_02_S</Data></Cell>
+	<Cell><Data>CARD_0043_FISH_02</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0044_FISH_03</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>CARD_0044_FISH_03_S</Data></Cell>
+	<Cell><Data>CARD_0044_FISH_03</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0045_FISH_04</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>CARD_0045_FISH_04_S</Data></Cell>
+	<Cell><Data>CARD_0045_FISH_04</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0046_FISH_05</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0046_FISH_05_S</Data></Cell>
+	<Cell><Data>CARD_0046_FISH_05</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0047_FISH_06</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>COMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0047_FISH_06_S</Data></Cell>
+	<Cell><Data>CARD_0047_FISH_06</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0048_WHALE</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>UNIQUE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0048_WHALE_S</Data></Cell>
+	<Cell><Data>CARD_0048_WHALE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0049_WHITE_FLOWER</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>VERYCOMMON</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0049_WHITE_FLOWER_S</Data></Cell>
+	<Cell><Data>CARD_0049_WHITE_FLOWER</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0036_FARAGONDA(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>TEACHER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+	<Cell><Data>CARD_0036_FARAGONDA_S</Data></Cell>
+	<Cell><Data>CARD_0036_FARAGONDA</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0037_DAPHNE</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>TEACHER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+	<Cell><Data>CARD_0037_DAPHNE_S</Data></Cell>
+	<Cell><Data>CARD_0037_DAPHNE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0038_ROXY</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>TEACHER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+	<Cell><Data>CARD_0038_ROXY_S</Data></Cell>
+	<Cell><Data>CARD_0038_ROXY</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0039_AVALON</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>TEACHER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+	<Cell><Data>CARD_0039_AVALON_S</Data></Cell>
+	<Cell><Data>CARD_0039_AVALON</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0040_DUFOUR</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>TEACHER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>CARD_0040_DUFOUR_S</Data></Cell>
+	<Cell><Data>CARD_0040_DUFOUR</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0041_ELDORA</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>TEACHER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>6</Data></Cell>
+	<Cell><Data>CARD_0041_ELDORA_S</Data></Cell>
+	<Cell><Data>CARD_0041_ELDORA</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0032_WIZZ_GIZZ(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>TEACHER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>CARD_0032_WIZZ_GIZZ_S</Data></Cell>
+	<Cell><Data>CARD_0032_WIZZ_GIZZ</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0033_GRISELDA(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>TEACHER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>8</Data></Cell>
+	<Cell><Data>CARD_0033_GRISELDA_S</Data></Cell>
+	<Cell><Data>CARD_0033_GRISELDA</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0034_BARBETA</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>TEACHER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>9</Data></Cell>
+	<Cell><Data>CARD_0034_BARBETA_S</Data></Cell>
+	<Cell><Data>CARD_0034_BARBETA</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>CARD_0035_PALLADIUM(newline)</Data></Cell>
+	<Cell><Data>STANDARD</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>24</Data></Cell>
+	<Cell><Data>TEACHER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>10</Data></Cell>
+	<Cell><Data>CARD_0035_PALLADIUM_S</Data></Cell>
+	<Cell><Data>CARD_0035_PALLADIUM</Data></Cell>
+</Row>
+</Table>
+</Workbook>

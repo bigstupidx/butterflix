@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 3ed4193a403478a44a4d9c37eb368114
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Celing
+    100002: Floor
+    100004: Pillars
+    100006: PlatformsFloor
+    100008: PlatformsPillar
+    100010: PlatformsWall
+    100012: RampFloor
+    100014: RampWall
+    100016: StepsFloor
+    100018: StepsWall
+    100020: //RootNode
+    100022: Walls
+    100024: Lava
+    400000: Celing
+    400002: Floor
+    400004: Pillars
+    400006: PlatformsFloor
+    400008: PlatformsPillar
+    400010: PlatformsWall
+    400012: RampFloor
+    400014: RampWall
+    400016: StepsFloor
+    400018: StepsWall
+    400020: //RootNode
+    400022: Walls
+    400024: Lava
+    2300000: Celing
+    2300002: Floor
+    2300004: Pillars
+    2300006: PlatformsFloor
+    2300008: PlatformsPillar
+    2300010: PlatformsWall
+    2300012: RampFloor
+    2300014: RampWall
+    2300016: StepsFloor
+    2300018: StepsWall
+    2300020: Walls
+    2300022: Lava
+    3300000: Celing
+    3300002: Floor
+    3300004: Pillars
+    3300006: PlatformsFloor
+    3300008: PlatformsPillar
+    3300010: PlatformsWall
+    3300012: RampFloor
+    3300014: RampWall
+    3300016: StepsFloor
+    3300018: StepsWall
+    3300020: Walls
+    3300022: Lava
+    4300000: Floor
+    4300002: Celing
+    4300004: Walls
+    4300006: StepsWall
+    4300008: StepsFloor
+    4300010: RampFloor
+    4300012: RampWall
+    4300014: PlatformsWall
+    4300016: PlatformsFloor
+    4300018: PlatformsPillar
+    4300020: Pillars
+    4300022: Lava
+    6400000: Celing
+    6400002: Floor
+    6400004: Pillars
+    6400006: PlatformsFloor
+    6400008: PlatformsPillar
+    6400010: PlatformsWall
+    6400012: RampFloor
+    6400014: RampWall
+    6400016: StepsFloor
+    6400018: StepsWall
+    6400020: Walls
+    6400022: Lava
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

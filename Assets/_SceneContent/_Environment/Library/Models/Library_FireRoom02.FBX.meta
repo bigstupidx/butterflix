@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 82feb3610ebbbac47a6800acefe762cc
+timeCreated: 1434499893
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Lib04_Alcove
+    100002: Lib04_Arches
+    100004: Lib04_Concrete
+    100006: Lib04_Floor_StoneBrick
+    100008: Lib04_Misc
+    100010: Lib04_Wall_BrickDark01
+    100012: Lib04_Wall_BrownClay
+    100014: //RootNode
+    100016: Lib04_Ceiling_BrownBrick
+    100018: Lib04_Library_Misc
+    100020: Lib04_LibraryCarpets
+    100022: LibraryPicture06
+    100024: LibraryPicture07
+    100026: LibraryPicture08
+    400000: Lib04_Alcove
+    400002: Lib04_Arches
+    400004: Lib04_Concrete
+    400006: Lib04_Floor_StoneBrick
+    400008: Lib04_Misc
+    400010: Lib04_Wall_BrickDark01
+    400012: Lib04_Wall_BrownClay
+    400014: //RootNode
+    400016: Lib04_Ceiling_BrownBrick
+    400018: Lib04_Library_Misc
+    400020: Lib04_LibraryCarpets
+    400022: LibraryPicture06
+    400024: LibraryPicture07
+    400026: LibraryPicture08
+    2300000: Lib04_Alcove
+    2300002: Lib04_Arches
+    2300004: Lib04_Concrete
+    2300006: Lib04_Floor_StoneBrick
+    2300008: Lib04_Misc
+    2300010: Lib04_Wall_BrickDark01
+    2300012: Lib04_Wall_BrownClay
+    2300014: Lib04_Ceiling_BrownBrick
+    2300016: Lib04_Library_Misc
+    2300018: Lib04_LibraryCarpets
+    2300020: LibraryPicture06
+    2300022: LibraryPicture07
+    2300024: LibraryPicture08
+    3300000: Lib04_Alcove
+    3300002: Lib04_Arches
+    3300004: Lib04_Concrete
+    3300006: Lib04_Floor_StoneBrick
+    3300008: Lib04_Misc
+    3300010: Lib04_Wall_BrickDark01
+    3300012: Lib04_Wall_BrownClay
+    3300014: Lib04_Ceiling_BrownBrick
+    3300016: Lib04_Library_Misc
+    3300018: Lib04_LibraryCarpets
+    3300020: LibraryPicture06
+    3300022: LibraryPicture07
+    3300024: LibraryPicture08
+    4300000: Lib04_Concrete
+    4300002: Lib04_Arches
+    4300004: Lib04_Wall_BrownClay
+    4300006: Lib04_Wall_BrickDark01
+    4300008: Lib04_Alcove
+    4300010: Lib04_Floor_StoneBrick
+    4300012: Lib04_Misc
+    4300014: Lib04_Library_Misc
+    4300016: Lib04_LibraryCarpets
+    4300018: Lib04_Ceiling_BrownBrick
+    4300020: LibraryPicture06
+    4300022: LibraryPicture07
+    4300024: LibraryPicture08
+    6400000: Lib04_Alcove
+    6400002: Lib04_Arches
+    6400004: Lib04_Concrete
+    6400006: Lib04_Floor_StoneBrick
+    6400008: Lib04_Misc
+    6400010: Lib04_Wall_BrickDark01
+    6400012: Lib04_Wall_BrownClay
+    6400014: Lib04_Ceiling_BrownBrick
+    6400016: Lib04_Library_Misc
+    6400018: Lib04_LibraryCarpets
+    6400020: LibraryPicture06
+    6400022: LibraryPicture07
+    6400024: LibraryPicture08
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,59 @@
+Version 2.1
+- Atlas is now transparent by default preventing render errors on the edges for transparent materials when the atlas isnt fully used. Fix by Mike from M2H studios
+- Solved bug where multiple materials objects where parented and scaled where not correctly re-scaled and re-parented on the optimized object.
+Version 2.0.1
+- Added LOD Automatic script link in README.txt from Mike from M2H studios
+Version 2.0
+- UI Revamp.
+- Added new "Advanced" tab that contains Advanced search and Advanced options.
+- Selection can now be filtered by tags or by layers
+- Removed Reuse textures, Remove atlassed before bake and Generate prefabs options from Objects and placed it into the Advanced UI.
+- Added a console status on the advanced UI that shows the last action done when doing an advanced search.
+- Small performance improvements when drawing the UI and more cleaner code base.
+- Added descriptions for the advanced options.
+- Updated Examples with new baked scenes.
+Version 1.9.5
+- Small performance improvements
+- cleanup some code on the GUI side
+- separated different GUIs from the main menu class.
+Version 1.9.4
+- Performance improvements when processing for platforms like iPhone Android.
+- Multiple materials objects texture formats are now supported
+- Be able to combine 1 GameObject with multiple materials
+Version 1.9.31
+- invalid characters in generated prefabs are now corrected and saved to a valid folder name
+Version 1.9.3
+- Added known issues section on README.txt
+- added log error saying that multiple materials and a non compatible texture format is not supported yet.
+Version 1.9.2
+- Solved crash when object has more than 1 material, has different shaders and the shaders are not recognized
+Version 1.9.1
+- Solved crash problem when an object with more than 1 material had different shaders.
+Version 1.9
+- Tool now automagically supports any texture format. (it internally converts the texture to RGBA32, process it and then reimports back the texture to its original state)
+- Normal textures are automatically marked as normal maps, if the tool cant figure out it will display a warning message.
+- Atlasses automatically get set their closest import texture size i.e atlas size is: 3072, it gets set to 4096.
+Version 1.8
+- Added checkbox for generating prefabs for baked objects. (Unchecked by default), With this checked it takes _more_ time as it generates the meshes and prefabs for the objects.
+--> For each gameobject a prefab gets generated regardless if its repeated or not.
+- Changed token for optimized objects from =>ODCObj to .ODCObj so prefab generation gets done correctly when saving prefabs to the project.
+- Re built all the examples with the new token (.ODCObj)
+- Organized README to show better the tutorial and the contact info.
+Version 1.7
+- Organized link in README for intro video, now it points correctly.
+- Packed Examples folder into a .unityPackage file in order to avoid loading times on the tool, now you just can double click the .unitypackage and it will import the examples
+- Atlasses bigger than 4096x4096 now displays a warning that resize will be done by Unity when using it.
+Version 1.63
+- Fixed small bug that made the app crash when baking atlas on a non saved scene.
+Version 1.62
+- Fixed compile directives to avoid conflicts when building projects
+version 1.61
+- Added namespaces in order to avoid conflicts with repeated classes
+Version 1.6
+- Added support for Tiled Materials
+Version 1.51
+- Changed package name from ProDrawCall to Pro Draw Call.
+Version 1.5
+- Added support for multiple materials on game objects.
+- Fixed reversed indexor that was conflicting with combining materials.
+Version 1.0

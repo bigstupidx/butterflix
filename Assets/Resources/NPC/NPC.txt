@@ -1,0 +1,90 @@
+<Row>
+</Row>
+<Row>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>ID</Data></Cell>
+	<Cell><Data>Card ID</Data></Cell>
+	<Cell><Data>Population Unlock</Data></Cell>
+	<Cell><Data>Gems Rewarded Per Day</Data></Cell>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>NPC_STUDENT</Data></Cell>
+	<Cell><Data>NULL</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>1</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NPC_ELDORA</Data></Cell>
+	<Cell><Data>CARD_0041_ELDORA</Data></Cell>
+	<Cell><Data>25000</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NPC_DUFOUR</Data></Cell>
+	<Cell><Data>CARD_0040_DUFOUR</Data></Cell>
+	<Cell><Data>50000</Data></Cell>
+	<Cell><Data>2</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NPC_AVALON</Data></Cell>
+	<Cell><Data>CARD_0039_AVALON</Data></Cell>
+	<Cell><Data>100000</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NPC_PALLADIUM</Data></Cell>
+	<Cell><Data>CARD_0035_PALLADIUM(newline)</Data></Cell>
+	<Cell><Data>150000</Data></Cell>
+	<Cell><Data>3</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NPC_WIZGIZ</Data></Cell>
+	<Cell><Data>CARD_0032_WIZZ_GIZZ(newline)</Data></Cell>
+	<Cell><Data>250000</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NPC_GRISELDA</Data></Cell>
+	<Cell><Data>CARD_0033_GRISELDA(newline)</Data></Cell>
+	<Cell><Data>500000</Data></Cell>
+	<Cell><Data>4</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NPC_FARAGONDA</Data></Cell>
+	<Cell><Data>CARD_0036_FARAGONDA(newline)</Data></Cell>
+	<Cell><Data>600000</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NPC_ROXY</Data></Cell>
+	<Cell><Data>CARD_0038_ROXY</Data></Cell>
+	<Cell><Data>700000</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>NPC_DAPHNE</Data></Cell>
+	<Cell><Data>CARD_0037_DAPHNE</Data></Cell>
+	<Cell><Data>1000000</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+</Row>
+</Table>
+</Workbook>

@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: c9ee77cc1f0aaf845b60b2249f589f52
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Floor_01
+    100004: Floor_02
+    100006: Floor_03
+    100008: Floor_04
+    100010: Floor_05
+    100012: Floor_06
+    100014: Floor_07
+    100016: Floor_08
+    100018: Floor_09
+    100020: Floor_10
+    100022: Floor_11
+    100024: Floor_12
+    100026: Floor_13
+    100028: Floor_14
+    100030: Floor_15
+    100032: Floor_08 1
+    100034: Floor_16
+    400000: //RootNode
+    400002: Floor_01
+    400004: Floor_02
+    400006: Floor_03
+    400008: Floor_04
+    400010: Floor_05
+    400012: Floor_06
+    400014: Floor_07
+    400016: Floor_08
+    400018: Floor_09
+    400020: Floor_10
+    400022: Floor_11
+    400024: Floor_12
+    400026: Floor_13
+    400028: Floor_14
+    400030: Floor_15
+    400032: Floor_08 1
+    400034: Floor_16
+    2300000: //RootNode
+    2300002: Floor_01
+    2300004: Floor_02
+    2300006: Floor_03
+    2300008: Floor_04
+    2300010: Floor_05
+    2300012: Floor_06
+    2300014: Floor_07
+    2300016: Floor_08
+    2300018: Floor_09
+    2300020: Floor_10
+    2300022: Floor_11
+    2300024: Floor_12
+    2300026: Floor_13
+    2300028: Floor_14
+    2300030: Floor_15
+    2300032: Floor_08 1
+    2300034: Floor_16
+    3300000: //RootNode
+    3300002: Floor_01
+    3300004: Floor_02
+    3300006: Floor_03
+    3300008: Floor_04
+    3300010: Floor_05
+    3300012: Floor_06
+    3300014: Floor_07
+    3300016: Floor_08
+    3300018: Floor_09
+    3300020: Floor_10
+    3300022: Floor_11
+    3300024: Floor_12
+    3300026: Floor_13
+    3300028: Floor_14
+    3300030: Floor_15
+    3300032: Floor_08 1
+    3300034: Floor_16
+    4300000: Floor
+    4300002: Floor_01
+    4300004: Floor_02
+    4300006: Floor_03
+    4300008: Floor_04
+    4300010: Floor_05
+    4300012: Floor_06
+    4300014: Floor_07
+    4300016: Floor_08
+    4300018: Floor_09
+    4300020: Floor_10
+    4300022: Floor_11
+    4300024: Floor_12
+    4300026: Floor_13
+    4300028: Floor_14
+    4300030: Floor_15
+    4300032: Floor_16
+    4300034: Floor_08
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

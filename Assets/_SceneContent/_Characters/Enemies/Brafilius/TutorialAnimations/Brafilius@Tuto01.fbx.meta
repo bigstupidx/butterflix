@@ -1,0 +1,3352 @@
+fileFormatVersion: 2
+guid: 8245c90545b8f184f85d667b1726d0c5
+timeCreated: 1436523434
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Brafilius_01
+    100004: Ctrl_BallPivot_L
+    100006: Ctrl_BallPivot_R
+    100008: Ctrl_Belly_Front
+    100010: Ctrl_Belly_Side_L
+    100012: Ctrl_Belly_Side_R
+    100014: Ctrl_Brow
+    100016: Ctrl_Cheek_L
+    100018: Ctrl_Cheek_R
+    100020: Ctrl_Clav_L
+    100022: Ctrl_Clav_R
+    100024: Ctrl_Collar_Back
+    100026: Ctrl_Collar_L
+    100028: Ctrl_Collar_R
+    100030: Ctrl_Cravat_Main
+    100032: Ctrl_ElbowAim_L
+    100034: Ctrl_ElbowAim_R
+    100036: Ctrl_Eye_Bottom_Mid_L
+    100038: Ctrl_Eye_Bottom_Mid_R
+    100040: Ctrl_Eye_Bottom_Outer_L
+    100042: Ctrl_Eye_Bottom_Outer_R
+    100044: Ctrl_Eye_Grp
+    100046: Ctrl_Eye_Inner_L
+    100048: Ctrl_Eye_Inner_R
+    100050: Ctrl_Eye_Top_Mid_L
+    100052: Ctrl_Eye_Top_Mid_R
+    100054: Ctrl_Eye_Top_Outer_L
+    100056: Ctrl_Eye_Top_Outer_R
+    100058: Ctrl_EyeAim_L
+    100060: Ctrl_EyeAim_R
+    100062: Ctrl_Eyebrow_Inner_L
+    100064: Ctrl_Eyebrow_Inner_R
+    100066: Ctrl_Eyebrow_Outer_L
+    100068: Ctrl_Eyebrow_Outer_R
+    100070: Ctrl_Feather_01
+    100072: Ctrl_Feather_02
+    100074: Ctrl_Foot_L
+    100076: Ctrl_Foot_R
+    100078: Ctrl_Fringe_01_L
+    100080: Ctrl_Fringe_01_R
+    100082: Ctrl_Fringe_02_L
+    100084: Ctrl_Fringe_02_R
+    100086: Ctrl_Fringe_Front
+    100088: Ctrl_Global
+    100090: Ctrl_Hand_L
+    100092: Ctrl_Hand_R
+    100094: Ctrl_Hand_R 1
+    100096: Ctrl_Hat
+    100098: Ctrl_Head
+    100100: Ctrl_Index_01
+    100102: Ctrl_Index_01 1
+    100104: Ctrl_Index_018
+    100106: Ctrl_Index_018 1
+    100108: Ctrl_Index_0188
+    100110: Ctrl_Index_0188 1
+    100112: Ctrl_Jaw
+    100114: Ctrl_Jowl_L
+    100116: Ctrl_Jowl_R
+    100118: Ctrl_KneeAim_L
+    100120: Ctrl_KneeAim_R
+    100122: Ctrl_Lip_Bottom
+    100124: Ctrl_Lip_Top
+    100126: Ctrl_Middle_01
+    100128: Ctrl_Middle_01 1
+    100130: Ctrl_Middle_02
+    100132: Ctrl_Middle_02 1
+    100134: Ctrl_Middle_03
+    100136: Ctrl_Middle_03 1
+    100138: Ctrl_Mouth_L
+    100140: Ctrl_Mouth_R
+    100142: Ctrl_Nose
+    100144: Ctrl_Pinky_01
+    100146: Ctrl_Pinky_01 1
+    100148: Ctrl_Pinky_02
+    100150: Ctrl_Pinky_02 1
+    100152: Ctrl_Pinky_03
+    100154: Ctrl_Pinky_03 1
+    100156: Ctrl_Ring_01
+    100158: Ctrl_Ring_01 1
+    100160: Ctrl_Ring_02
+    100162: Ctrl_Ring_02 1
+    100164: Ctrl_Ring_03
+    100166: Ctrl_Ring_03 1
+    100168: Ctrl_Spine_01
+    100170: Ctrl_Spine_02
+    100172: Ctrl_Spine_03
+    100174: Ctrl_Tail_01
+    100176: Ctrl_Tail_02
+    100178: Ctrl_Tail_03
+    100180: Ctrl_Tail_Main
+    100182: Ctrl_Thumb_01
+    100184: Ctrl_Thumb_01 1
+    100186: Ctrl_Thumb_02
+    100188: Ctrl_Thumb_02 1
+    100190: Ctrl_ToePivot_L
+    100192: Ctrl_ToePivot_R
+    100194: Ctrl_Waist
+    100196: Ctrl_Whiskers_L
+    100198: Ctrl_Whiskers_R
+    100200: Ctrls
+    100202: Ctrls_Eyes
+    100204: Ctrls_Feather_01
+    100206: Ctrls_Feather_02
+    100208: Ctrls_Fringe_L
+    100210: Ctrls_Fringe_R
+    100212: Ctrls_SideBurn_01_L
+    100214: Ctrls_SideBurn_01_R
+    100216: Ctrls_SideBurn_02_L
+    100218: Ctrls_SideBurn_02_R
+    100220: Ctrls_SideBurn_L
+    100222: Ctrls_SideBurn_L1
+    100224: curve3
+    100226: curve4
+    100228: curve5
+    100230: ikHandle_Ankle_L
+    100232: ikHandle_Ankle_R
+    100234: ikHandle_Arm_L
+    100236: ikHandle_Arm_R
+    100238: ikHandle_Ball_L
+    100240: ikHandle_Ball_R
+    100242: ikHandle_Toe_L
+    100244: ikHandle_Toe_R
+    100246: Jnt_Brafilius_03
+    100248: Jnt_Brafilius_Ankle_L
+    100250: Jnt_Brafilius_Ankle_R
+    100252: Jnt_Brafilius_Ball_L
+    100254: Jnt_Brafilius_Ball_R
+    100256: Jnt_Brafilius_Belly_Front
+    100258: Jnt_Brafilius_Belly_Side_L
+    100260: Jnt_Brafilius_Belly_Side_R
+    100262: Jnt_Brafilius_Brow
+    100264: Jnt_Brafilius_Cheek_L
+    100266: Jnt_Brafilius_Cheek_R
+    100268: Jnt_Brafilius_Clav_L
+    100270: Jnt_Brafilius_Clav_R
+    100272: Jnt_Brafilius_Collar_Back_01
+    100274: Jnt_Brafilius_Collar_Back_02be
+    100276: Jnt_Brafilius_Collar_Front_01_L
+    100278: Jnt_Brafilius_Collar_Front_01_R
+    100280: Jnt_Brafilius_Collar_Front_02be_L
+    100282: Jnt_Brafilius_Collar_Front_02be_R
+    100284: Jnt_Brafilius_Cravat_01
+    100286: Jnt_Brafilius_Cravat_02
+    100288: Jnt_Brafilius_Cravat_03
+    100290: Jnt_Brafilius_Cravat_04be
+    100292: Jnt_Brafilius_Elbow_L
+    100294: Jnt_Brafilius_Elbow_R
+    100296: Jnt_Brafilius_Eye_be_L
+    100298: Jnt_Brafilius_Eye_be_R
+    100300: Jnt_Brafilius_Eye_Bottom_Back_L
+    100302: Jnt_Brafilius_Eye_Bottom_Back_R
+    100304: Jnt_Brafilius_Eye_Bottom_L
+    100306: Jnt_Brafilius_Eye_Bottom_R
+    100308: Jnt_Brafilius_Eye_bs_L
+    100310: Jnt_Brafilius_Eye_bs_R
+    100312: Jnt_Brafilius_Eye_L
+    100314: Jnt_Brafilius_Eye_R
+    100316: Jnt_Brafilius_Eye_Top_Back_L
+    100318: Jnt_Brafilius_Eye_Top_Back_R
+    100320: Jnt_Brafilius_Eye_Top_Front_L
+    100322: Jnt_Brafilius_Eye_Top_Front_R
+    100324: Jnt_Brafilius_Eye_Top_L
+    100326: Jnt_Brafilius_Eye_Top_R
+    100328: Jnt_Brafilius_Eyebrow01_L
+    100330: Jnt_Brafilius_Eyebrow01_R
+    100332: Jnt_Brafilius_Eyebrow02_L
+    100334: Jnt_Brafilius_Eyebrow02_R
+    100336: Jnt_Brafilius_Feather01
+    100338: Jnt_Brafilius_Feather01_be
+    100340: Jnt_Brafilius_Feather02
+    100342: Jnt_Brafilius_Feather02_be
+    100344: Jnt_Brafilius_Fringe_01
+    100346: Jnt_Brafilius_Fringe_02
+    100348: Jnt_Brafilius_Hat
+    100350: Jnt_Brafilius_Hat_be
+    100352: Jnt_Brafilius_Head
+    100354: Jnt_Brafilius_Index_01_L
+    100356: Jnt_Brafilius_Index_01_R
+    100358: Jnt_Brafilius_Index_02_L
+    100360: Jnt_Brafilius_Index_02_R
+    100362: Jnt_Brafilius_Index_03_L
+    100364: Jnt_Brafilius_Index_03_R
+    100366: Jnt_Brafilius_Index_04be_L
+    100368: Jnt_Brafilius_Index_04be_R
+    100370: Jnt_Brafilius_Jaw
+    100372: Jnt_Brafilius_Jaw_be
+    100374: Jnt_Brafilius_Jowl_L
+    100376: Jnt_Brafilius_Jowl_R
+    100378: Jnt_Brafilius_Knee_L
+    100380: Jnt_Brafilius_Knee_R
+    100382: Jnt_Brafilius_Lip_Lower
+    100384: Jnt_Brafilius_Lip_Upper
+    100386: Jnt_Brafilius_Middle_01_L
+    100388: Jnt_Brafilius_Middle_01_R
+    100390: Jnt_Brafilius_Middle_02_L
+    100392: Jnt_Brafilius_Middle_02_R
+    100394: Jnt_Brafilius_Middle_03_L
+    100396: Jnt_Brafilius_Middle_03_R
+    100398: Jnt_Brafilius_Middle_04be_L
+    100400: Jnt_Brafilius_Middle_04be_R
+    100402: Jnt_Brafilius_Mouth_L
+    100404: Jnt_Brafilius_Mouth_R
+    100406: Jnt_Brafilius_Neck
+    100408: Jnt_Brafilius_Nose
+    100410: Jnt_Brafilius_Nose_bs
+    100412: Jnt_Brafilius_Palm_L
+    100414: Jnt_Brafilius_Palm_R
+    100416: Jnt_Brafilius_Pinky_01_L
+    100418: Jnt_Brafilius_Pinky_01_R
+    100420: Jnt_Brafilius_Pinky_02_L
+    100422: Jnt_Brafilius_Pinky_02_R
+    100424: Jnt_Brafilius_Pinky_03_L
+    100426: Jnt_Brafilius_Pinky_03_R
+    100428: Jnt_Brafilius_Pinky_04be_L
+    100430: Jnt_Brafilius_Pinky_04be_R
+    100432: Jnt_Brafilius_REVERSE_Ankle_L
+    100434: Jnt_Brafilius_REVERSE_Ankle_R
+    100436: Jnt_Brafilius_REVERSE_Ball_L
+    100438: Jnt_Brafilius_REVERSE_Ball_R
+    100440: Jnt_Brafilius_REVERSE_Heel_L
+    100442: Jnt_Brafilius_REVERSE_Heel_R
+    100444: Jnt_Brafilius_REVERSE_Toe_L
+    100446: Jnt_Brafilius_REVERSE_Toe_R
+    100448: Jnt_Brafilius_Ring_01_L
+    100450: Jnt_Brafilius_Ring_01_R
+    100452: Jnt_Brafilius_Ring_02_L
+    100454: Jnt_Brafilius_Ring_02_R
+    100456: Jnt_Brafilius_Ring_03_L
+    100458: Jnt_Brafilius_Ring_03_R
+    100460: Jnt_Brafilius_Ring_04be_L
+    100462: Jnt_Brafilius_Ring_04be_R
+    100464: Jnt_Brafilius_Shldr_L
+    100466: Jnt_Brafilius_Shldr_R
+    100468: Jnt_Brafilius_Sideburn1_01_L
+    100470: Jnt_Brafilius_Sideburn1_01_R
+    100472: Jnt_Brafilius_Sideburn1_02_L
+    100474: Jnt_Brafilius_Sideburn1_02_R
+    100476: Jnt_Brafilius_Sideburn1_03_L
+    100478: Jnt_Brafilius_Sideburn1_03_R
+    100480: Jnt_Brafilius_Sideburn2_01_L
+    100482: Jnt_Brafilius_Sideburn2_01_R
+    100484: Jnt_Brafilius_Sideburn2_02_L
+    100486: Jnt_Brafilius_Sideburn2_02_R
+    100488: Jnt_Brafilius_Sideburn2_03_L
+    100490: Jnt_Brafilius_Sideburn2_03_R
+    100492: Jnt_Brafilius_Spine01
+    100494: Jnt_Brafilius_Spine02
+    100496: Jnt_Brafilius_Tail_01
+    100498: Jnt_Brafilius_Tail_02
+    100500: Jnt_Brafilius_Tail_03
+    100502: Jnt_Brafilius_Tail_04
+    100504: Jnt_Brafilius_Tail_05be
+    100506: Jnt_Brafilius_Thigh_L
+    100508: Jnt_Brafilius_Thigh_R
+    100510: Jnt_Brafilius_Thumb_01_L
+    100512: Jnt_Brafilius_Thumb_01_R
+    100514: Jnt_Brafilius_Thumb_02_L
+    100516: Jnt_Brafilius_Thumb_02_R
+    100518: Jnt_Brafilius_Thumb_03be_L
+    100520: Jnt_Brafilius_Thumb_03be_R
+    100522: Jnt_Brafilius_Toe_L
+    100524: Jnt_Brafilius_Toe_R
+    100526: Jnt_Brafilius_Waist
+    100528: Jnt_Brafilius_Whiskers_L
+    100530: Jnt_Brafilius_Whiskers_R
+    100532: Jnt_Brafilius_Wrist_L
+    100534: Jnt_Brafilius_Wrist_R
+    100536: null_Index_01
+    100538: null_Index_01 1
+    100540: null_Index_02
+    100542: null_Index_02 1
+    100544: null_Index_03
+    100546: null_Index_03 1
+    100548: null_Middle_01
+    100550: null_Middle_01 1
+    100552: null_Middle_02
+    100554: null_Middle_02 1
+    100556: null_Middle_03
+    100558: null_Middle_03 1
+    100560: null_Pinky_01
+    100562: null_Pinky_01 1
+    100564: null_Pinky_02
+    100566: null_Pinky_02 1
+    100568: null_Pinky_03
+    100570: null_Pinky_03 1
+    100572: null_Ring_01
+    100574: null_Ring_01 1
+    100576: null_Ring_02
+    100578: null_Ring_02 1
+    100580: null_Ring_03
+    100582: null_Ring_03 1
+    100584: null_Thumb_01
+    100586: null_Thumb_01 1
+    100588: null_Thumb_02
+    100590: null_Thumb_02 1
+    100592: Reference
+    100594: TauntPositions
+    400000: //RootNode
+    400002: Brafilius_01
+    400004: Ctrl_BallPivot_L
+    400006: Ctrl_BallPivot_R
+    400008: Ctrl_Belly_Front
+    400010: Ctrl_Belly_Side_L
+    400012: Ctrl_Belly_Side_R
+    400014: Ctrl_Brow
+    400016: Ctrl_Cheek_L
+    400018: Ctrl_Cheek_R
+    400020: Ctrl_Clav_L
+    400022: Ctrl_Clav_R
+    400024: Ctrl_Collar_Back
+    400026: Ctrl_Collar_L
+    400028: Ctrl_Collar_R
+    400030: Ctrl_Cravat_Main
+    400032: Ctrl_ElbowAim_L
+    400034: Ctrl_ElbowAim_R
+    400036: Ctrl_Eye_Bottom_Mid_L
+    400038: Ctrl_Eye_Bottom_Mid_R
+    400040: Ctrl_Eye_Bottom_Outer_L
+    400042: Ctrl_Eye_Bottom_Outer_R
+    400044: Ctrl_Eye_Grp
+    400046: Ctrl_Eye_Inner_L
+    400048: Ctrl_Eye_Inner_R
+    400050: Ctrl_Eye_Top_Mid_L
+    400052: Ctrl_Eye_Top_Mid_R
+    400054: Ctrl_Eye_Top_Outer_L
+    400056: Ctrl_Eye_Top_Outer_R
+    400058: Ctrl_EyeAim_L
+    400060: Ctrl_EyeAim_R
+    400062: Ctrl_Eyebrow_Inner_L
+    400064: Ctrl_Eyebrow_Inner_R
+    400066: Ctrl_Eyebrow_Outer_L
+    400068: Ctrl_Eyebrow_Outer_R
+    400070: Ctrl_Feather_01
+    400072: Ctrl_Feather_02
+    400074: Ctrl_Foot_L
+    400076: Ctrl_Foot_R
+    400078: Ctrl_Fringe_01_L
+    400080: Ctrl_Fringe_01_R
+    400082: Ctrl_Fringe_02_L
+    400084: Ctrl_Fringe_02_R
+    400086: Ctrl_Fringe_Front
+    400088: Ctrl_Global
+    400090: Ctrl_Hand_L
+    400092: Ctrl_Hand_R
+    400094: Ctrl_Hand_R 1
+    400096: Ctrl_Hat
+    400098: Ctrl_Head
+    400100: Ctrl_Index_01
+    400102: Ctrl_Index_01 1
+    400104: Ctrl_Index_018
+    400106: Ctrl_Index_018 1
+    400108: Ctrl_Index_0188
+    400110: Ctrl_Index_0188 1
+    400112: Ctrl_Jaw
+    400114: Ctrl_Jowl_L
+    400116: Ctrl_Jowl_R
+    400118: Ctrl_KneeAim_L
+    400120: Ctrl_KneeAim_R
+    400122: Ctrl_Lip_Bottom
+    400124: Ctrl_Lip_Top
+    400126: Ctrl_Middle_01
+    400128: Ctrl_Middle_01 1
+    400130: Ctrl_Middle_02
+    400132: Ctrl_Middle_02 1
+    400134: Ctrl_Middle_03
+    400136: Ctrl_Middle_03 1
+    400138: Ctrl_Mouth_L
+    400140: Ctrl_Mouth_R
+    400142: Ctrl_Nose
+    400144: Ctrl_Pinky_01
+    400146: Ctrl_Pinky_01 1
+    400148: Ctrl_Pinky_02
+    400150: Ctrl_Pinky_02 1
+    400152: Ctrl_Pinky_03
+    400154: Ctrl_Pinky_03 1
+    400156: Ctrl_Ring_01
+    400158: Ctrl_Ring_01 1
+    400160: Ctrl_Ring_02
+    400162: Ctrl_Ring_02 1
+    400164: Ctrl_Ring_03
+    400166: Ctrl_Ring_03 1
+    400168: Ctrl_Spine_01
+    400170: Ctrl_Spine_02
+    400172: Ctrl_Spine_03
+    400174: Ctrl_Tail_01
+    400176: Ctrl_Tail_02
+    400178: Ctrl_Tail_03
+    400180: Ctrl_Tail_Main
+    400182: Ctrl_Thumb_01
+    400184: Ctrl_Thumb_01 1
+    400186: Ctrl_Thumb_02
+    400188: Ctrl_Thumb_02 1
+    400190: Ctrl_ToePivot_L
+    400192: Ctrl_ToePivot_R
+    400194: Ctrl_Waist
+    400196: Ctrl_Whiskers_L
+    400198: Ctrl_Whiskers_R
+    400200: Ctrls
+    400202: Ctrls_Eyes
+    400204: Ctrls_Feather_01
+    400206: Ctrls_Feather_02
+    400208: Ctrls_Fringe_L
+    400210: Ctrls_Fringe_R
+    400212: Ctrls_SideBurn_01_L
+    400214: Ctrls_SideBurn_01_R
+    400216: Ctrls_SideBurn_02_L
+    400218: Ctrls_SideBurn_02_R
+    400220: Ctrls_SideBurn_L
+    400222: Ctrls_SideBurn_L1
+    400224: curve3
+    400226: curve4
+    400228: curve5
+    400230: ikHandle_Ankle_L
+    400232: ikHandle_Ankle_R
+    400234: ikHandle_Arm_L
+    400236: ikHandle_Arm_R
+    400238: ikHandle_Ball_L
+    400240: ikHandle_Ball_R
+    400242: ikHandle_Toe_L
+    400244: ikHandle_Toe_R
+    400246: Jnt_Brafilius_03
+    400248: Jnt_Brafilius_Ankle_L
+    400250: Jnt_Brafilius_Ankle_R
+    400252: Jnt_Brafilius_Ball_L
+    400254: Jnt_Brafilius_Ball_R
+    400256: Jnt_Brafilius_Belly_Front
+    400258: Jnt_Brafilius_Belly_Side_L
+    400260: Jnt_Brafilius_Belly_Side_R
+    400262: Jnt_Brafilius_Brow
+    400264: Jnt_Brafilius_Cheek_L
+    400266: Jnt_Brafilius_Cheek_R
+    400268: Jnt_Brafilius_Clav_L
+    400270: Jnt_Brafilius_Clav_R
+    400272: Jnt_Brafilius_Collar_Back_01
+    400274: Jnt_Brafilius_Collar_Back_02be
+    400276: Jnt_Brafilius_Collar_Front_01_L
+    400278: Jnt_Brafilius_Collar_Front_01_R
+    400280: Jnt_Brafilius_Collar_Front_02be_L
+    400282: Jnt_Brafilius_Collar_Front_02be_R
+    400284: Jnt_Brafilius_Cravat_01
+    400286: Jnt_Brafilius_Cravat_02
+    400288: Jnt_Brafilius_Cravat_03
+    400290: Jnt_Brafilius_Cravat_04be
+    400292: Jnt_Brafilius_Elbow_L
+    400294: Jnt_Brafilius_Elbow_R
+    400296: Jnt_Brafilius_Eye_be_L
+    400298: Jnt_Brafilius_Eye_be_R
+    400300: Jnt_Brafilius_Eye_Bottom_Back_L
+    400302: Jnt_Brafilius_Eye_Bottom_Back_R
+    400304: Jnt_Brafilius_Eye_Bottom_L
+    400306: Jnt_Brafilius_Eye_Bottom_R
+    400308: Jnt_Brafilius_Eye_bs_L
+    400310: Jnt_Brafilius_Eye_bs_R
+    400312: Jnt_Brafilius_Eye_L
+    400314: Jnt_Brafilius_Eye_R
+    400316: Jnt_Brafilius_Eye_Top_Back_L
+    400318: Jnt_Brafilius_Eye_Top_Back_R
+    400320: Jnt_Brafilius_Eye_Top_Front_L
+    400322: Jnt_Brafilius_Eye_Top_Front_R
+    400324: Jnt_Brafilius_Eye_Top_L
+    400326: Jnt_Brafilius_Eye_Top_R
+    400328: Jnt_Brafilius_Eyebrow01_L
+    400330: Jnt_Brafilius_Eyebrow01_R
+    400332: Jnt_Brafilius_Eyebrow02_L
+    400334: Jnt_Brafilius_Eyebrow02_R
+    400336: Jnt_Brafilius_Feather01
+    400338: Jnt_Brafilius_Feather01_be
+    400340: Jnt_Brafilius_Feather02
+    400342: Jnt_Brafilius_Feather02_be
+    400344: Jnt_Brafilius_Fringe_01
+    400346: Jnt_Brafilius_Fringe_02
+    400348: Jnt_Brafilius_Hat
+    400350: Jnt_Brafilius_Hat_be
+    400352: Jnt_Brafilius_Head
+    400354: Jnt_Brafilius_Index_01_L
+    400356: Jnt_Brafilius_Index_01_R
+    400358: Jnt_Brafilius_Index_02_L
+    400360: Jnt_Brafilius_Index_02_R
+    400362: Jnt_Brafilius_Index_03_L
+    400364: Jnt_Brafilius_Index_03_R
+    400366: Jnt_Brafilius_Index_04be_L
+    400368: Jnt_Brafilius_Index_04be_R
+    400370: Jnt_Brafilius_Jaw
+    400372: Jnt_Brafilius_Jaw_be
+    400374: Jnt_Brafilius_Jowl_L
+    400376: Jnt_Brafilius_Jowl_R
+    400378: Jnt_Brafilius_Knee_L
+    400380: Jnt_Brafilius_Knee_R
+    400382: Jnt_Brafilius_Lip_Lower
+    400384: Jnt_Brafilius_Lip_Upper
+    400386: Jnt_Brafilius_Middle_01_L
+    400388: Jnt_Brafilius_Middle_01_R
+    400390: Jnt_Brafilius_Middle_02_L
+    400392: Jnt_Brafilius_Middle_02_R
+    400394: Jnt_Brafilius_Middle_03_L
+    400396: Jnt_Brafilius_Middle_03_R
+    400398: Jnt_Brafilius_Middle_04be_L
+    400400: Jnt_Brafilius_Middle_04be_R
+    400402: Jnt_Brafilius_Mouth_L
+    400404: Jnt_Brafilius_Mouth_R
+    400406: Jnt_Brafilius_Neck
+    400408: Jnt_Brafilius_Nose
+    400410: Jnt_Brafilius_Nose_bs
+    400412: Jnt_Brafilius_Palm_L
+    400414: Jnt_Brafilius_Palm_R
+    400416: Jnt_Brafilius_Pinky_01_L
+    400418: Jnt_Brafilius_Pinky_01_R
+    400420: Jnt_Brafilius_Pinky_02_L
+    400422: Jnt_Brafilius_Pinky_02_R
+    400424: Jnt_Brafilius_Pinky_03_L
+    400426: Jnt_Brafilius_Pinky_03_R
+    400428: Jnt_Brafilius_Pinky_04be_L
+    400430: Jnt_Brafilius_Pinky_04be_R
+    400432: Jnt_Brafilius_REVERSE_Ankle_L
+    400434: Jnt_Brafilius_REVERSE_Ankle_R
+    400436: Jnt_Brafilius_REVERSE_Ball_L
+    400438: Jnt_Brafilius_REVERSE_Ball_R
+    400440: Jnt_Brafilius_REVERSE_Heel_L
+    400442: Jnt_Brafilius_REVERSE_Heel_R
+    400444: Jnt_Brafilius_REVERSE_Toe_L
+    400446: Jnt_Brafilius_REVERSE_Toe_R
+    400448: Jnt_Brafilius_Ring_01_L
+    400450: Jnt_Brafilius_Ring_01_R
+    400452: Jnt_Brafilius_Ring_02_L
+    400454: Jnt_Brafilius_Ring_02_R
+    400456: Jnt_Brafilius_Ring_03_L
+    400458: Jnt_Brafilius_Ring_03_R
+    400460: Jnt_Brafilius_Ring_04be_L
+    400462: Jnt_Brafilius_Ring_04be_R
+    400464: Jnt_Brafilius_Shldr_L
+    400466: Jnt_Brafilius_Shldr_R
+    400468: Jnt_Brafilius_Sideburn1_01_L
+    400470: Jnt_Brafilius_Sideburn1_01_R
+    400472: Jnt_Brafilius_Sideburn1_02_L
+    400474: Jnt_Brafilius_Sideburn1_02_R
+    400476: Jnt_Brafilius_Sideburn1_03_L
+    400478: Jnt_Brafilius_Sideburn1_03_R
+    400480: Jnt_Brafilius_Sideburn2_01_L
+    400482: Jnt_Brafilius_Sideburn2_01_R
+    400484: Jnt_Brafilius_Sideburn2_02_L
+    400486: Jnt_Brafilius_Sideburn2_02_R
+    400488: Jnt_Brafilius_Sideburn2_03_L
+    400490: Jnt_Brafilius_Sideburn2_03_R
+    400492: Jnt_Brafilius_Spine01
+    400494: Jnt_Brafilius_Spine02
+    400496: Jnt_Brafilius_Tail_01
+    400498: Jnt_Brafilius_Tail_02
+    400500: Jnt_Brafilius_Tail_03
+    400502: Jnt_Brafilius_Tail_04
+    400504: Jnt_Brafilius_Tail_05be
+    400506: Jnt_Brafilius_Thigh_L
+    400508: Jnt_Brafilius_Thigh_R
+    400510: Jnt_Brafilius_Thumb_01_L
+    400512: Jnt_Brafilius_Thumb_01_R
+    400514: Jnt_Brafilius_Thumb_02_L
+    400516: Jnt_Brafilius_Thumb_02_R
+    400518: Jnt_Brafilius_Thumb_03be_L
+    400520: Jnt_Brafilius_Thumb_03be_R
+    400522: Jnt_Brafilius_Toe_L
+    400524: Jnt_Brafilius_Toe_R
+    400526: Jnt_Brafilius_Waist
+    400528: Jnt_Brafilius_Whiskers_L
+    400530: Jnt_Brafilius_Whiskers_R
+    400532: Jnt_Brafilius_Wrist_L
+    400534: Jnt_Brafilius_Wrist_R
+    400536: null_Index_01
+    400538: null_Index_01 1
+    400540: null_Index_02
+    400542: null_Index_02 1
+    400544: null_Index_03
+    400546: null_Index_03 1
+    400548: null_Middle_01
+    400550: null_Middle_01 1
+    400552: null_Middle_02
+    400554: null_Middle_02 1
+    400556: null_Middle_03
+    400558: null_Middle_03 1
+    400560: null_Pinky_01
+    400562: null_Pinky_01 1
+    400564: null_Pinky_02
+    400566: null_Pinky_02 1
+    400568: null_Pinky_03
+    400570: null_Pinky_03 1
+    400572: null_Ring_01
+    400574: null_Ring_01 1
+    400576: null_Ring_02
+    400578: null_Ring_02 1
+    400580: null_Ring_03
+    400582: null_Ring_03 1
+    400584: null_Thumb_01
+    400586: null_Thumb_01 1
+    400588: null_Thumb_02
+    400590: null_Thumb_02 1
+    400592: Reference
+    400594: TauntPositions
+    4300000: Brafilius_01
+    7400000: Tuto01
+    9500000: //RootNode
+    13700000: Brafilius_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 'MuscleClip ''Brafilius@Tuto01''conversion warning: ''Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01''
+      has translation animation. It is not supported.
+
+
+      MuscleClip ''Brafilius@Tuto01'' conversion warning: ''Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+'
+    animationRetargetingWarnings: 'MuscleClip ''Brafilius@Tuto01''conversion warning:
+      LeftLowerLeg average position error 0.2 mm and maximum position error 5.4 mm
+      at 6%
+
+
+      MuscleClip ''Brafilius@Tuto01''conversion warning: RightLowerLeg average position
+      error 0.4 mm and maximum position error 5.4 mm at 34%
+
+
+      MuscleClip ''Brafilius@Tuto01''conversion warning: LeftUpperArm average position
+      error 12.4 mm and maximum position error 96.1 mm at 38%
+
+
+      MuscleClip ''Brafilius@Tuto01''conversion warning: LeftLowerArm average position
+      error 7.7 mm and maximum position error 73.0 mm at 38%
+
+
+      MuscleClip ''Brafilius@Tuto01''conversion warning: LeftHand average position
+      error 2.9 mm and maximum position error 58.8 mm at 2%
+
+
+      MuscleClip ''Brafilius@Tuto01''conversion warning: RightUpperArm average position
+      error 12.5 mm and maximum position error 95.0 mm at 38%
+
+
+      MuscleClip ''Brafilius@Tuto01''conversion warning: RightLowerArm average position
+      error 6.8 mm and maximum position error 66.2 mm at 38%
+
+
+      MuscleClip ''Brafilius@Tuto01''conversion warning: RightHand average position
+      error 3.4 mm and maximum position error 59.0 mm at 3%
+
+
+      MuscleClip ''Brafilius@Tuto01''conversion warning: Head average position error
+      4.0 mm and maximum position error 41.6 mm at 3%
+
+
+      MuscleClip ''Brafilius@Tuto01'' conversion warning: LeftFoot average orientation
+      error 3.6 deg and maximum orientation error 26.3 deg at 37%
+
+
+      MuscleClip ''Brafilius@Tuto01'' conversion warning: RightFoot average orientation
+      error 1.7 deg and maximum orientation error 33.2 deg at 36%
+
+
+'
+    animationDoRetargetingWarnings: 1
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Tuto01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 216
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .0386740305
+        functionName: OnPlayFootstep
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .0745856389
+        functionName: OnPlayFootstep
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .116022103
+        functionName: OnPlayFootstep
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .207182318
+        functionName: OnPlayFootstep
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .281767964
+        functionName: OnPlayFootstep
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .372928202
+        functionName: OnPlayFootstep
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .450276256
+        functionName: OnPlayFootstep
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .541436434
+        functionName: OnPlayFootstep
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .61602211
+        functionName: OnPlayFootstep
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .707182288
+        functionName: OnPlayFootstep
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .779005527
+        functionName: OnPlayFootstep
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .875690579
+        functionName: OnPlayFootstep
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .947513819
+        functionName: OnPlayFootstep
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Brafilius_01
+        weight: 0
+      - path: Ctrls
+        weight: 0
+      - path: Ctrls/Ctrl_Global
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_ElbowAim_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_ElbowAim_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Eye_Grp
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Eye_Grp/Ctrls_Eyes
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Eye_Grp/Ctrls_Eyes/Ctrl_EyeAim_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Eye_Grp/Ctrls_Eyes/Ctrl_EyeAim_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Foot_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Foot_L/Ctrl_BallPivot_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Foot_L/Ctrl_ToePivot_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Foot_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Foot_R/Ctrl_BallPivot_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Foot_R/Ctrl_ToePivot_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/ikHandle_Arm_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Index_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Index_01/Ctrl_Index_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Index_01/Ctrl_Index_01/null_Index_02
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Index_01/Ctrl_Index_01/null_Index_02/Ctrl_Index_018
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Index_01/Ctrl_Index_01/null_Index_02/Ctrl_Index_018/null_Index_03
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Index_01/Ctrl_Index_01/null_Index_02/Ctrl_Index_018/null_Index_03/Ctrl_Index_0188
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Middle_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Middle_01/Ctrl_Middle_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Middle_01/Ctrl_Middle_01/null_Middle_02
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Middle_01/Ctrl_Middle_01/null_Middle_02/Ctrl_Middle_02
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Middle_01/Ctrl_Middle_01/null_Middle_02/Ctrl_Middle_02/null_Middle_03
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Middle_01/Ctrl_Middle_01/null_Middle_02/Ctrl_Middle_02/null_Middle_03/Ctrl_Middle_03
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Pinky_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Pinky_01/Ctrl_Pinky_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Pinky_01/Ctrl_Pinky_01/null_Pinky_02
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Pinky_01/Ctrl_Pinky_01/null_Pinky_02/Ctrl_Pinky_02
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Pinky_01/Ctrl_Pinky_01/null_Pinky_02/Ctrl_Pinky_02/null_Pinky_03
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Pinky_01/Ctrl_Pinky_01/null_Pinky_02/Ctrl_Pinky_02/null_Pinky_03/Ctrl_Pinky_03
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Ring_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Ring_01/Ctrl_Ring_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Ring_01/Ctrl_Ring_01/null_Ring_02
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Ring_01/Ctrl_Ring_01/null_Ring_02/Ctrl_Ring_02
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Ring_01/Ctrl_Ring_01/null_Ring_02/Ctrl_Ring_02/null_Ring_03
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Ring_01/Ctrl_Ring_01/null_Ring_02/Ctrl_Ring_02/null_Ring_03/Ctrl_Ring_03
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Thumb_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Thumb_01/Ctrl_Thumb_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Thumb_01/Ctrl_Thumb_01/null_Thumb_02
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_L/null_Thumb_01/Ctrl_Thumb_01/null_Thumb_02/Ctrl_Thumb_02
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/ikHandle_Arm_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Index_01 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Index_01 1/Ctrl_Index_01
+          1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Index_01 1/Ctrl_Index_01
+          1/null_Index_02 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Index_01 1/Ctrl_Index_01
+          1/null_Index_02 1/Ctrl_Index_018 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Index_01 1/Ctrl_Index_01
+          1/null_Index_02 1/Ctrl_Index_018 1/null_Index_03 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Index_01 1/Ctrl_Index_01
+          1/null_Index_02 1/Ctrl_Index_018 1/null_Index_03 1/Ctrl_Index_0188 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Middle_01 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Middle_01 1/Ctrl_Middle_01
+          1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Middle_01 1/Ctrl_Middle_01
+          1/null_Middle_02 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Middle_01 1/Ctrl_Middle_01
+          1/null_Middle_02 1/Ctrl_Middle_02 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Middle_01 1/Ctrl_Middle_01
+          1/null_Middle_02 1/Ctrl_Middle_02 1/null_Middle_03 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Middle_01 1/Ctrl_Middle_01
+          1/null_Middle_02 1/Ctrl_Middle_02 1/null_Middle_03 1/Ctrl_Middle_03 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Pinky_01 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Pinky_01 1/Ctrl_Pinky_01
+          1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Pinky_01 1/Ctrl_Pinky_01
+          1/null_Pinky_02 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Pinky_01 1/Ctrl_Pinky_01
+          1/null_Pinky_02 1/Ctrl_Pinky_02 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Pinky_01 1/Ctrl_Pinky_01
+          1/null_Pinky_02 1/Ctrl_Pinky_02 1/null_Pinky_03 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Pinky_01 1/Ctrl_Pinky_01
+          1/null_Pinky_02 1/Ctrl_Pinky_02 1/null_Pinky_03 1/Ctrl_Pinky_03 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Ring_01 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Ring_01 1/Ctrl_Ring_01
+          1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Ring_01 1/Ctrl_Ring_01
+          1/null_Ring_02 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Ring_01 1/Ctrl_Ring_01
+          1/null_Ring_02 1/Ctrl_Ring_02 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Ring_01 1/Ctrl_Ring_01
+          1/null_Ring_02 1/Ctrl_Ring_02 1/null_Ring_03 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Ring_01 1/Ctrl_Ring_01
+          1/null_Ring_02 1/Ctrl_Ring_02 1/null_Ring_03 1/Ctrl_Ring_03 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Thumb_01 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Thumb_01 1/Ctrl_Thumb_01
+          1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Thumb_01 1/Ctrl_Thumb_01
+          1/null_Thumb_02 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Hand_R/Ctrl_Hand_R 1/null_Thumb_01 1/Ctrl_Thumb_01
+          1/null_Thumb_02 1/Ctrl_Thumb_02 1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_KneeAim_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_KneeAim_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Belly_Front
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Belly_Side_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Belly_Side_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Clav_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Clav_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Collar_Back
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Collar_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Collar_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Cravat_Main
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Cravat_Main/curve3
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Cravat_Main/curve3/curve4
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Cravat_Main/curve3/curve4/curve5
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Brow
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Cheek_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Cheek_L/Ctrl_Jowl_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Cheek_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Cheek_R/Ctrl_Jowl_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eye_Bottom_Mid_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eye_Bottom_Mid_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eye_Bottom_Outer_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eye_Bottom_Outer_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eye_Inner_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eye_Inner_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eye_Top_Mid_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eye_Top_Mid_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eye_Top_Outer_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eye_Top_Outer_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eyebrow_Inner_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eyebrow_Inner_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eyebrow_Outer_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Eyebrow_Outer_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Fringe_Front
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Hat
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Jaw
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Jaw/Ctrl_Lip_Bottom
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Lip_Top
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Mouth_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Mouth_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Nose
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Whiskers_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrl_Whiskers_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_Feather_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_Feather_01/Ctrl_Feather_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_Feather_02
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_Feather_02/Ctrl_Feather_02
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_Fringe_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_Fringe_L/Ctrl_Fringe_01_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_Fringe_L/Ctrl_Fringe_01_L/Ctrl_Fringe_02_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_Fringe_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_Fringe_R/Ctrl_Fringe_01_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_Fringe_R/Ctrl_Fringe_01_R/Ctrl_Fringe_02_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_SideBurn_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_SideBurn_L/Ctrls_SideBurn_01_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_SideBurn_L/Ctrls_SideBurn_01_L/Ctrls_SideBurn_02_L
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_SideBurn_L1
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_SideBurn_L1/Ctrls_SideBurn_01_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Spine_01/Ctrl_Spine_02/Ctrl_Spine_03/Ctrl_Head/Ctrls_SideBurn_L1/Ctrls_SideBurn_01_R/Ctrls_SideBurn_02_R
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Tail_Main
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Tail_Main/Ctrl_Tail_01
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Tail_Main/Ctrl_Tail_01/Ctrl_Tail_02
+        weight: 0
+      - path: Ctrls/Ctrl_Global/Ctrl_Waist/Ctrl_Tail_Main/Ctrl_Tail_01/Ctrl_Tail_02/Ctrl_Tail_03
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_L
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_L/Jnt_Brafilius_REVERSE_Toe_L
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_L/Jnt_Brafilius_REVERSE_Toe_L/ikHandle_Toe_L
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_L/Jnt_Brafilius_REVERSE_Toe_L/Jnt_Brafilius_REVERSE_Ball_L
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_L/Jnt_Brafilius_REVERSE_Toe_L/Jnt_Brafilius_REVERSE_Ball_L/ikHandle_Ball_L
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_L/Jnt_Brafilius_REVERSE_Toe_L/Jnt_Brafilius_REVERSE_Ball_L/Jnt_Brafilius_REVERSE_Ankle_L
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_L/Jnt_Brafilius_REVERSE_Toe_L/Jnt_Brafilius_REVERSE_Ball_L/Jnt_Brafilius_REVERSE_Ankle_L/ikHandle_Ankle_L
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_R
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_R/Jnt_Brafilius_REVERSE_Toe_R
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_R/Jnt_Brafilius_REVERSE_Toe_R/ikHandle_Toe_R
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_R/Jnt_Brafilius_REVERSE_Toe_R/Jnt_Brafilius_REVERSE_Ball_R
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_R/Jnt_Brafilius_REVERSE_Toe_R/Jnt_Brafilius_REVERSE_Ball_R/ikHandle_Ball_R
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_R/Jnt_Brafilius_REVERSE_Toe_R/Jnt_Brafilius_REVERSE_Ball_R/Jnt_Brafilius_REVERSE_Ankle_R
+        weight: 0
+      - path: Jnt_Brafilius_REVERSE_Heel_R/Jnt_Brafilius_REVERSE_Toe_R/Jnt_Brafilius_REVERSE_Ball_R/Jnt_Brafilius_REVERSE_Ankle_R/ikHandle_Ankle_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Belly_Front
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Belly_Side_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Belly_Side_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Index_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Index_01_L/Jnt_Brafilius_Index_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Index_01_L/Jnt_Brafilius_Index_02_L/Jnt_Brafilius_Index_03_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Index_01_L/Jnt_Brafilius_Index_02_L/Jnt_Brafilius_Index_03_L/Jnt_Brafilius_Index_04be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Middle_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Middle_01_L/Jnt_Brafilius_Middle_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Middle_01_L/Jnt_Brafilius_Middle_02_L/Jnt_Brafilius_Middle_03_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Middle_01_L/Jnt_Brafilius_Middle_02_L/Jnt_Brafilius_Middle_03_L/Jnt_Brafilius_Middle_04be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Pinky_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Pinky_01_L/Jnt_Brafilius_Pinky_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Pinky_01_L/Jnt_Brafilius_Pinky_02_L/Jnt_Brafilius_Pinky_03_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Pinky_01_L/Jnt_Brafilius_Pinky_02_L/Jnt_Brafilius_Pinky_03_L/Jnt_Brafilius_Pinky_04be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Ring_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Ring_01_L/Jnt_Brafilius_Ring_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Ring_01_L/Jnt_Brafilius_Ring_02_L/Jnt_Brafilius_Ring_03_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Ring_01_L/Jnt_Brafilius_Ring_02_L/Jnt_Brafilius_Ring_03_L/Jnt_Brafilius_Ring_04be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Thumb_01_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Thumb_01_L/Jnt_Brafilius_Thumb_02_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_L/Jnt_Brafilius_Shldr_L/Jnt_Brafilius_Elbow_L/Jnt_Brafilius_Wrist_L/Jnt_Brafilius_Palm_L/Jnt_Brafilius_Thumb_01_L/Jnt_Brafilius_Thumb_02_L/Jnt_Brafilius_Thumb_03be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Index_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Index_01_R/Jnt_Brafilius_Index_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Index_01_R/Jnt_Brafilius_Index_02_R/Jnt_Brafilius_Index_03_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Index_01_R/Jnt_Brafilius_Index_02_R/Jnt_Brafilius_Index_03_R/Jnt_Brafilius_Index_04be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Middle_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Middle_01_R/Jnt_Brafilius_Middle_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Middle_01_R/Jnt_Brafilius_Middle_02_R/Jnt_Brafilius_Middle_03_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Middle_01_R/Jnt_Brafilius_Middle_02_R/Jnt_Brafilius_Middle_03_R/Jnt_Brafilius_Middle_04be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Pinky_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Pinky_01_R/Jnt_Brafilius_Pinky_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Pinky_01_R/Jnt_Brafilius_Pinky_02_R/Jnt_Brafilius_Pinky_03_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Pinky_01_R/Jnt_Brafilius_Pinky_02_R/Jnt_Brafilius_Pinky_03_R/Jnt_Brafilius_Pinky_04be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Ring_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Ring_01_R/Jnt_Brafilius_Ring_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Ring_01_R/Jnt_Brafilius_Ring_02_R/Jnt_Brafilius_Ring_03_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Ring_01_R/Jnt_Brafilius_Ring_02_R/Jnt_Brafilius_Ring_03_R/Jnt_Brafilius_Ring_04be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Thumb_01_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Thumb_01_R/Jnt_Brafilius_Thumb_02_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Clav_R/Jnt_Brafilius_Shldr_R/Jnt_Brafilius_Elbow_R/Jnt_Brafilius_Wrist_R/Jnt_Brafilius_Palm_R/Jnt_Brafilius_Thumb_01_R/Jnt_Brafilius_Thumb_02_R/Jnt_Brafilius_Thumb_03be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Back_01
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Back_01/Jnt_Brafilius_Collar_Back_02be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Front_01_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Front_01_L/Jnt_Brafilius_Collar_Front_02be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Front_01_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Collar_Front_01_R/Jnt_Brafilius_Collar_Front_02be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Cravat_01
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Cravat_01/Jnt_Brafilius_Cravat_02
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Cravat_01/Jnt_Brafilius_Cravat_02/Jnt_Brafilius_Cravat_03
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Cravat_01/Jnt_Brafilius_Cravat_02/Jnt_Brafilius_Cravat_03/Jnt_Brafilius_Cravat_04be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Brow
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Bottom_Back_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Bottom_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_L/Jnt_Brafilius_Eye_be_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Top_Back_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Top_Front_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_L/Jnt_Brafilius_Eye_Top_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Bottom_Back_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Bottom_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_R/Jnt_Brafilius_Eye_be_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Top_Back_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Top_Front_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eye_bs_R/Jnt_Brafilius_Eye_Top_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eyebrow01_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eyebrow01_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eyebrow02_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Eyebrow02_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Fringe_01
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Fringe_01/Jnt_Brafilius_Fringe_02
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Feather01
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Feather01/Jnt_Brafilius_Feather01_be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Feather02
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Feather02/Jnt_Brafilius_Feather02_be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Hat/Jnt_Brafilius_Hat_be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Jaw
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Jaw/Jnt_Brafilius_Jaw_be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Jaw/Jnt_Brafilius_Lip_Lower
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Cheek_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Cheek_L/Jnt_Brafilius_Jowl_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Cheek_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Cheek_R/Jnt_Brafilius_Jowl_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Lip_Upper
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Mouth_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Mouth_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Nose
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Whiskers_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Nose_bs/Jnt_Brafilius_Whiskers_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_L/Jnt_Brafilius_Sideburn1_02_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_L/Jnt_Brafilius_Sideburn1_02_L/Jnt_Brafilius_Sideburn1_03_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_R/Jnt_Brafilius_Sideburn1_02_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn1_01_R/Jnt_Brafilius_Sideburn1_02_R/Jnt_Brafilius_Sideburn1_03_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_L/Jnt_Brafilius_Sideburn2_02_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_L/Jnt_Brafilius_Sideburn2_02_L/Jnt_Brafilius_Sideburn2_03_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_R/Jnt_Brafilius_Sideburn2_02_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Spine01/Jnt_Brafilius_Spine02/Jnt_Brafilius_03/Jnt_Brafilius_Neck/Jnt_Brafilius_Head/Jnt_Brafilius_Sideburn2_01_R/Jnt_Brafilius_Sideburn2_02_R/Jnt_Brafilius_Sideburn2_03_R
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01/Jnt_Brafilius_Tail_02
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01/Jnt_Brafilius_Tail_02/Jnt_Brafilius_Tail_03
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01/Jnt_Brafilius_Tail_02/Jnt_Brafilius_Tail_03/Jnt_Brafilius_Tail_04
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Tail_01/Jnt_Brafilius_Tail_02/Jnt_Brafilius_Tail_03/Jnt_Brafilius_Tail_04/Jnt_Brafilius_Tail_05be
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L/Jnt_Brafilius_Knee_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L/Jnt_Brafilius_Knee_L/Jnt_Brafilius_Ankle_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L/Jnt_Brafilius_Knee_L/Jnt_Brafilius_Ankle_L/Jnt_Brafilius_Ball_L
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_L/Jnt_Brafilius_Knee_L/Jnt_Brafilius_Ankle_L/Jnt_Brafilius_Ball_L/Jnt_Brafilius_Toe_L
+        weight: 0
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R/Jnt_Brafilius_Knee_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R/Jnt_Brafilius_Knee_R/Jnt_Brafilius_Ankle_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R/Jnt_Brafilius_Knee_R/Jnt_Brafilius_Ankle_R/Jnt_Brafilius_Ball_R
+        weight: 1
+      - path: Jnt_Brafilius_Waist/Jnt_Brafilius_Thigh_R/Jnt_Brafilius_Knee_R/Jnt_Brafilius_Ankle_R/Jnt_Brafilius_Ball_R/Jnt_Brafilius_Toe_R
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Jnt_Brafilius_Waist
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Thigh_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Thigh_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Knee_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Knee_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ankle_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ankle_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Spine01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Spine02
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Clav_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Clav_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Shldr_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Shldr_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Elbow_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Elbow_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Wrist_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Wrist_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ball_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ball_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Eye_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Eye_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Thumb_01_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Thumb_02_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Index_01_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Index_02_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Index_03_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Middle_01_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Middle_02_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Middle_03_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ring_01_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ring_02_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ring_03_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Pinky_01_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Pinky_02_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Pinky_03_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Thumb_01_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Thumb_02_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Index_01_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Index_02_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Index_03_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Middle_01_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Middle_02_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Middle_03_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ring_01_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ring_02_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Ring_03_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Pinky_01_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Pinky_02_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jnt_Brafilius_Pinky_03_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Brafilius@Tuto01(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Brafilius_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrls
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Global
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_ElbowAim_L
+      position: {x: -.00759183383, y: .00957475137, z: -.00646091439}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_ElbowAim_R
+      position: {x: .00737117045, y: .00993692968, z: -.00708488794}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eye_Grp
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrls_Eyes
+      position: {x: .000139681288, y: .0121933492, z: .0120174186}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_EyeAim_L
+      position: {x: -.000705271785, y: -7.59279574e-05, z: 2.1316281e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_EyeAim_R
+      position: {x: .000705271785, y: -7.59279574e-05, z: 2.1316281e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Foot_L
+      position: {x: -.00315029756, y: .000266064511, z: -.00250151148}
+      rotation: {x: 0, y: -.139904127, z: -0, w: .990165055}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_BallPivot_L
+      position: {x: -.000436197472, y: -5.98062688e-05, z: .00221283198}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_ToePivot_L
+      position: {x: -.000686156563, y: -7.97416869e-05, z: .00437582517}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Foot_R
+      position: {x: .00334798172, y: .000266065006, z: -.00114062731}
+      rotation: {x: 0, y: .211178482, z: -0, w: .97744751}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_BallPivot_R
+      position: {x: .000436199975, y: -5.98069964e-05, z: .00221282803}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_ToePivot_R
+      position: {x: .000686149928, y: -7.97419998e-05, z: .00437582796}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Hand_L
+      position: {x: -.00707370276, y: .00838010572, z: -.00225471472}
+      rotation: {x: -.219996482, y: .111158192, z: .27372086, w: .929689348}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ikHandle_Arm_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Index_01
+      position: {x: -.00121662137, y: -.000602790213, z: .000452881039}
+      rotation: {x: .0038935605, y: .0137988087, z: .27153492, w: .962321818}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Index_01
+      position: {x: -0, y: -1.42108544e-18, z: 2.30926369e-18}
+      rotation: {x: 0, y: -0, z: -.0959268287, w: .995388389}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Index_02
+      position: {x: -.000558412867, y: -1.42108544e-18, z: -2.1316281e-18}
+      rotation: {x: .00595855247, y: .00843850803, z: .0647360831, w: .997848928}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Index_018
+      position: {x: 4.2632562e-18, y: -7.10542687e-18, z: 2.30926369e-18}
+      rotation: {x: 0, y: 0, z: .387570888, w: .921839952}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Index_03
+      position: {x: -.000366794324, y: 1.03028695e-17, z: -2.48689949e-18}
+      rotation: {x: .0180147216, y: .0255621877, z: -.0656225458, w: .997354388}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Index_0188
+      position: {x: -2.84217087e-18, y: -2.84217087e-18, z: 1.77635672e-18}
+      rotation: {x: 0, y: 0, z: .241496652, w: .970401645}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Middle_01
+      position: {x: -.0012268771, y: -.000501928676, z: 7.1235736e-05}
+      rotation: {x: -.00855282042, y: -.0344049782, z: .24109821, w: .969852984}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Middle_01
+      position: {x: -1.42108544e-18, y: 2.84217087e-18, z: 3.19744205e-18}
+      rotation: {x: 0, y: 0, z: .153672382, w: .988121867}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Middle_02
+      position: {x: -.000672328519, y: -3.55271343e-18, z: -1.50990313e-18}
+      rotation: {x: .0160243083, y: .0261546206, z: .0623110943, w: .997585356}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Middle_02
+      position: {x: -5.68434174e-18, y: 0, z: -5.50670553e-18}
+      rotation: {x: 0, y: 0, z: .412544668, w: .910937428}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Middle_03
+      position: {x: -.00041371191, y: 2.1316281e-18, z: 5.21804804e-18}
+      rotation: {x: -.0038271395, y: -.00548720267, z: -.00304522924, w: .999972999}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Middle_03
+      position: {x: 2.84217087e-18, y: 4.2632562e-18, z: 4.79616293e-17}
+      rotation: {x: 0, y: 0, z: .267847836, w: .96346122}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Pinky_01
+      position: {x: -.00100020936, y: -.000407276879, z: -.000615243684}
+      rotation: {x: -.0485355631, y: -.1993175, z: .23156333, w: .950944424}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Pinky_01
+      position: {x: -4.2632562e-18, y: 1.42108544e-18, z: 1.77635672e-18}
+      rotation: {x: 0, y: 0, z: .339389861, w: .940645814}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Pinky_02
+      position: {x: -.00051758677, y: -2.1316281e-18, z: -2.1316281e-18}
+      rotation: {x: -.0127478642, y: -.024784917, z: -.00266565429, w: .99960798}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Pinky_02
+      position: {x: -5.68434174e-18, y: 7.10542687e-18, z: 5.68434174e-18}
+      rotation: {x: 0, y: 0, z: .47734201, w: .878717601}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Pinky_03
+      position: {x: -.000305734255, y: -3.55271343e-18, z: -7.10542687e-18}
+      rotation: {x: .0347968228, y: .0748613328, z: -.0371435918, w: .995894253}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Pinky_03
+      position: {x: -5.68434174e-18, y: 2.84217087e-18, z: 7.10542718e-19}
+      rotation: {x: 0, y: 0, z: .33682254, w: .941568196}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Ring_01
+      position: {x: -.00114268612, y: -.00043623714, z: -.000281718298}
+      rotation: {x: -.0335969552, y: -.143691584, z: .225179955, w: .963077366}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Ring_01
+      position: {x: 1.42108544e-18, y: -1.42108544e-18, z: -1.06581405e-18}
+      rotation: {x: 0, y: 0, z: .153672382, w: .988121867}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Ring_02
+      position: {x: -.000581678294, y: -2.1316281e-18, z: 3.55271359e-19}
+      rotation: {x: .00322295912, y: .00619039871, z: .0206461959, w: .999762475}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Ring_02
+      position: {x: -0, y: 5.68434174e-18, z: 2.34479085e-17}
+      rotation: {x: 0, y: 0, z: .412544668, w: .910937428}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Ring_03
+      position: {x: -.000384323881, y: -4.97379897e-18, z: -2.30926377e-17}
+      rotation: {x: .0200910289, y: .0360054336, z: .00828745868, w: .999115288}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Ring_03
+      position: {x: -0, y: 5.68434174e-18, z: -4.97379897e-18}
+      rotation: {x: 0, y: 0, z: .267847836, w: .96346122}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Thumb_01
+      position: {x: -.000371820352, y: -.000578861567, z: .000522958988}
+      rotation: {x: .155262277, y: .391200066, z: .334629983, w: .84313637}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Thumb_01
+      position: {x: -2.84217087e-18, y: 4.2632562e-18, z: -1.06581405e-18}
+      rotation: {x: .242391914, y: .336954236, z: .0924494863, w: .905075192}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Thumb_02
+      position: {x: -.000946000742, y: -4.97379897e-18, z: 1.77635672e-18}
+      rotation: {x: -.0682929829, y: -.066241011, z: .0447901413, w: .994455636}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Thumb_02
+      position: {x: 1.42108544e-18, y: 2.84217087e-18, z: 2.75335277e-18}
+      rotation: {x: .0417966582, y: -.262698442, z: .406322449, w: .874153674}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Hand_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Hand_R 1
+      position: {x: -.00703989388, y: .00784227904, z: -.00116096926}
+      rotation: {x: -.288330853, y: .126671359, z: .296430171, w: .901636779}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ikHandle_Arm_R
+      position: {x: -2.27243335e-09, y: 3.42044726e-09, z: -2.0536155e-09}
+      rotation: {x: 6.12323426e-17, y: 1, z: -6.12323426e-17, w: -6.12323426e-17}
+      scale: {x: 1, y: 1, z: -1}
+      transformModified: 1
+    - name: null_Index_01 1
+      position: {x: -.00121662137, y: -.000602790213, z: .000452881039}
+      rotation: {x: .0038935605, y: .0137988087, z: .27153492, w: .962321818}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Index_01 1
+      position: {x: -0, y: -1.42108544e-18, z: 2.30926369e-18}
+      rotation: {x: 0, y: -0, z: -.0959268287, w: .995388389}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Index_02 1
+      position: {x: -.000558412867, y: -1.42108544e-18, z: -2.1316281e-18}
+      rotation: {x: .00595855247, y: .00843850803, z: .0647360831, w: .997848928}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Index_018 1
+      position: {x: 4.2632562e-18, y: -7.10542687e-18, z: 2.30926369e-18}
+      rotation: {x: 0, y: 0, z: .387570888, w: .921839952}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Index_03 1
+      position: {x: -.000366794324, y: 1.03028695e-17, z: -2.48689949e-18}
+      rotation: {x: .0180147216, y: .0255621877, z: -.0656225458, w: .997354388}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Index_0188 1
+      position: {x: -2.84217087e-18, y: -2.84217087e-18, z: 1.77635672e-18}
+      rotation: {x: 0, y: 0, z: .241496652, w: .970401645}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Middle_01 1
+      position: {x: -.0012268771, y: -.000501928676, z: 7.1235736e-05}
+      rotation: {x: -.00855282042, y: -.0344049782, z: .24109821, w: .969852984}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Middle_01 1
+      position: {x: -1.42108544e-18, y: 2.84217087e-18, z: 3.19744205e-18}
+      rotation: {x: 0, y: 0, z: .153672382, w: .988121867}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Middle_02 1
+      position: {x: -.000672328519, y: -3.55271343e-18, z: -1.50990313e-18}
+      rotation: {x: .0160243083, y: .0261546206, z: .0623110943, w: .997585356}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Middle_02 1
+      position: {x: -5.68434174e-18, y: 0, z: -5.50670553e-18}
+      rotation: {x: 0, y: 0, z: .412544668, w: .910937428}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Middle_03 1
+      position: {x: -.00041371191, y: 2.1316281e-18, z: 5.21804804e-18}
+      rotation: {x: -.0038271395, y: -.00548720267, z: -.00304522924, w: .999972999}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Middle_03 1
+      position: {x: 2.84217087e-18, y: 4.2632562e-18, z: 4.79616293e-17}
+      rotation: {x: 0, y: 0, z: .267847836, w: .96346122}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Pinky_01 1
+      position: {x: -.00100020936, y: -.000407276879, z: -.000615243684}
+      rotation: {x: -.0485355631, y: -.1993175, z: .23156333, w: .950944424}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Pinky_01 1
+      position: {x: -4.2632562e-18, y: 1.42108544e-18, z: 1.77635672e-18}
+      rotation: {x: 0, y: 0, z: .339389861, w: .940645814}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Pinky_02 1
+      position: {x: -.00051758677, y: -2.1316281e-18, z: -2.1316281e-18}
+      rotation: {x: -.0127478642, y: -.024784917, z: -.00266565429, w: .99960798}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Pinky_02 1
+      position: {x: -5.68434174e-18, y: 7.10542687e-18, z: 5.68434174e-18}
+      rotation: {x: 0, y: 0, z: .47734201, w: .878717601}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Pinky_03 1
+      position: {x: -.000305734255, y: -3.55271343e-18, z: -7.10542687e-18}
+      rotation: {x: .0347968228, y: .0748613328, z: -.0371435918, w: .995894253}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Pinky_03 1
+      position: {x: -5.68434174e-18, y: 2.84217087e-18, z: 7.10542718e-19}
+      rotation: {x: 0, y: 0, z: .33682254, w: .941568196}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Ring_01 1
+      position: {x: -.00114268612, y: -.00043623714, z: -.000281718298}
+      rotation: {x: -.0335969552, y: -.143691584, z: .225179955, w: .963077366}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Ring_01 1
+      position: {x: 1.42108544e-18, y: -1.42108544e-18, z: -1.06581405e-18}
+      rotation: {x: 0, y: 0, z: .153672382, w: .988121867}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Ring_02 1
+      position: {x: -.000581678294, y: -2.1316281e-18, z: 3.55271359e-19}
+      rotation: {x: .00322295912, y: .00619039871, z: .0206461959, w: .999762475}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Ring_02 1
+      position: {x: -0, y: 5.68434174e-18, z: 2.34479085e-17}
+      rotation: {x: 0, y: 0, z: .412544668, w: .910937428}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Ring_03 1
+      position: {x: -.000384323881, y: -4.97379897e-18, z: -2.30926377e-17}
+      rotation: {x: .0200910289, y: .0360054336, z: .00828745868, w: .999115288}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Ring_03 1
+      position: {x: -0, y: 5.68434174e-18, z: -4.97379897e-18}
+      rotation: {x: 0, y: 0, z: .267847836, w: .96346122}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Thumb_01 1
+      position: {x: -.000371820352, y: -.000578861567, z: .000522958988}
+      rotation: {x: .155262277, y: .391200066, z: .334629983, w: .84313637}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Thumb_01 1
+      position: {x: -2.84217087e-18, y: 4.2632562e-18, z: -1.06581405e-18}
+      rotation: {x: .242391914, y: .336954236, z: .0924494863, w: .905075192}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: null_Thumb_02 1
+      position: {x: -.000946000742, y: -4.97379897e-18, z: 1.77635672e-18}
+      rotation: {x: -.0682929829, y: -.066241011, z: .0447901413, w: .994455636}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Thumb_02 1
+      position: {x: 1.42108544e-18, y: 2.84217087e-18, z: 2.75335277e-18}
+      rotation: {x: .0417966582, y: -.262698442, z: .406322449, w: .874153674}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_KneeAim_L
+      position: {x: -.00466305017, y: .00327279791, z: .00799999945}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_KneeAim_R
+      position: {x: .00719497958, y: .00207225629, z: .00709483027}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Waist
+      position: {x: -0, y: .00595942605, z: -.00138668518}
+      rotation: {x: .0564495064, y: -0, z: -0, w: .998405457}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Spine_01
+      position: {x: -1.254552e-17, y: .00167278841, z: -.000598590646}
+      rotation: {x: .00999480486, y: -.00099594763, z: -.00930148922, w: .999906301}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Belly_Front
+      position: {x: .000694427756, y: -.000485079014, z: .00631912984}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Belly_Side_L
+      position: {x: -.00432624249, y: -.000534810242, z: .000524011732}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Belly_Side_R
+      position: {x: .0048034871, y: 9.74661161e-05, z: .00131175586}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Spine_02
+      position: {x: 1.13686835e-17, y: .00195405353, z: -8.35025276e-06}
+      rotation: {x: .0178010762, y: -.0148614561, z: -.00271425978, w: .999727428}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Spine_03
+      position: {x: 1.17683627e-18, y: .00168759166, z: .000266461837}
+      rotation: {x: .010512786, y: .0267772097, z: .000281619636, w: .999586105}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Clav_L
+      position: {x: -.0021395022, y: .000118173157, z: -.000150867869}
+      rotation: {x: 0, y: -0, z: -.00764564844, w: .999970794}
+      scale: {x: .774950564, y: .774950564, z: .774950564}
+      transformModified: 1
+    - name: Ctrl_Clav_R
+      position: {x: .0021395022, y: .000118173157, z: -.000150867869}
+      rotation: {x: .00103735691, y: .0147213461, z: .00128071033, w: .999890327}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Collar_Back
+      position: {x: -0, y: .00166506052, z: -.00091140141}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Collar_L
+      position: {x: -.00138141017, y: .000424603437, z: .00240873406}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Collar_R
+      position: {x: .00138141017, y: .000424603437, z: .00240873406}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Cravat_Main
+      position: {x: -0, y: .000274411199, z: .00314215361}
+      rotation: {x: .456106484, y: -0, z: -0, w: .889925182}
+      scale: {x: .302537054, y: .302537054, z: .281303018}
+      transformModified: 1
+    - name: curve3
+      position: {x: 1.77635672e-18, y: 2.84217087e-18, z: 2.24265042e-18}
+      rotation: {x: -.0529026091, y: 0, z: -0, w: .998599708}
+      scale: {x: .876345575, y: .876345575, z: .942496121}
+      transformModified: 1
+    - name: curve4
+      position: {x: -1.98951959e-17, y: .00171577721, z: .00771839963}
+      rotation: {x: -.0529026091, y: 0, z: -0, w: .998599708}
+      scale: {x: .957473993, y: 1, z: 1}
+      transformModified: 1
+    - name: curve5
+      position: {x: -4.26325645e-17, y: -.000352745468, z: .00491301902}
+      rotation: {x: -.0529026091, y: 0, z: -0, w: .998599708}
+      scale: {x: .366185933, y: .43824324, z: .43824324}
+      transformModified: 1
+    - name: Ctrl_Head
+      position: {x: -0, y: .00140385167, z: .000659552577}
+      rotation: {x: -.0117301643, y: .00697592041, z: .0359321497, w: .999261081}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Brow
+      position: {x: -0, y: .000615106022, z: .00231313659}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Cheek_L
+      position: {x: -.000975833798, y: .000263994356, z: .00182107405}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Jowl_L
+      position: {x: -.000464986777, y: -.000500607945, z: -.000357723038}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Cheek_R
+      position: {x: .000975833798, y: .000263994356, z: .00182107405}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Jowl_R
+      position: {x: .000464986777, y: -.000500607945, z: -.000357723038}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eye_Bottom_Mid_L
+      position: {x: -.000792439037, y: .000438979943, z: .00200089673}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eye_Bottom_Mid_R
+      position: {x: .000792439037, y: .000438979943, z: .00200089673}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eye_Bottom_Outer_L
+      position: {x: -.000881991582, y: .000569021446, z: .00183942064}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eye_Bottom_Outer_R
+      position: {x: .000881991582, y: .000569021446, z: .00183942064}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eye_Inner_L
+      position: {x: -.000440696836, y: .000456516835, z: .00203785533}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eye_Inner_R
+      position: {x: .000440696836, y: .000456516835, z: .00203785533}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eye_Top_Mid_L
+      position: {x: -.000725026242, y: .000760592404, z: .00205003843}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eye_Top_Mid_R
+      position: {x: .000725026242, y: .000760592404, z: .00205003843}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eye_Top_Outer_L
+      position: {x: -.000868223433, y: .000689297158, z: .00185747351}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eye_Top_Outer_R
+      position: {x: .000868223433, y: .000689297158, z: .00185747351}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eyebrow_Inner_L
+      position: {x: -.000380402489, y: .000806740776, z: .00239294628}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eyebrow_Inner_R
+      position: {x: .000380402489, y: .000806740776, z: .00239294628}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eyebrow_Outer_L
+      position: {x: -.00087216642, y: .00100838544, z: .0022417861}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Eyebrow_Outer_R
+      position: {x: .00087216642, y: .00100838544, z: .0022417861}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Fringe_Front
+      position: {x: -0, y: .00106662838, z: .00298879622}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Hat
+      position: {x: 7.70866609e-20, y: .00216073287, z: .00112325884}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Jaw
+      position: {x: 5.32907025e-19, y: 7.38767485e-05, z: .00120207493}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Lip_Bottom
+      position: {x: -5.32907025e-19, y: -.000542428519, z: .00118456467}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Lip_Top
+      position: {x: -1.97734221e-06, y: -.000315179583, z: .00242750021}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Mouth_L
+      position: {x: -.000763905176, y: -.000323846587, z: .00211039279}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Mouth_R
+      position: {x: .000763905176, y: -.000323846587, z: .00211039279}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Nose
+      position: {x: -0, y: .000263598457, z: .00269976887}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Whiskers_L
+      position: {x: -.000490505947, y: -4.43751669e-05, z: .00240366021}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Whiskers_R
+      position: {x: .000490505947, y: -4.43751669e-05, z: .00240366021}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrls_Feather_01
+      position: {x: .000677598, y: .00233494234, z: .000814988976}
+      rotation: {x: -.360847116, y: .878296256, z: .119200282, w: -.290131629}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Feather_01
+      position: {x: -8.52651241e-18, y: -2.84217087e-18, z: 3.01980625e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrls_Feather_02
+      position: {x: .000677598, y: .00233494234, z: .000814988976}
+      rotation: {x: -.181613252, y: .858577192, z: .0992194265, w: -.469060183}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Feather_02
+      position: {x: -0, y: 5.68434174e-18, z: 2.75335277e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrls_Fringe_L
+      position: {x: -.00222082459, y: .00143989385, z: .00221302873}
+      rotation: {x: .546179891, y: -.381178737, z: .251186758, w: .70235002}
+      scale: {x: .172445849, y: .172445849, z: .172445849}
+      transformModified: 1
+    - name: Ctrl_Fringe_01_L
+      position: {x: -2.84217087e-18, y: 5.68434174e-18, z: -.00288724527}
+      rotation: {x: 0, y: .0595032796, z: -0, w: .998228133}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Fringe_02_L
+      position: {x: -2.1316281e-18, y: 5.68434174e-18, z: .00437583728}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrls_Fringe_R
+      position: {x: .00222082459, y: .00143989385, z: .00221302873}
+      rotation: {x: .251186758, y: .70235002, z: .546179891, w: -.381178737}
+      scale: {x: .172445849, y: .172445849, z: -.172445849}
+      transformModified: 1
+    - name: Ctrl_Fringe_01_R
+      position: {x: -2.84217087e-18, y: 5.68434174e-18, z: -.00288724527}
+      rotation: {x: 0, y: .0595032796, z: -0, w: .998228133}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Fringe_02_R
+      position: {x: -2.1316281e-18, y: 5.68434174e-18, z: .00437583728}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrls_SideBurn_L
+      position: {x: -.00237199175, y: .00158696412, z: .00117628358}
+      rotation: {x: -.495770365, y: .843326688, z: .172397256, w: .115286618}
+      scale: {x: .172445849, y: .172445849, z: .172445849}
+      transformModified: 1
+    - name: Ctrls_SideBurn_01_L
+      position: {x: -2.84217087e-18, y: 5.68434174e-18, z: -.00288724527}
+      rotation: {x: -.047751274, y: 0, z: -0, w: .998859286}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrls_SideBurn_02_L
+      position: {x: -2.1316281e-18, y: 5.68434174e-18, z: .00437583728}
+      rotation: {x: -.047751274, y: 0, z: -0, w: .998859286}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrls_SideBurn_L1
+      position: {x: .00237199175, y: .00158696412, z: .00117628358}
+      rotation: {x: .172397256, y: .115286618, z: -.495770365, w: .843326688}
+      scale: {x: .172445849, y: .172445849, z: -.172445849}
+      transformModified: 1
+    - name: Ctrls_SideBurn_01_R
+      position: {x: -2.84217087e-18, y: 5.68434174e-18, z: -.00288724527}
+      rotation: {x: -.0381747894, y: 0, z: -0, w: .999271095}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrls_SideBurn_02_R
+      position: {x: -2.1316281e-18, y: 5.68434174e-18, z: .00437583728}
+      rotation: {x: -.0381747894, y: 0, z: -0, w: .999271095}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Tail_Main
+      position: {x: -1.33226756e-19, y: -.000106829932, z: -.00178523571}
+      rotation: {x: -.177796111, y: .103197381, z: -.00668253889, w: .978618503}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Tail_01
+      position: {x: 1.110223e-20, y: -2.84217087e-18, z: 3.55271359e-19}
+      rotation: {x: 0, y: .144245833, z: -0, w: .989541888}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Tail_02
+      position: {x: 6.66133782e-20, y: .00012164683, z: -.00139536068}
+      rotation: {x: -.123421274, y: .143119469, z: .0179911591, w: .981814861}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ctrl_Tail_03
+      position: {x: 2.44249064e-19, y: .000686946791, z: -.0011520671}
+      rotation: {x: -.123421274, y: .143119469, z: .0179911591, w: .981814861}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_REVERSE_Heel_L
+      position: {x: -.00315029756, y: .000266064511, z: -.00250151148}
+      rotation: {x: .00483622216, y: .53730464, z: .00759081496, w: .843340218}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_REVERSE_Toe_L
+      position: {x: -.00443001371, y: -6.3733691e-20, z: -4.78228939e-19}
+      rotation: {x: .00442208443, y: .999785304, z: .000274903199, w: -.0202409122}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ikHandle_Toe_L
+      position: {x: 4.9546903e-05, y: .000431823573, z: -2.10038197e-05}
+      rotation: {x: .0298068896, y: .999552727, z: .000471503881, w: .00237460947}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_REVERSE_Ball_L
+      position: {x: -.00217747968, y: 7.27495267e-19, z: 5.15143477e-18}
+      rotation: {x: .0107173212, y: -.0338945165, z: -.292557091, w: .955587089}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ikHandle_Ball_L
+      position: {x: -.000413711212, y: .000410062785, z: -2.44459643e-05}
+      rotation: {x: -.00771532813, y: .999965012, z: .00210971292, w: .00244060392}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_REVERSE_Ankle_L
+      position: {x: -.00263511273, y: 3.32530199e-19, z: 9.9920064e-20}
+      rotation: {x: -.228710979, y: .735007703, z: .18965584, w: .609496295}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ikHandle_Ankle_L
+      position: {x: 2.67835276e-05, y: .000419440301, z: 5.4114782e-05}
+      rotation: {x: 9.75369093e-17, y: -3.74700271e-16, z: -3.26263142e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_REVERSE_Heel_R
+      position: {x: .00334798172, y: .000266065006, z: -.00114062731}
+      rotation: {x: .00792086869, y: .880004942, z: .00427433755, w: .474879235}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_REVERSE_Toe_R
+      position: {x: -.00443001417, y: 8.4847502e-20, z: 1.80034888e-18}
+      rotation: {x: .00442221761, y: .999785304, z: -.000274912396, w: .0202423856}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ikHandle_Toe_R
+      position: {x: 5.00710594e-05, y: .00043175256, z: 3.6028523e-05}
+      rotation: {x: .0298098586, y: .999555171, z: -.000597277947, w: -.00070797489}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_REVERSE_Ball_R
+      position: {x: -.00217748503, y: 4.81659464e-19, z: -4.40668684e-18}
+      rotation: {x: -.0107187117, y: .0338988118, z: -.292558104, w: .955586612}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ikHandle_Ball_R
+      position: {x: -.000413684378, y: .000410002656, z: 3.16651349e-05}
+      rotation: {x: -.0076990393, y: .999969065, z: -.00133189675, w: -.00095434254}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_REVERSE_Ankle_R
+      position: {x: -.00263511413, y: -9.00761301e-20, z: -3.34381481e-19}
+      rotation: {x: .735008836, y: .228712142, z: -.609494388, w: .189655915}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ikHandle_Ankle_R
+      position: {x: -2.67800006e-05, y: -.000419439952, z: -5.41149966e-05}
+      rotation: {x: 1, y: -2.14126369e-16, z: 1.38777878e-16, w: 6.12323426e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Waist
+      position: {x: 0, y: .00753216539, z: -.00138668518}
+      rotation: {x: .407149106, y: -.578125954, z: -.407149106, w: .578125954}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thigh_R
+      position: {x: -.000363756379, y: .0010447941, z: -.00176940986}
+      rotation: {x: .0920086056, y: .993557274, z: -.0640911907, w: -.0164539665}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Knee_R
+      position: {x: -.00487752166, y: 2.74835618e-18, z: 5.14736659e-19}
+      rotation: {x: -.953315794, y: -.300857931, z: .019558413, w: -.0170587283}
+      scale: {x: 1, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ankle_R
+      position: {x: -.00185626477, y: 4.24635571e-19, z: 7.00427674e-18}
+      rotation: {x: .752525151, y: .65620476, z: -.00234033121, w: -.0556392074}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ball_R
+      position: {x: -.0024200019, y: -1.05507383e-18, z: 2.00036405e-18}
+      rotation: {x: -.0117236655, y: -.0344170779, z: -.256466448, w: .965869069}
+      scale: {x: .999999821, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Toe_R
+      position: {x: -.00234244391, y: 5.18494282e-19, z: 1.70608677e-19}
+      rotation: {x: .660627007, y: -.0227236357, z: .749926805, w: .0257952902}
+      scale: {x: 1, y: .999999762, z: .999999821}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thigh_L
+      position: {x: -.000363760686, y: .0010447962, z: .00176941138}
+      rotation: {x: .0920088142, y: .993557274, z: .0640903264, w: .016453743}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Knee_L
+      position: {x: -.00487752818, y: -5.7576262e-20, z: 2.62442255e-19}
+      rotation: {x: -.953315973, y: -.300857663, z: -.019558236, w: .0170580447}
+      scale: {x: 1.00000024, y: .999999762, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ankle_L
+      position: {x: -.00185626606, y: 2.89723008e-19, z: -3.34188544e-17}
+      rotation: {x: .752524614, y: .656205356, z: .00234013028, w: .0556398109}
+      scale: {x: 1, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ball_L
+      position: {x: -.00241999933, y: -3.44169096e-19, z: 2.35644773e-18}
+      rotation: {x: .0117242038, y: .0344187617, z: -.256465584, w: .965869188}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Toe_L
+      position: {x: -.00234244065, y: -4.64097082e-20, z: 1.68929836e-19}
+      rotation: {x: -.022723645, y: -.66062808, z: -.0257953107, w: .749925911}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Spine01
+      position: {x: -.001776663, y: 3.49720253e-19, z: -1.01355071e-18}
+      rotation: {x: 2.98023224e-08, y: -2.98023224e-08, z: -.168871343, w: .985638201}
+      scale: {x: 1.00000012, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Belly_Side_R
+      position: {x: -9.18597507e-05, y: .00131216052, z: -.0048034871}
+      rotation: {x: -1.49011612e-08, y: 0, z: 1, w: 0}
+      scale: {x: .99999994, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Spine02
+      position: {x: -.00195407146, y: -9.45675124e-21, z: 4.95151704e-20}
+      rotation: {x: -.996766627, y: .0803509131, z: 0, w: 1.49011594e-08}
+      scale: {x: .999999642, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_03
+      position: {x: -.00170849869, y: 8.38509316e-19, z: -7.23150889e-20}
+      rotation: {x: -5.96046306e-08, y: 1.49011576e-08, z: .134664699, w: .990891218}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Collar_Back_01
+      position: {x: -.00113848527, y: .00151885836, z: 1.3367081e-19}
+      rotation: {x: .935766697, y: -.352619797, z: 0, w: 0}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Collar_Back_02be
+      position: {x: -.00155087956, y: 8.88178397e-20, z: -5.55111474e-20}
+      rotation: {x: -.421375811, y: .567840159, z: .421375811, w: .567840159}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Collar_Front_01_L
+      position: {x: -.00138353766, y: -.00201695575, z: -.00138141017}
+      rotation: {x: .564575493, y: -.473235518, z: .180935383, w: .651586652}
+      scale: {x: 1, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Collar_Front_02be_L
+      position: {x: -.00182350306, y: 4.94049234e-19, z: -8.88178397e-20}
+      rotation: {x: -.0126768723, y: .0408128388, z: .296359152, w: .95411998}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Clav_R
+      position: {x: -4.5093715e-05, y: .000186235731, z: .00213949988}
+      rotation: {x: -.466028631, y: .531805694, z: .291213691, w: .644355953}
+      scale: {x: .999999583, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    - name: Jnt_Brafilius_Shldr_R
+      position: {x: -.00112192845, y: 1.13242742e-18, z: 6.71655872e-19}
+      rotation: {x: .0255432054, y: .011667273, z: .173436537, w: .984444678}
+      scale: {x: 1.00000048, y: 1.00000036, z: 1.00000036}
+      transformModified: 1
+    - name: Jnt_Brafilius_Elbow_R
+      position: {x: -.00313462527, y: -1.50598932e-18, z: 5.27243113e-19}
+      rotation: {x: -.0769696459, y: -.0431214087, z: -.0337511711, w: .995528638}
+      scale: {x: .999999881, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Wrist_R
+      position: {x: -.00297482219, y: 2.38018042e-19, z: 7.39332739e-19}
+      rotation: {x: .0171273053, y: .0319885202, z: -.000738188508, w: .99934119}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Palm_R
+      position: {x: -.000713009969, y: 1.74702448e-18, z: 3.58513804e-19}
+      rotation: {x: -.113265648, y: -.251993895, z: -.0657073781, w: .958828688}
+      scale: {x: 1.00000024, y: 1, z: 1.00000048}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_01_R
+      position: {x: -.000769363542, y: -9.38295474e-19, z: -6.23081448e-19}
+      rotation: {x: .126533464, y: .260612994, z: .0936479643, w: .952523053}
+      scale: {x: .999999404, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_02_R
+      position: {x: -.000558441912, y: -1.44685294e-18, z: 1.29471271e-18}
+      rotation: {x: -.00596949039, y: -.00521290721, z: .0400151908, w: .999167681}
+      scale: {x: 1.00000012, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_03_R
+      position: {x: -.000366756081, y: 1.09993918e-18, z: 1.09819503e-20}
+      rotation: {x: -.0180410091, y: -.0145321153, z: -.0373697057, w: .999032974}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_04be_R
+      position: {x: -.000354055112, y: -2.66201197e-19, z: -1.84778526e-19}
+      rotation: {x: .0538267419, y: -.0151323089, z: .961175084, w: .270215094}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_01_R
+      position: {x: -.000535264495, y: 2.10124108e-05, z: .00031730585}
+      rotation: {x: .137618259, y: .307614595, z: .0627225861, w: .939414859}
+      scale: {x: .999999464, y: .999999881, z: .999999523}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_02_R
+      position: {x: -.000672300288, y: -1.1415017e-18, z: 6.28253136e-19}
+      rotation: {x: -.016049793, y: -.0155817783, z: .0371048339, w: .999061048}
+      scale: {x: 1, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_03_R
+      position: {x: -.000413716945, y: 9.30169975e-19, z: -4.55370992e-19}
+      rotation: {x: .0038254885, y: .00548498333, z: -.00303643942, w: .999973059}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000036}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_04be_R
+      position: {x: -.000389787834, y: -2.55312191e-18, z: 1.57985996e-18}
+      rotation: {x: -.010948821, y: .00342275831, z: .954386115, w: .298354775}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_01_R
+      position: {x: -.00025663586, y: -1.1926646e-05, z: .000556606974}
+      rotation: {x: .172761962, y: .328989834, z: .0212879982, w: .928151846}
+      scale: {x: .999999464, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_02_R
+      position: {x: -.00058164529, y: -2.31577174e-19, z: 3.30871366e-19}
+      rotation: {x: -.00324771949, y: -.0062383418, z: .0205776412, w: .999763548}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_03_R
+      position: {x: -.00038439731, y: 2.2830888e-18, z: -4.4292911e-19}
+      rotation: {x: -.0200581923, y: -.0359489284, z: .00836660061, w: .999117315}
+      scale: {x: 1.00000024, y: 1, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_04be_R
+      position: {x: -.000363910047, y: -1.14912086e-18, z: -2.67242281e-19}
+      rotation: {x: -.0964228511, y: .0255118217, z: .961914062, w: .254505843}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thumb_01_R
+      position: {x: -.000152547014, y: -.00020245272, z: -.000545637857}
+      rotation: {x: -.0449246019, y: -.117299885, z: .0105342641, w: .992024004}
+      scale: {x: .999999523, y: 1.00000012, z: .999999464}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thumb_02_R
+      position: {x: -.000945997308, y: -9.86738479e-19, z: -1.76123206e-19}
+      rotation: {x: .0684601888, y: .0328208804, z: .0221940037, w: .996866763}
+      scale: {x: 1.00000012, y: .99999994, z: .999999702}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thumb_03be_R
+      position: {x: -.000445342972, y: -5.73963618e-19, z: -1.5598608e-18}
+      rotation: {x: .174484283, y: .146630079, z: .833526373, w: .503277838}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_01_R
+      position: {x: 4.3319229e-05, y: -9.19052545e-05, z: .000746349746}
+      rotation: {x: .197942242, y: .326645494, z: .0126554891, w: .924100339}
+      scale: {x: .999999344, y: .999999821, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_02_R
+      position: {x: -.000517580833, y: -2.6075109e-18, z: 1.9703345e-18}
+      rotation: {x: .0127528021, y: .024793949, z: -.00264978432, w: .999607742}
+      scale: {x: 1, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_03_R
+      position: {x: -.000305731577, y: -1.26325498e-19, z: 1.08681782e-18}
+      rotation: {x: -.0348950177, y: -.0353255793, z: -.0175363943, w: .998612523}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000036}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_04be_R
+      position: {x: -.000270311575, y: -6.23432431e-19, z: -4.03394995e-19}
+      rotation: {x: -.14827472, y: .0298881643, z: .969004393, w: .195325032}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Neck
+      position: {x: -.00115893281, y: -1.17208391e-18, z: -1.16896828e-19}
+      rotation: {x: 0, y: 0, z: .0246236287, w: .999696791}
+      scale: {x: 1, y: .999999702, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Head
+      position: {x: -.000392489746, y: -6.26442179e-19, z: -4.35144727e-20}
+      rotation: {x: -2.98023224e-08, y: 2.98023224e-08, z: .00213077664, w: .999997795}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Nose_bs
+      position: {x: -.000743979122, y: -.00133564672, z: -4.00786843e-19}
+      rotation: {x: .121542081, y: -.221441835, z: .537157714, w: .804768622}
+      scale: {x: .999999881, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    - name: Jnt_Brafilius_Whiskers_L
+      position: {x: -.00100721256, y: -7.16405991e-18, z: 6.13192586e-18}
+      rotation: {x: -.0218798984, y: -.505083144, z: -.0373406447, w: .861984909}
+      scale: {x: 1.00000024, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Mouth_L
+      position: {x: -.00090964121, y: -.000288991636, z: -.000381864927}
+      rotation: {x: -7.4505806e-09, y: .300705791, z: -3.0733645e-08, w: .953716934}
+      scale: {x: 1.00000012, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Nose
+      position: {x: -.000999059412, y: .000308423972, z: .000572653895}
+      rotation: {x: -.00511937821, y: -.0623984188, z: -.00471540308, w: .998027086}
+      scale: {x: 1.00000036, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Cheek_L
+      position: {x: -.000714311609, y: .000240602225, z: -.000708173786}
+      rotation: {x: -.29214254, y: -.697784662, z: .199462235, w: .622867584}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Jowl_L
+      position: {x: -.000743092212, y: 3.29682407e-05, z: 1.59098926e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Lip_Upper
+      position: {x: -.000813440362, y: -.000288642506, z: .000437837269}
+      rotation: {x: -.00511937821, y: -.0623984188, z: -.00471540308, w: .998027086}
+      scale: {x: 1.00000036, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Mouth_R
+      position: {x: -.000165601945, y: -.000353544863, z: .000950967602}
+      rotation: {x: -2.79396737e-08, y: .300705761, z: -1.01979808e-07, w: .953716993}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Whiskers_R
+      position: {x: -.000529468991, y: -4.1510044e-05, z: .000855816645}
+      rotation: {x: -.0218799692, y: -.505083144, z: -.0373406969, w: .861984849}
+      scale: {x: 1.00000024, y: .999999881, z: 1.00000036}
+      transformModified: 1
+    - name: Jnt_Brafilius_Cheek_R
+      position: {x: .000236144595, y: .000158130249, z: .00099442387}
+      rotation: {x: .378324091, y: .903636038, z: .0612327978, w: .191215634}
+      scale: {x: 1, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Jowl_R
+      position: {x: -.000743084296, y: 3.29683753e-05, z: -1.3275401e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Jaw
+      position: {x: -.000620896171, y: -.00103195431, z: -2.72417045e-19}
+      rotation: {x: -1.49011612e-08, y: -8.94069672e-08, z: .80733794, w: .59008944}
+      scale: {x: .999999702, y: .999999762, z: .999999702}
+      transformModified: 1
+    - name: Jnt_Brafilius_Jaw_be
+      position: {x: -.0014668504, y: -1.50990313e-18, z: -2.14061431e-19}
+      rotation: {x: 0, y: 0, z: -.807337821, w: .5900895}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Lip_Lower
+      position: {x: -.00121965201, y: .000458116672, z: -2.75335277e-18}
+      rotation: {x: -5.96046377e-08, y: 4.470348e-08, z: -.807337821, w: .590089619}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eyebrow02_L
+      position: {x: -.00193004811, y: -.00152228784, z: -.00087216642}
+      rotation: {x: .366737276, y: -.604569137, z: .366737276, w: .604569077}
+      scale: {x: .999999762, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eyebrow01_L
+      position: {x: -.00182105345, y: -.00174951029, z: -.000380402489}
+      rotation: {x: .366737276, y: -.604569137, z: .366737276, w: .604569077}
+      scale: {x: .999999762, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Brow
+      position: {x: -.00161422475, y: -.00176726782, z: -4.52970969e-18}
+      rotation: {x: .366737276, y: -.604569137, z: .366737276, w: .604569077}
+      scale: {x: .999999762, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn2_01_L
+      position: {x: -.000979386736, y: -.00106438645, z: -.00103444292}
+      rotation: {x: .591841877, y: -.656195104, z: .163436219, w: .438656807}
+      scale: {x: .999999881, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn2_02_L
+      position: {x: -.000591376098, y: 1.00054702e-18, z: 5.41685635e-19}
+      rotation: {x: .1164423, y: -.226652831, z: -.093992725, w: .962411046}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn2_03_L
+      position: {x: -.000979761244, y: 2.93250055e-19, z: -2.3103245e-19}
+      rotation: {x: -.148859769, y: .506275237, z: .239613429, w: .814930439}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_bs_L
+      position: {x: -.00130462227, y: -.00118488003, z: -.000543162925}
+      rotation: {x: .139403686, y: -.161564916, z: .361135691, w: .907768965}
+      scale: {x: .999999881, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Top_Back_L
+      position: {x: -.000329266768, y: -2.96476901e-05, z: -.0002104468}
+      rotation: {x: .0895539448, y: -.532449305, z: .139608547, w: .830052614}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Top_Front_L
+      position: {x: -.000239598521, y: -.000244940369, z: .00025335484}
+      rotation: {x: .0895539448, y: -.532449305, z: .139608547, w: .830052614}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Bottom_L
+      position: {x: -.000340708852, y: -.000298500468, z: -8.17631735e-05}
+      rotation: {x: .0895539448, y: -.532449305, z: .139608547, w: .830052614}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Top_L
+      position: {x: -.000461565127, y: -1.60316205e-17, z: 3.54716264e-18}
+      rotation: {x: .0895539448, y: -.532449305, z: .139608547, w: .830052614}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Bottom_Back_L
+      position: {x: -.000279839791, y: -.000139815893, z: -.000230488324}
+      rotation: {x: .0895539448, y: -.532449305, z: .139608547, w: .830052614}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_L
+      position: {x: -.000129142631, y: -7.67888851e-05, z: 4.50089874e-06}
+      rotation: {x: -.0304367989, y: .21121116, z: .184647739, w: .959358513}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_be_L
+      position: {x: -.000236623557, y: 5.60289045e-05, z: -.000104841849}
+      rotation: {x: -.0166240111, y: -.706911385, z: -.0166240111, w: .706911385}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn1_01_L
+      position: {x: -.00236537983, y: -.000443171244, z: -.00115542067}
+      rotation: {x: -.0220714714, y: -.527101338, z: .76917249, w: .360625297}
+      scale: {x: 1.00000048, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn1_02_L
+      position: {x: -.000799364701, y: -3.50887638e-19, z: -1.0434749e-18}
+      rotation: {x: .940718532, y: .319202453, z: -.00795920938, w: -.114433654}
+      scale: {x: .99999994, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn1_03_L
+      position: {x: -.000797564688, y: 2.51848455e-18, z: -3.55338955e-19}
+      rotation: {x: -.574501038, y: -.74552387, z: .206221044, w: -.267610848}
+      scale: {x: 1.00000048, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Fringe_01
+      position: {x: -.00232463982, y: -.00155665958, z: -6.3345724e-19}
+      rotation: {x: -.216953263, y: -.976181984, z: -5.96046377e-08, w: -4.470348e-08}
+      scale: {x: 1.00000012, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Fringe_02
+      position: {x: -.000607632508, y: 1.7371558e-19, z: -1.41614859e-19}
+      rotation: {x: .489165545, y: .51060462, z: -.489165545, w: .51060462}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Hat
+      position: {x: -.00243525603, y: 2.10472308e-06, z: -6.661338e-18}
+      rotation: {x: 1.49011576e-08, y: -5.96046306e-08, z: -.123730734, w: .992315888}
+      scale: {x: .999999821, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Hat_be
+      position: {x: -.0022325879, y: 7.22425322e-19, z: -1.32169167e-19}
+      rotation: {x: .438722938, y: -.554546833, z: .438722938, w: .554546833}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Feather02
+      position: {x: -9.86067535e-05, y: .000340082624, z: .000677598}
+      rotation: {x: -.787997961, y: .376279324, z: .134853646, w: .468281418}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Feather02_be
+      position: {x: -.00225721672, y: -.000231005411, z: .000227782744}
+      rotation: {x: .241203874, y: -.200513721, z: -.0925362259, w: .945014298}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Feather01
+      position: {x: -9.86067535e-05, y: .000340082624, z: .000677598}
+      rotation: {x: -.73819977, y: .61302942, z: .125198826, w: .252153486}
+      scale: {x: 1, y: .999999642, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Feather01_be
+      position: {x: -.00249203434, y: 2.09743721e-18, z: -6.13078456e-19}
+      rotation: {x: .307352901, y: -.367962092, z: -.241660565, w: .843645811}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn1_01_R
+      position: {x: -.00236542081, y: -.000443149271, z: .00115541997}
+      rotation: {x: .0220793467, y: .527103484, z: .769176483, w: .360613376}
+      scale: {x: .999999821, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn1_02_R
+      position: {x: -.00079943327, y: -5.31403159e-19, z: -2.93878066e-19}
+      rotation: {x: -.940721452, y: -.319196254, z: -.00795613043, w: -.114427119}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn1_03_R
+      position: {x: -.000797535817, y: -4.20740275e-19, z: -1.21749705e-18}
+      rotation: {x: .745531023, y: -.574497223, z: -.267605275, w: -.2062134}
+      scale: {x: .999999881, y: .999999404, z: .999999523}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn2_01_R
+      position: {x: -.000979347737, y: -.00106440682, z: .00103444001}
+      rotation: {x: -.591875315, y: .656163156, z: .163413957, w: .438667685}
+      scale: {x: .99999994, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn2_02_R
+      position: {x: -.000591405784, y: 6.14082395e-19, z: 3.18889655e-19}
+      rotation: {x: .116454959, y: -.226650327, z: .0939383805, w: -.962415457}
+      scale: {x: .999999821, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Sideburn2_03_R
+      position: {x: -.000979754957, y: -1.50170008e-18, z: -6.69006877e-19}
+      rotation: {x: -.506276608, y: -.148857936, z: .814930916, w: -.239610001}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eyebrow02_R
+      position: {x: -.00193004811, y: -.00152229122, z: .000872165896}
+      rotation: {x: .604569137, y: .366737276, z: .604569197, w: -.366737276}
+      scale: {x: .999999642, y: .999999642, z: .999999702}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_bs_R
+      position: {x: -.00130460749, y: -.0011848876, z: .000543162983}
+      rotation: {x: -.139404476, y: .161563173, z: .361128598, w: .907771885}
+      scale: {x: 1.00000012, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Bottom_Back_R
+      position: {x: -.00027982943, y: -.000139839743, z: .00023048959}
+      rotation: {x: .532449245, y: .0895581692, z: .830051124, w: -.139614955}
+      scale: {x: 1.00000036, y: 1, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Top_R
+      position: {x: -.000461568387, y: -1.62074924e-17, z: -1.35037293e-17}
+      rotation: {x: .532449245, y: .0895581692, z: .830051124, w: -.139614955}
+      scale: {x: 1.00000036, y: .999999642, z: .999999583}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Top_Back_R
+      position: {x: -.000329263246, y: -2.96484141e-05, z: .000210448576}
+      rotation: {x: .532449245, y: .0895581692, z: .830051124, w: -.139614955}
+      scale: {x: 1.00000036, y: .999999642, z: .999999583}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Top_Front_R
+      position: {x: -.000239593137, y: -.000244961033, z: -.000253355916}
+      rotation: {x: .532449186, y: .0895582289, z: .830051064, w: -.139614984}
+      scale: {x: 1.00000036, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_Bottom_R
+      position: {x: -.000340712839, y: -.000298487226, z: 8.17626496e-05}
+      rotation: {x: .532449186, y: .0895582289, z: .830051064, w: -.139614984}
+      scale: {x: 1.00000036, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_R
+      position: {x: -.000130304616, y: -7.62848213e-05, z: -4.871491e-06}
+      rotation: {x: .0304432623, y: -.21120958, z: .184633031, w: .959361494}
+      scale: {x: 1, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eye_be_R
+      position: {x: -.000235663756, y: 5.51294288e-05, z: .000104789586}
+      rotation: {x: .706911743, y: -.0166075546, z: .706911743, w: .0166075546}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Eyebrow01_R
+      position: {x: -.00182108593, y: -.00174949667, z: .000380402984}
+      rotation: {x: .604569137, y: .366737276, z: .604569197, w: -.366737276}
+      scale: {x: .999999642, y: .999999642, z: .999999702}
+      transformModified: 1
+    - name: Jnt_Brafilius_Clav_L
+      position: {x: -4.51280757e-05, y: .000186251069, z: -.0021395022}
+      rotation: {x: .417060852, y: -.571016908, z: .34717685, w: .616009951}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Shldr_L
+      position: {x: -.00110429956, y: .000198099195, z: -1.29429953e-18}
+      rotation: {x: -.0264772028, y: -.00935695227, z: .085502468, w: .995942175}
+      scale: {x: 1.00000012, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Elbow_L
+      position: {x: -.00313465577, y: -1.39888101e-18, z: -8.77920776e-20}
+      rotation: {x: .0769702792, y: .0431206226, z: -.0337526873, w: .99552846}
+      scale: {x: .999999821, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: Jnt_Brafilius_Wrist_L
+      position: {x: -.00297481823, y: -1.81178031e-18, z: -1.30715144e-18}
+      rotation: {x: -.0171286073, y: -.0319913141, z: -.000741990632, w: .999341071}
+      scale: {x: .99999994, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Palm_L
+      position: {x: -.000713014451, y: -3.73034923e-18, z: -7.50447358e-19}
+      rotation: {x: .1132681, y: .252000839, z: -.0657015592, w: .958827019}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_01_L
+      position: {x: 4.33311943e-05, y: -9.19095473e-05, z: -.000746344973}
+      rotation: {x: -.197944194, y: -.326650441, z: .0126521643, w: .924098194}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_02_L
+      position: {x: -.00051758677, y: -1.72847102e-18, z: -9.07038244e-20}
+      rotation: {x: -.0127478391, y: -.024784945, z: -.00266567152, w: .99960804}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_03_L
+      position: {x: -.000305734255, y: 1.45814571e-18, z: 3.33743647e-19}
+      rotation: {x: .0348917991, y: .0353289023, z: -.0175298695, w: .998612702}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Pinky_04be_L
+      position: {x: -.000270300254, y: -2.64399132e-19, z: -6.17072407e-20}
+      rotation: {x: .0298883729, y: .148270875, z: -.195331305, w: .969003677}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_01_L
+      position: {x: -.000256633473, y: -1.19263068e-05, z: -.000556604646}
+      rotation: {x: -.172755823, y: -.328997254, z: .0212808251, w: .928150535}
+      scale: {x: .999999881, y: 1.00000024, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_02_L
+      position: {x: -.000581678294, y: -3.79405289e-18, z: 1.78488554e-19}
+      rotation: {x: .00322294049, y: .00619035959, z: .0206461884, w: .999762475}
+      scale: {x: 1.00000024, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_03_L
+      position: {x: -.000384323881, y: 2.69201836e-18, z: -1.50637525e-19}
+      rotation: {x: .020091014, y: .0360054001, z: .00828754436, w: .999115288}
+      scale: {x: .999999702, y: .999999583, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Ring_04be_L
+      position: {x: -.000363949279, y: -2.17225099e-19, z: -1.24296626e-20}
+      rotation: {x: .0255038384, y: .0964029282, z: -.254481077, w: .961922765}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_01_L
+      position: {x: -.00076936296, y: -2.66453513e-19, z: -3.55271359e-19}
+      rotation: {x: -.12654002, y: -.260614216, z: .0936620682, w: .95252049}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_02_L
+      position: {x: -.000558412867, y: -2.39939991e-18, z: 3.14323179e-19}
+      rotation: {x: .00596633926, y: .00521660643, z: .0400183536, w: .999167502}
+      scale: {x: .999999881, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_03_L
+      position: {x: -.000366794324, y: 8.89666456e-19, z: -3.39635319e-19}
+      rotation: {x: .0180450194, y: .0145553015, z: -.0373650044, w: .999032736}
+      scale: {x: 1.00000048, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Index_04be_L
+      position: {x: -.000354016054, y: 9.27405228e-19, z: -3.07652187e-20}
+      rotation: {x: -.0151355295, y: -.0538292639, z: -.270256609, w: .961163223}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_01_L
+      position: {x: -.000535261934, y: 2.10123453e-05, z: -.000317311467}
+      rotation: {x: -.137613982, y: -.30761525, z: .0627074912, w: .939416349}
+      scale: {x: 1, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_02_L
+      position: {x: -.000672328519, y: -8.53419557e-19, z: 1.5073793e-18}
+      rotation: {x: .0160479285, y: .0155756539, z: .0371078998, w: .999061048}
+      scale: {x: 1.00000012, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_03_L
+      position: {x: -.00041371191, y: 7.58050867e-20, z: -2.14239029e-19}
+      rotation: {x: -.003827109, y: -.00548721664, z: -.00304524926, w: .999973059}
+      scale: {x: .999999821, y: .999999642, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Middle_04be_L
+      position: {x: -.000389783934, y: -1.963691e-18, z: -1.49683833e-18}
+      rotation: {x: .00342277624, y: .0109488741, z: -.298354924, w: .954386115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thumb_01_L
+      position: {x: -.000152547174, y: -.000202446201, z: .000545642863}
+      rotation: {x: .0449222848, y: .11729385, z: .0105309375, w: .992024899}
+      scale: {x: .999999881, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thumb_02_L
+      position: {x: -.000946000742, y: -5.91018221e-19, z: 1.12415882e-18}
+      rotation: {x: -.0684585795, y: -.0328225456, z: .022193579, w: .996866882}
+      scale: {x: 1.00000012, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Thumb_03be_L
+      position: {x: -.000445340673, y: 9.46780176e-19, z: -3.97301388e-19}
+      rotation: {x: .14663057, y: -.174483955, z: -.503275633, w: .833527803}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Cravat_01
+      position: {x: -.00155038992, y: -.0027467655, z: -7.54938432e-19}
+      rotation: {x: 0, y: 2.98023188e-08, z: .8053509, w: .592798352}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Cravat_02
+      position: {x: -.00209630793, y: 2.30926369e-18, z: -3.33080093e-19}
+      rotation: {x: -4.47034836e-08, y: -5.96046448e-08, z: .144697741, w: .989475906}
+      scale: {x: .999999881, y: 1, z: .999999762}
+      transformModified: 1
+    - name: Jnt_Brafilius_Cravat_03
+      position: {x: -.00130592717, y: -1.23928644e-18, z: -1.34040431e-19}
+      rotation: {x: 1.49011612e-08, y: -2.98023224e-08, z: .210395917, w: .977616251}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Cravat_04be
+      position: {x: -.00247682002, y: 1.55431218e-19, z: 2.03612356e-19}
+      rotation: {x: -0, y: 0, z: .961786687, w: -.273799896}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Collar_Front_01_R
+      position: {x: -.00138356595, y: -.00201694062, z: .00138140994}
+      rotation: {x: .473235518, y: .564575434, z: .651586652, w: -.180935368}
+      scale: {x: 1.00000012, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Collar_Front_02be_R
+      position: {x: .0018234934, y: 2.02228705e-08, z: -2.50232901e-09}
+      rotation: {x: -.0126768723, y: .0408128388, z: .296359152, w: .95411998}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Belly_Side_L
+      position: {x: .000537044602, y: .000521721609, z: .00432624249}
+      rotation: {x: 1.49011594e-08, y: -4.470348e-08, z: 1.49011594e-08, w: 1}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Belly_Front
+      position: {x: .000512077881, y: .00631699897, z: -.000694427756}
+      rotation: {x: 1.49011594e-08, y: -4.470348e-08, z: 1.49011594e-08, w: 1}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Jnt_Brafilius_Tail_01
+      position: {x: -.000646740315, y: -.000935059448, z: -1.03812453e-19}
+      rotation: {x: -2.98023188e-08, y: 2.98023188e-08, z: .769216657, w: .638988078}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Jnt_Brafilius_Tail_02
+      position: {x: -.000795280794, y: 6.49629965e-19, z: 4.85762687e-20}
+      rotation: {x: 1.49011612e-08, y: 4.65661287e-10, z: -.302693069, w: .953088105}
+      scale: {x: 1, y: .999999702, z: .999999881}
+      transformModified: 1
+    - name: Jnt_Brafilius_Tail_03
+      position: {x: -.00140065327, y: 3.64223573e-19, z: -1.94730039e-19}
+      rotation: {x: -1.86264515e-09, y: 5.96046448e-08, z: -.223454893, w: .974714339}
+      scale: {x: .99999994, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Jnt_Brafilius_Tail_04
+      position: {x: -.00134132558, y: -1.34025355e-18, z: -3.44703067e-19}
+      rotation: {x: 6.70552183e-08, y: -5.21540571e-08, z: -.362391323, w: .932026029}
+      scale: {x: .999999881, y: .999999881, z: 1.00000036}
+      transformModified: 1
+    - name: Jnt_Brafilius_Tail_05be
+      position: {x: -.00171827606, y: -7.34891451e-19, z: -5.71521833e-19}
+      rotation: {x: 0, y: 0, z: -.0284542423, w: .999595106}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 505f7e8a4801b1349be8c2e0f2c47295,
+    type: 3}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

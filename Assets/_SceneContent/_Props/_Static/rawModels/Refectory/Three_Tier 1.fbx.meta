@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: 2e0fc7dce719a9e449574b0d07593b25
+timeCreated: 1435069481
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Refectory
+    100002: //RootNode
+    100004: Three_Tier_Fountain
+    100006: Three_Tier_Water
+    100008: Three_Tier_Water_02
+    100010: transform260
+    100012: transform261
+    100014: transform262
+    100016: Water_05
+    100018: Water_07
+    100020: Water_08
+    400000: Refectory
+    400002: //RootNode
+    400004: Three_Tier_Fountain
+    400006: Three_Tier_Water
+    400008: Three_Tier_Water_02
+    400010: transform260
+    400012: transform261
+    400014: transform262
+    400016: Water_05
+    400018: Water_07
+    400020: Water_08
+    2300000: Three_Tier_Fountain
+    2300002: Three_Tier_Water
+    2300004: Three_Tier_Water_02
+    3300000: Three_Tier_Fountain
+    3300002: Three_Tier_Water
+    3300004: Three_Tier_Water_02
+    4300000: Three_Tier_Fountain
+    4300002: Three_Tier_Water
+    4300004: Three_Tier_Water_02
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

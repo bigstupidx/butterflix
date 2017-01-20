@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 57e38bd99098dcf41889cd4ffe33ec98
+timeCreated: 1434896386
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Corr01_Dungeon_DoorFrame
+    100002: Corr01_Floor_StoneBrick
+    100004: Corr02_Arches
+    100006: Corr02_Ceiling_BrownBrick
+    100008: Corr02_Dungeon_DoorFrame
+    100010: Corr02_Floor_StoneBrick
+    100012: Corr02_Wall_BrickDark
+    100014: //RootNode
+    400000: Corr01_Dungeon_DoorFrame
+    400002: Corr01_Floor_StoneBrick
+    400004: Corr02_Arches
+    400006: Corr02_Ceiling_BrownBrick
+    400008: Corr02_Dungeon_DoorFrame
+    400010: Corr02_Floor_StoneBrick
+    400012: Corr02_Wall_BrickDark
+    400014: //RootNode
+    2300000: Corr01_Dungeon_DoorFrame
+    2300002: Corr01_Floor_StoneBrick
+    2300004: Corr02_Arches
+    2300006: Corr02_Ceiling_BrownBrick
+    2300008: Corr02_Dungeon_DoorFrame
+    2300010: Corr02_Floor_StoneBrick
+    2300012: Corr02_Wall_BrickDark
+    3300000: Corr01_Dungeon_DoorFrame
+    3300002: Corr01_Floor_StoneBrick
+    3300004: Corr02_Arches
+    3300006: Corr02_Ceiling_BrownBrick
+    3300008: Corr02_Dungeon_DoorFrame
+    3300010: Corr02_Floor_StoneBrick
+    3300012: Corr02_Wall_BrickDark
+    4300000: Corr01_Dungeon_DoorFrame
+    4300002: Corr01_Floor_StoneBrick
+    4300004: Corr02_Arches
+    4300006: Corr02_Dungeon_DoorFrame
+    4300008: Corr02_Wall_BrickDark
+    4300010: Corr02_Ceiling_BrownBrick
+    4300012: Corr02_Floor_StoneBrick
+    6400000: Corr01_Dungeon_DoorFrame
+    6400002: Corr01_Floor_StoneBrick
+    6400004: Corr02_Arches
+    6400006: Corr02_Ceiling_BrownBrick
+    6400008: Corr02_Dungeon_DoorFrame
+    6400010: Corr02_Floor_StoneBrick
+    6400012: Corr02_Wall_BrickDark
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

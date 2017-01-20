@@ -1,0 +1,546 @@
+<Row>
+</Row>
+<Row>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>Code</Data></Cell>
+	<Cell><Data>Max Character Count</Data></Cell>
+	<Cell><Data>Italian</Data></Cell>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_BASICCHARSET</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Empty</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CONFIRMATION</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>Conferma</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_WARNING</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>Attenzione</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_ERROR</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>Errore</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_INFORMATION</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>Informazioni</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PLAYER</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>Giocatore</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_YES</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>Sì</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_NO</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>No</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_OK</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>Ok</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_KEY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Chiave</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_KEY_COLLECTED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Raccolta!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_KEY_RED_GEMS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Chiave Gemma Rossa</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_KEY_100_GEMS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Chiave 100 Gemme</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_8_RED_GEMS_COLLECTED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Gemme Rosse!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_100_GEMS_COLLECTED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Gemme!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_8_RED_GEMS_COLLECTED_SUB</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Wow, hai collezionato tutte le 8 gemme!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_100_GEMS_COLLECTED_SUB</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Wow, hai collezionato 100 gemme!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_INTRO_01</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Usa il joystick sinistro per muoverti</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_INTRO_02</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Usa il pulsante 'azione' per saltare o interagire con gli oggetti</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_INTRO_03</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Usa il joystick destro per guardarti intorno</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_01</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Brafilius sta scappando! Forza, devi fermarlo prima che conquisti Alfea</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_02</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Spingi il blocco. Tieni premuto il pulsante 'mano' e spingi in avanti</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_03</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Brafilius si dirige verso il cuore di Alfea, coraggio! Premi sull'icona 'freccia' per saltare</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_04</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Brafilius è fuggito! Raduna ilWinx Club e ottieni il potere Butterflix per sconfiggerlo!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYSCUFFED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Compra quella usata</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYMINT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Compra quella premium</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYSCUFFED_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Vuoi acquistare una carta usata per (Price) diamanti?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYMINT_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Vuoi acquistare una carta premium per (Price) diamanti?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BASICPACK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Pacchetto Basic</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SUPERPACK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Pacchetto Super</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_MEGAPACK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Pacchetto Mega</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_WINXMAGIC</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Magia Winx</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_WILDMAGIC</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Magia Selvaggia</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_STANDARD</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Standard</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BOOSTER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Pacchetto Booster</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYPACK_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Vuoi acquistare un pacchetto Booster per (Price) diamanti?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BOOSTER_PREVIEW</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Pacchetto Booster - guarda in anteprima le tue carte:</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SELLSCUFFED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Vendi quella usata</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SELLMINT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Vendi quella premium</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SELLSCUFFED_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Vuoi vendere una carta usata per (Price) diamanti?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SELLMINT_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Vuoi vendere una carta premium per (Price) diamanti?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_BLOOM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Bloom</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_STELLA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Stella</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_FLORA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Flora</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_MUSA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Musa</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_TECNA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Tecna</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_AISHA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Aisha</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_UPGRADEFAIRY_TITLE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Migliora (FairyName)</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_UPGRADEFAIRY_DESC</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Migliora i tuoi poteri per accedere a nuove aree!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_REQUIREMENTS_TITLE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Requisiti</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_UPGRADEFAIRY_LEVELUP</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Sali di livello (newline) (newline)(Cost)</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE_TITLE_OUTFIT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Vuoi un vestito?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE_DESC_OUTFIT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Sei sicuro di voler acquistare questo vestito?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE_TITLE_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Vuoi (FairyName)?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE_DESC_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Sei sicuro di voler acquistare (FairyName)?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Compra? (newline)(Cost)</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_REGISTERING_NAME</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Le Pixie stanno registrando il tuo Nome da Fata…</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_NAME_REGISTERED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Il tuo Nome da Fata è stato registrato con successo!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_NAME_ERROR</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Il tuo Nome da Fata non è stato accettato. Prova di nuovo.</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_NAME_UNAVAILABLE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>C'è già una Fata registrata con questo nome. Scegli un altro nome.</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_LOGIN_FACEBOOK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Accedi con Facebook</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_LOGIN_WITHOUTFACEBOOK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Non usare Facebook</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_LOGIN_FACEBOOK_INFO</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Se non accedi con Facebook non possiamo trasferire i tuoi dati di gioco su un nuovo dispositivo. Sei sicuro di voler iniziare senza accedere con Facebook?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_LOGIN_DONT_HAVE_FACEBOOK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Non hai Facebook?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_CHOOSE_NAME</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Scegli il tuo Nome da Fata</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FACEBOOK_REGISTERING</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Registrazione con Facebook in corso...</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FACEBOOK_REGISTERING_SUCCESS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Registrazione con Facebook avvenuta!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FACEBOOK_REGISTERING_FAILURE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Registrazione con Facebook non riuscita</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FACEBOOK_REGISTERING_GETUSERINFO</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Acquisizione dati utente da Facebook…</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FINDING_FAIRIES</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Ricerca utente in corso...</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_RESTORE_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Ripristino utente precedente</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_RESTORING_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Ripristino utente in corso...</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_RESTORING_FAIRY_SUCCESS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Ripristino utente avvenuto!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_RESTORING_FAIRY_FAILURE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Ripristino utente non riuscito</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DOOR_INTERACT_KEY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Hai bisogno di</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DOOR_INTERACT_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Aperto con</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DOOR_INTERACT_SWITCH</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Aperto con</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DOOR_INTERACT_BOSS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Hai bisogno di</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_SHARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Condividi</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_MUSIC</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Musica</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_FX</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Effetti</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_QUALITY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Qualità</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_QUALITY_BEST</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Migliore</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_QUALITY_FASTEST</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Veloce</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_PROMOCODE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Usa codice promozionale</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_CREDITS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Credits</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_CREDITS_TEXT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Grazie per aver reso tutto questo possibile(newline) (newline) Rainbow Srl CEO & Creatore di Winx Club (newline) Iginio Straffi(newline) (newline) Produttore Esecutivo(newline) Graeme Harvey(newline) (newline) Produttori(newline) Tsumanga Studios(newline) Catherine Tang(newline) EM Studios(newline) Bobby Farmer(newline) Rainbow Srl(newline) Serena Bussotti(newline) Maurizio DeAngelis(newline) (newline) Game Design(newline) Tsumanga Studios(newline) Malik Fernandez(newline) Gary MacAllister(newline) EM Studios(newline) Bobby Farmer(newline) Stuart Henderson(newline) (newline) Story & Dialogue(newline) Tsumanga Studios(newline) Malik Fernandez(newline) Gary MacAllister(newline) (newline) Art(newline) Tsumanga Studios(newline) (newline) Art Direction & UX(newline) Malik Fernandez(newline) Gary MacAllister(newline) Spencer Hill(newline) (newline) 3D Modelling & Animation(newline) Spencer Hill(newline) Malik Fernandez(newline) Johnathan Phillips(newline) Heather Jackson(newline) (newline) 2D Art(newline) Gary MacAllister(newline) Spencer Hill(newline) Tone Julskjaer(newline) Heather Jackson(newline) Jack Finnie(newline) EM Studios(newline) (newline) Environmental Modelling and UX(newline) Craig Gardiner(newline) Patrick Vince(newline) Kenny Swanston(newline) Hayley White(newline) (newline) Head of Art(newline) Craig Gardiner(newline) (newline) Programming(newline) EM Studios(newline) (newline) Game Programming(newline) Stuart Henderson(newline) Tony McBride(newline) (newline) Marketing Tsumanga UK(newline) Graeme Harvey(newline) Catherine Tang(newline) (newline) Marketing Rainbow Srl(newline) Cristiana Buzzelli(newline) Silvia Conti(newline) Lorena Vaccari(newline) (newline) Localisation(newline) Rainbow(newline) Gengo(newline) (newline) QA(newline) Testology(newline) (newline) Ringraziamenti speciali(newline) Yerzhan Tungunshbaev(newline) David Herbada(newline) Everyone at Rainbow S.r.l(newline) Scottish Enterprise(newline) Glasgow City Council(newline) Abby Primary School(newline) Mrs McGowan(newline) (newline) Winx Club TM (c) 2003-2015 Rainbow Srl. (newline) All Rights Reserved(newline) (newline) Un ringraziamento speciale ai nostri beta tester(newline) EnchantixGermany(newline) Winx Club Rus(newline) Winx Club All(newline) Emily(newline) Manal(newline) Alex(newline) Winx Club magical(newline) Kristana(newline) David Gary(newline) Oxery Silver(newline) Valory Pierce</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_EXITROOM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Uscire dalla stanza?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_PROMOCODE_FAILURE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Codice non accettato!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_PROMOCODE_SUCCESS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Codice accettato!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_REVIVE_REVIVE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>RESUSCITARE?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_1</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Unica</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_2</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Molto rara</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_3</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Rara</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_4</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Comune</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_5</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Molto comune</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_6</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Insegnante</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_SHARE_TWITTER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Ho appena raggiunto una popolazione di (population) studenti come (fairy)</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_SHARE_FACEBOOK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Ho appena raggiunto una popolazione di (population) studenti come (fairy)</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_SHARE_FACEBOOK_LINK_NAME</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Winx Butterflix Adventures</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_SHARE_FACEBOOK_CAPTION</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Nuovo Record!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>ERROR_NO_INTERNET</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Per usare questa funzionalità è necessario essere connessi a Internet.</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TWITTER_SHARE_SUCCESS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Hai condiviso il tuo punteggio su Twitter!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TWITTER_SHARE_FAILURE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Impossibile condividere il punteggio su Twitter!</Data></Cell>
+</Row>
+</Table>
+</Workbook>

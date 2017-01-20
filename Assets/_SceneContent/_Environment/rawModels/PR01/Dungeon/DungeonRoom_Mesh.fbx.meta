@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 459a5b797c95e8d4c865f9100311986d
+timeCreated: 1437047032
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: guide_Center135
+    100004: rewardRoom01_wall01
+    100006: rewardRoom02_floor01
+    100008: rewardRoom02_wall01
+    100010: room13_floor01
+    100012: room14_Cross
+    100014: room14_floor01
+    100016: room14_wall01
+    100018: room15_floor01
+    100020: room15_wall01
+    100022: room16_floor01
+    100024: room16_wall01
+    100026: room17_floor01
+    100028: room17_wall01
+    100030: room18_floor01
+    100032: room18_wall01
+    100034: room19_floor01
+    100036: room19_stairs01
+    100038: room19_wall01
+    100040: room20_floor01
+    100042: room20_stairs01
+    100044: room20_wall01
+    400000: //RootNode
+    400002: guide_Center135
+    400004: rewardRoom01_wall01
+    400006: rewardRoom02_floor01
+    400008: rewardRoom02_wall01
+    400010: room13_floor01
+    400012: room14_Cross
+    400014: room14_floor01
+    400016: room14_wall01
+    400018: room15_floor01
+    400020: room15_wall01
+    400022: room16_floor01
+    400024: room16_wall01
+    400026: room17_floor01
+    400028: room17_wall01
+    400030: room18_floor01
+    400032: room18_wall01
+    400034: room19_floor01
+    400036: room19_stairs01
+    400038: room19_wall01
+    400040: room20_floor01
+    400042: room20_stairs01
+    400044: room20_wall01
+    2300000: guide_Center135
+    2300002: rewardRoom01_wall01
+    2300004: rewardRoom02_floor01
+    2300006: rewardRoom02_wall01
+    2300008: room13_floor01
+    2300010: room14_Cross
+    2300012: room14_floor01
+    2300014: room14_wall01
+    2300016: room15_floor01
+    2300018: room15_wall01
+    2300020: room16_floor01
+    2300022: room16_wall01
+    2300024: room17_floor01
+    2300026: room17_wall01
+    2300028: room18_floor01
+    2300030: room18_wall01
+    2300032: room19_floor01
+    2300034: room19_stairs01
+    2300036: room19_wall01
+    2300038: room20_floor01
+    2300040: room20_stairs01
+    2300042: room20_wall01
+    3300000: guide_Center135
+    3300002: rewardRoom01_wall01
+    3300004: rewardRoom02_floor01
+    3300006: rewardRoom02_wall01
+    3300008: room13_floor01
+    3300010: room14_Cross
+    3300012: room14_floor01
+    3300014: room14_wall01
+    3300016: room15_floor01
+    3300018: room15_wall01
+    3300020: room16_floor01
+    3300022: room16_wall01
+    3300024: room17_floor01
+    3300026: room17_wall01
+    3300028: room18_floor01
+    3300030: room18_wall01
+    3300032: room19_floor01
+    3300034: room19_stairs01
+    3300036: room19_wall01
+    3300038: room20_floor01
+    3300040: room20_stairs01
+    3300042: room20_wall01
+    4300000: guide_Center135
+    4300002: rewardRoom01_wall01
+    4300004: rewardRoom02_floor01
+    4300006: rewardRoom02_wall01
+    4300008: room13_floor01
+    4300010: room14_Cross
+    4300012: room14_floor01
+    4300014: room14_wall01
+    4300016: room15_floor01
+    4300018: room15_wall01
+    4300020: room16_floor01
+    4300022: room16_wall01
+    4300024: room17_floor01
+    4300026: room17_wall01
+    4300028: room18_floor01
+    4300030: room18_wall01
+    4300032: room19_floor01
+    4300034: room19_wall01
+    4300036: room19_stairs01
+    4300038: room20_floor01
+    4300040: room20_wall01
+    4300042: room20_stairs01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

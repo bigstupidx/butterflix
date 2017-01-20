@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 0d17fdf56c1e8fb47a3ff3d382116af1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: polySurface10
+    100002: polySurface2055
+    100004: polySurface2068
+    100006: polySurface2076
+    100008: //RootNode
+    100010: Telescope_Base
+    100012: Telescope_Bracket
+    100014: Telescope_Lens
+    100016: Telescope_Push_01
+    100018: Telescope_Push_02
+    400000: polySurface10
+    400002: polySurface2055
+    400004: polySurface2068
+    400006: polySurface2076
+    400008: //RootNode
+    400010: Telescope_Base
+    400012: Telescope_Bracket
+    400014: Telescope_Lens
+    400016: Telescope_Push_01
+    400018: Telescope_Push_02
+    2300000: polySurface10
+    2300002: polySurface2055
+    2300004: polySurface2068
+    2300006: polySurface2076
+    2300008: Telescope_Base
+    2300010: Telescope_Bracket
+    2300012: Telescope_Lens
+    2300014: Telescope_Push_01
+    2300016: Telescope_Push_02
+    3300000: polySurface10
+    3300002: polySurface2055
+    3300004: polySurface2068
+    3300006: polySurface2076
+    3300008: Telescope_Base
+    3300010: Telescope_Bracket
+    3300012: Telescope_Lens
+    3300014: Telescope_Push_01
+    3300016: Telescope_Push_02
+    4300000: polySurface10
+    4300002: polySurface2055
+    4300004: polySurface2068
+    4300006: polySurface2076
+    4300008: Telescope_Bracket
+    4300010: Telescope_Push_01
+    4300012: Telescope_Push_02
+    4300014: Telescope_Base
+    4300016: Telescope_Lens
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

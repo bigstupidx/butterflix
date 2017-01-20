@@ -1,0 +1,354 @@
+<Row>
+</Row>
+<Row>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>ID(newline)</Data></Cell>
+	<Cell><Data>Fairy</Data></Cell>
+	<Cell><Data>Default</Data></Cell>
+	<Cell><Data>Cost</Data></Cell>
+	<Cell><Data>GuiTexture2D</Data></Cell>
+	<Cell><Data>PrefabName</Data></Cell>
+	<Cell><Data>GamePrefabName</Data></Cell>
+	<Cell><Data>State</Data></Cell>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0000</Data></Cell>
+	<Cell><Data>BLOOM</Data></Cell>
+	<Cell><Data>YES</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>guiBloomOutfit00-S6</Data></Cell>
+	<Cell><Data>pfbMenuBloomOutfit00-S6</Data></Cell>
+	<Cell><Data>pfbBloomOutfit00-S6</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0001</Data></Cell>
+	<Cell><Data>BLOOM</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiBloomOutfit01-Park</Data></Cell>
+	<Cell><Data>pfbMenuBloomOutfit01-Park</Data></Cell>
+	<Cell><Data>pfbBloomOutfit01-Park</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0002</Data></Cell>
+	<Cell><Data>BLOOM</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiBloomOutfit02-Time</Data></Cell>
+	<Cell><Data>pfbMenuBloomOutfit02-Time</Data></Cell>
+	<Cell><Data>pfbBloomOutfit02-Time</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0002b</Data></Cell>
+	<Cell><Data>BLOOM</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>guiBloomOutfit03-S7</Data></Cell>
+	<Cell><Data>pfbMenuBloomOutfit03-S7</Data></Cell>
+	<Cell><Data>pfbBloomOutfit03-S7</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0002c</Data></Cell>
+	<Cell><Data>BLOOM</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>guiBloomOutfit04-Concert</Data></Cell>
+	<Cell><Data>pfbMenuBloomOutfit04-Concert</Data></Cell>
+	<Cell><Data>pfbBloomOutfit04-Concert</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0003</Data></Cell>
+	<Cell><Data>STELLA</Data></Cell>
+	<Cell><Data>YES</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>guiStellaOutfit00-S6</Data></Cell>
+	<Cell><Data>pfbMenuStellaOutfit00-S6</Data></Cell>
+	<Cell><Data>pfbStellaOutfit00-S6</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0004</Data></Cell>
+	<Cell><Data>STELLA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiStellaOutfit01-Park</Data></Cell>
+	<Cell><Data>pfbMenuStellaOutfit01-Park</Data></Cell>
+	<Cell><Data>pfbStellaOutfit01-Park</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0005</Data></Cell>
+	<Cell><Data>STELLA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiStellaOutfit02-Time</Data></Cell>
+	<Cell><Data>pfbMenuStellaOutfit02-Time</Data></Cell>
+	<Cell><Data>pfbStellaOutfit02-Time</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0005b</Data></Cell>
+	<Cell><Data>STELLA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>guiStellaOutfit03-S7</Data></Cell>
+	<Cell><Data>pfbMenuStellaOutfit03-S7</Data></Cell>
+	<Cell><Data>pfbStellaOutfit03-S7</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0005c</Data></Cell>
+	<Cell><Data>STELLA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>guiStellaOutfit04-Concert</Data></Cell>
+	<Cell><Data>pfbMenuStellaOutfit04-Concert</Data></Cell>
+	<Cell><Data>pfbStellaOutfit04-Concert</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0006</Data></Cell>
+	<Cell><Data>FLORA</Data></Cell>
+	<Cell><Data>YES</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>guiFloraOutfit00-S6</Data></Cell>
+	<Cell><Data>pfbMenuFloraOutfit00-S6</Data></Cell>
+	<Cell><Data>pfbFloraOutfit00-S6</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0007</Data></Cell>
+	<Cell><Data>FLORA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiFloraOutfit01-Park</Data></Cell>
+	<Cell><Data>pfbMenuFloraOutfit01-Park</Data></Cell>
+	<Cell><Data>pfbFloraOutfit01-Park</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0008</Data></Cell>
+	<Cell><Data>FLORA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiFloraOutfit02-Time</Data></Cell>
+	<Cell><Data>pfbMenuFloraOutfit02-Time</Data></Cell>
+	<Cell><Data>pfbFloraOutfit02-Time</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0008b</Data></Cell>
+	<Cell><Data>FLORA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>guiFloraOutfit03-S7</Data></Cell>
+	<Cell><Data>pfbMenuFloraOutfit03-S7</Data></Cell>
+	<Cell><Data>pfbFloraOutfit03-S7</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0008c</Data></Cell>
+	<Cell><Data>FLORA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>guiFloraOutfit04-Concert</Data></Cell>
+	<Cell><Data>pfbMenuFloraOutfit04-Concert</Data></Cell>
+	<Cell><Data>pfbFloraOutfit04-Concert</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0009</Data></Cell>
+	<Cell><Data>MUSA</Data></Cell>
+	<Cell><Data>YES</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>guiMusaOutfit00-S6</Data></Cell>
+	<Cell><Data>pfbMenuMusaOutfit00-S6</Data></Cell>
+	<Cell><Data>pfbMusaOutfit00-S6</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0010</Data></Cell>
+	<Cell><Data>MUSA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiMusaOutfit01-Park</Data></Cell>
+	<Cell><Data>pfbMenuMusaOutfit01-Park</Data></Cell>
+	<Cell><Data>pfbMusaOutfit01-Park</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0011</Data></Cell>
+	<Cell><Data>MUSA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiMusaOutfit02-Time</Data></Cell>
+	<Cell><Data>pfbMenuMusaOutfit02-Time</Data></Cell>
+	<Cell><Data>pfbMusaOutfit02-Time</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0011b</Data></Cell>
+	<Cell><Data>MUSA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>guiMusaOutfit03-S7</Data></Cell>
+	<Cell><Data>pfbMenuMusaOutfit03-S7</Data></Cell>
+	<Cell><Data>pfbMusaOutfit03-S7</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0011c</Data></Cell>
+	<Cell><Data>MUSA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>guiMusaOutfit04-Concert</Data></Cell>
+	<Cell><Data>pfbMenuMusaOutfit04-Concert</Data></Cell>
+	<Cell><Data>pfbMusaOutfit04-Concert</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0012</Data></Cell>
+	<Cell><Data>TECNA</Data></Cell>
+	<Cell><Data>YES</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>guiTecnaOutfit00-S6</Data></Cell>
+	<Cell><Data>pfbMenuTecnaOutfit00-S6</Data></Cell>
+	<Cell><Data>pfbTecnaOutfit00-S6</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0013</Data></Cell>
+	<Cell><Data>TECNA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiTecnaOutfit01-Park</Data></Cell>
+	<Cell><Data>pfbMenuTecnaOutfit01-Park</Data></Cell>
+	<Cell><Data>pfbTecnaOutfit01-Park</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0014</Data></Cell>
+	<Cell><Data>TECNA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiTecnaOutfit02-Time</Data></Cell>
+	<Cell><Data>pfbMenuTecnaOutfit02-Time</Data></Cell>
+	<Cell><Data>pfbTecnaOutfit02-Time</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0014b</Data></Cell>
+	<Cell><Data>TECNA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>guiTecnaOutfit03-S7</Data></Cell>
+	<Cell><Data>pfbMenuTecnaOutfit03-S7</Data></Cell>
+	<Cell><Data>pfbTecnaOutfit03-S7</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0014c</Data></Cell>
+	<Cell><Data>TECNA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>50</Data></Cell>
+	<Cell><Data>guiTecnaOutfit04-Concert</Data></Cell>
+	<Cell><Data>pfbMenuTecnaOutfit04-Concert</Data></Cell>
+	<Cell><Data>pfbTecnaOutfit04-Concert</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0015</Data></Cell>
+	<Cell><Data>AISHA</Data></Cell>
+	<Cell><Data>YES</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>guiAishaOutfit00-S6</Data></Cell>
+	<Cell><Data>pfbMenuAishaOutfit00-S6</Data></Cell>
+	<Cell><Data>pfbAishaOutfit00-S6</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0016</Data></Cell>
+	<Cell><Data>AISHA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiAishaOutfit01-Park</Data></Cell>
+	<Cell><Data>pfbMenuAishaOutfit01-Park</Data></Cell>
+	<Cell><Data>pfbAishaOutfit01-Park</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0017</Data></Cell>
+	<Cell><Data>AISHA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiAishaOutfit02-Time</Data></Cell>
+	<Cell><Data>pfbMenuAishaOutfit02-Time</Data></Cell>
+	<Cell><Data>pfbAishaOutfit02-Time</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0017b</Data></Cell>
+	<Cell><Data>AISHA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiAishaOutfit03-S7</Data></Cell>
+	<Cell><Data>pfbMenuAishaOutfit03-S7</Data></Cell>
+	<Cell><Data>pfbAishaOutfit03-S7</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>OUTFIT_0017c</Data></Cell>
+	<Cell><Data>AISHA</Data></Cell>
+	<Cell><Data>NO</Data></Cell>
+	<Cell><Data>40</Data></Cell>
+	<Cell><Data>guiAishaOutfit04-Concert</Data></Cell>
+	<Cell><Data>pfbMenuAishaOutfit04-Concert</Data></Cell>
+	<Cell><Data>pfbAishaOutfit04-Concert</Data></Cell>
+	<Cell><Data>AVAILABLE</Data></Cell>
+</Row>
+</Table>
+</Workbook>

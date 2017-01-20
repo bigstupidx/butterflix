@@ -1,0 +1,546 @@
+<Row>
+</Row>
+<Row>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>Code</Data></Cell>
+	<Cell><Data>Max Character Count</Data></Cell>
+	<Cell><Data>Japanese</Data></Cell>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_BASICCHARSET</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CONFIRMATION</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_WARNING</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_ERROR</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_INFORMATION</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PLAYER</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_YES</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_NO</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_OK</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_KEY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_KEY_COLLECTED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_KEY_RED_GEMS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_KEY_100_GEMS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_8_RED_GEMS_COLLECTED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_100_GEMS_COLLECTED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_8_RED_GEMS_COLLECTED_SUB</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_100_GEMS_COLLECTED_SUB</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_INTRO_01</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_INTRO_02</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_INTRO_03</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_01</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_02</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_03</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_04</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYSCUFFED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYMINT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYSCUFFED_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYMINT_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BASICPACK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SUPERPACK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_MEGAPACK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_WINXMAGIC</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_WILDMAGIC</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_STANDARD</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BOOSTER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYPACK_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BOOSTER_PREVIEW</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SELLSCUFFED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SELLMINT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SELLSCUFFED_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SELLMINT_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_BLOOM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_STELLA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_FLORA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_MUSA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_TECNA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_AISHA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_UPGRADEFAIRY_TITLE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_UPGRADEFAIRY_DESC</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_REQUIREMENTS_TITLE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_UPGRADEFAIRY_LEVELUP</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE_TITLE_OUTFIT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE_DESC_OUTFIT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE_TITLE_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE_DESC_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_REGISTERING_NAME</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_NAME_REGISTERED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_NAME_ERROR</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_NAME_UNAVAILABLE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_LOGIN_FACEBOOK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_LOGIN_WITHOUTFACEBOOK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_LOGIN_FACEBOOK_INFO</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_LOGIN_DONT_HAVE_FACEBOOK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_CHOOSE_NAME</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FACEBOOK_REGISTERING</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FACEBOOK_REGISTERING_SUCCESS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FACEBOOK_REGISTERING_FAILURE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FACEBOOK_REGISTERING_GETUSERINFO</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FINDING_FAIRIES</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_RESTORE_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_RESTORING_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_RESTORING_FAIRY_SUCCESS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_RESTORING_FAIRY_FAILURE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>DOOR_INTERACT_KEY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>DOOR_INTERACT_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>DOOR_INTERACT_SWITCH</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>DOOR_INTERACT_BOSS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_SHARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_MUSIC</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_FX</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_QUALITY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_QUALITY_BEST</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_QUALITY_FASTEST</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_PROMOCODE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_CREDITS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_CREDITS_TEXT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_EXITROOM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_PROMOCODE_FAILURE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_PROMOCODE_SUCCESS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_REVIVE_REVIVE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_1</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_2</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_3</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_4</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_5</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_6</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_SHARE_TWITTER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_SHARE_FACEBOOK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_SHARE_FACEBOOK_LINK_NAME</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_SHARE_FACEBOOK_CAPTION</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>ERROR_NO_INTERNET</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TWITTER_SHARE_SUCCESS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>TWITTER_SHARE_FAILURE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell/>
+</Row>
+</Table>
+</Workbook>

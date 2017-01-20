@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: a6db893c6400f4d43a72e283db40d278
+timeCreated: 1435155882
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: IceBottomCorner01
+    100004: IceBottomCorner02
+    100006: IceFlatWall01
+    100008: IceFlatWall02
+    100010: IceTopCorner01
+    100012: IceTopCorner02
+    100014: IceLedge01
+    100016: IceLedge02
+    100018: IceMovingBlock
+    100020: IceLedge03
+    100022: IceBannistar01
+    100024: IceBannistar02
+    100026: IceBannistar03
+    100028: IceBannistar04
+    100030: IceLedge04
+    400000: //RootNode
+    400002: IceBottomCorner01
+    400004: IceBottomCorner02
+    400006: IceFlatWall01
+    400008: IceFlatWall02
+    400010: IceTopCorner01
+    400012: IceTopCorner02
+    400014: IceLedge01
+    400016: IceLedge02
+    400018: IceMovingBlock
+    400020: IceLedge03
+    400022: IceBannistar01
+    400024: IceBannistar02
+    400026: IceBannistar03
+    400028: IceBannistar04
+    400030: IceLedge04
+    2300000: //RootNode
+    2300002: IceBottomCorner01
+    2300004: IceBottomCorner02
+    2300006: IceFlatWall01
+    2300008: IceFlatWall02
+    2300010: IceTopCorner01
+    2300012: IceTopCorner02
+    2300014: IceLedge01
+    2300016: IceLedge02
+    2300018: IceMovingBlock
+    2300020: IceLedge03
+    2300022: IceBannistar01
+    2300024: IceBannistar02
+    2300026: IceBannistar03
+    2300028: IceBannistar04
+    2300030: IceLedge04
+    3300000: //RootNode
+    3300002: IceBottomCorner01
+    3300004: IceBottomCorner02
+    3300006: IceFlatWall01
+    3300008: IceFlatWall02
+    3300010: IceTopCorner01
+    3300012: IceTopCorner02
+    3300014: IceLedge01
+    3300016: IceLedge02
+    3300018: IceMovingBlock
+    3300020: IceLedge03
+    3300022: IceBannistar01
+    3300024: IceBannistar02
+    3300026: IceBannistar03
+    3300028: IceBannistar04
+    3300030: IceLedge04
+    4300000: Ice2
+    4300002: IceBottomCorner01
+    4300004: IceBottomCorner02
+    4300006: IceTopCorner01
+    4300008: IceTopCorner02
+    4300010: IceFlatWall01
+    4300012: IceFlatWall02
+    4300014: IceLedge01
+    4300016: IceLedge02
+    4300018: IceMovingBlock
+    4300020: IceLedge03
+    4300022: IceBannistar01
+    4300024: IceBannistar02
+    4300026: IceBannistar03
+    4300028: IceBannistar04
+    4300030: IceLedge04
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1 @@
+﻿public enum eChestType { SMALL = 0, MEDIUM, LARGE }

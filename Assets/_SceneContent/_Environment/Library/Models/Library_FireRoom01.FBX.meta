@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: b34c4079102758248b778e16e1c32c98
+timeCreated: 1434499893
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Lib03_Alcove
+    100002: Lib03_Arches
+    100004: Lib03_Ceilings
+    100006: Lib03_Concrete
+    100008: Lib03_Floor_StoneBrick
+    100010: Lib03_Misc
+    100012: Lib03_Rubble
+    100014: Lib03_Wall_BrickDark01
+    100016: //RootNode
+    100018: Lib03_Ceiling_BrownFlat
+    100020: Lib03_Library_Misc
+    100022: Lib03_LibraryCarpets
+    400000: Lib03_Alcove
+    400002: Lib03_Arches
+    400004: Lib03_Ceilings
+    400006: Lib03_Concrete
+    400008: Lib03_Floor_StoneBrick
+    400010: Lib03_Misc
+    400012: Lib03_Rubble
+    400014: Lib03_Wall_BrickDark01
+    400016: //RootNode
+    400018: Lib03_Ceiling_BrownFlat
+    400020: Lib03_Library_Misc
+    400022: Lib03_LibraryCarpets
+    2300000: Lib03_Alcove
+    2300002: Lib03_Arches
+    2300004: Lib03_Ceilings
+    2300006: Lib03_Concrete
+    2300008: Lib03_Floor_StoneBrick
+    2300010: Lib03_Misc
+    2300012: Lib03_Rubble
+    2300014: Lib03_Wall_BrickDark01
+    2300016: Lib03_Ceiling_BrownFlat
+    2300018: Lib03_Library_Misc
+    2300020: Lib03_LibraryCarpets
+    3300000: Lib03_Alcove
+    3300002: Lib03_Arches
+    3300004: Lib03_Ceilings
+    3300006: Lib03_Concrete
+    3300008: Lib03_Floor_StoneBrick
+    3300010: Lib03_Misc
+    3300012: Lib03_Rubble
+    3300014: Lib03_Wall_BrickDark01
+    3300016: Lib03_Ceiling_BrownFlat
+    3300018: Lib03_Library_Misc
+    3300020: Lib03_LibraryCarpets
+    4300000: Lib03_Rubble
+    4300002: Lib03_Concrete
+    4300004: Lib03_Arches
+    4300006: Lib03_Wall_BrickDark01
+    4300008: Lib03_Alcove
+    4300010: Lib03_Floor_StoneBrick
+    4300012: Lib03_Ceilings
+    4300014: Lib03_Misc
+    4300016: Lib03_Library_Misc
+    4300018: Lib03_LibraryCarpets
+    4300020: Lib03_Ceiling_BrownFlat
+    6400000: Lib03_Alcove
+    6400002: Lib03_Arches
+    6400004: Lib03_Ceilings
+    6400006: Lib03_Concrete
+    6400008: Lib03_Floor_StoneBrick
+    6400010: Lib03_Misc
+    6400012: Lib03_Rubble
+    6400014: Lib03_Wall_BrickDark01
+    6400016: Lib03_Ceiling_BrownFlat
+    6400018: Lib03_Library_Misc
+    6400020: Lib03_LibraryCarpets
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

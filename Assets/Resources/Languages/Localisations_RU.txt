@@ -1,0 +1,546 @@
+<Row>
+</Row>
+<Row>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>Code</Data></Cell>
+	<Cell><Data>Max Character Count</Data></Cell>
+	<Cell><Data>Russian</Data></Cell>
+</Row>
+<Row>
+	<Cell/>
+	<Cell/>
+	<Cell/>
+</Row>
+<Row>
+	<Cell><Data>POPUP_BASICCHARSET</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Empty</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CONFIRMATION</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>Подтвердить</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_WARNING</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>Предупреждение</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_ERROR</Data></Cell>
+	<Cell><Data>7</Data></Cell>
+	<Cell><Data>Ошибка</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_INFORMATION</Data></Cell>
+	<Cell><Data>11</Data></Cell>
+	<Cell><Data>Информация</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PLAYER</Data></Cell>
+	<Cell><Data>12</Data></Cell>
+	<Cell><Data>Игрок</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_YES</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>Да</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_NO</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>Нет</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_OK</Data></Cell>
+	<Cell><Data>5</Data></Cell>
+	<Cell><Data>OK</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_KEY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Ключ</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_KEY_COLLECTED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Получено!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_KEY_RED_GEMS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>красные камни</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_KEY_100_GEMS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>100 камней</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_8_RED_GEMS_COLLECTED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Красные самоцветы!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_100_GEMS_COLLECTED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Самоцветы!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_8_RED_GEMS_COLLECTED_SUB</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Ничего себе, вы собрали все 8 красных самоцветов!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_100_GEMS_COLLECTED_SUB</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Ничего себе, вы собрали все 100 самоцветов!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_INTRO_01</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Для перемещения используйте левый джойстик.</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_INTRO_02</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Чтобы перейти или использовать, нажмите кнопку действия.</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_INTRO_03</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Чтобы посмотреть вокруг, используйте правый джойстик.</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_01</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Брафилиус удирает! Быстрее, тебе нужно его остановить до того, как он захватит Алфею</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_02</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Быстро толкни блок. Нажми и удерживай кнопку "Рука", затем толкни вперед.</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_03</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Брафилиус направляется в самое сердце Алфеи! Быстрее, нажми "Стрелку", чтобы перепрыгнуть препятствие.</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TUTORIAL_04</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Брафилиус удрал! Собери участников Клуба Винкс, получи и используй Баттерфликс, чтобы его одолеть!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYSCUFFED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>купить старые</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYMINT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>купить премиум</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYSCUFFED_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Вы уверены, что хотите купить старую карту за (Price)?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYMINT_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Вы уверены, что хотите купить премиум карту за (Price)?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BASICPACK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Базовый пакет</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SUPERPACK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Супер пакет</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_MEGAPACK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Мега пакет</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_WINXMAGIC</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Винкс пакет</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_WILDMAGIC</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Дикая магия</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_STANDARD</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Стандарт</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BOOSTER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Бустер пакс</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BUYPACK_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Вы уверены, что хотите купить бустер пак за (Price)?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_BOOSTER_PREVIEW</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Бустер пак - предварительный просмотр ваших карт</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SELLSCUFFED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Продать старое</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SELLMINT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Продать премиум</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SELLSCUFFED_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Вы уверены, что хотите продать старую карту за (Price)?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TRADINGCARDS_SELLMINT_CONFIRM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Вы уверены, что хотите продать премиум карты за (Price)?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_BLOOM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Блум</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_STELLA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Стелла</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_FLORA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Флора</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_MUSA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Муза</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_TECNA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Текна</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYNAME_AISHA</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Аиша</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_UPGRADEFAIRY_TITLE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>ОБНОВЛЕНИЕ (FairyName)</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_UPGRADEFAIRY_DESC</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Улучшите ваши силы, чтобы попасть на новые уровни</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_REQUIREMENTS_TITLE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>ТРЕБОВАНИЯ</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_UPGRADEFAIRY_LEVELUP</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>ОБНОВЛЕНИЕ (Cost)</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE_TITLE_OUTFIT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>ПОЛУЧИТЬ НАРЯД?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE_DESC_OUTFIT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Вы уверены, что хотите купить этот наряд?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE_TITLE_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>ПОЛУЧИТЬ (FairyName)?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE_DESC_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Вы уверены, что хотите купить (FairyName)?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>BOUTIQUE_PURCHASE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Купить? (newline)(Cost)</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_REGISTERING_NAME</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Pixies регистрирует имя вашей феи</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_NAME_REGISTERED</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Имя вашей феи было успешно зарегестрированно</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_NAME_ERROR</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Имя вашей феи не принято. Пожалуйста, попробуйте еще.</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_NAME_UNAVAILABLE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Фея с таким именем уже существует, попробуйте другое имя.</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_LOGIN_FACEBOOK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Вход в Facebook</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_LOGIN_WITHOUTFACEBOOK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Не использовать Facebook</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_LOGIN_FACEBOOK_INFO</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Если вы не зайдете через Facebook, мы никогда не сможем перенести вашу игру на другое устройство. Вы уверены, что хотите начать игру без Facebook?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_LOGIN_DONT_HAVE_FACEBOOK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>У вас нет страницы в Facebook?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_CHOOSE_NAME</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Выберите имя феи</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FACEBOOK_REGISTERING</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Регистрация в Facebook</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FACEBOOK_REGISTERING_SUCCESS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Регистрация в Facebook прошла успешно</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FACEBOOK_REGISTERING_FAILURE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Не получилось зарегестрироваться в Facebook</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FACEBOOK_REGISTERING_GETUSERINFO</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Получить информацию пользователя Facebook</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_FINDING_FAIRIES</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Найти предыдущие имена фей</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_RESTORE_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Восстановить предыдущую фею</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_RESTORING_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Восстановление феи</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_RESTORING_FAIRY_SUCCESS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Восстановление феи прошло успешно!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>FAIRYREG_RESTORING_FAIRY_FAILURE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Нельзя восстановить фею</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DOOR_INTERACT_KEY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Вам нужно</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DOOR_INTERACT_FAIRY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Открыто с</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DOOR_INTERACT_SWITCH</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Открыто с</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>DOOR_INTERACT_BOSS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Вам нужно</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_SHARE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>ПОДЕЛИТЬСЯ</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_MUSIC</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Музыка</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_FX</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>мелодия</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_QUALITY</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Качество</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_QUALITY_BEST</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Лучшее</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_QUALITY_FASTEST</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Быстрое</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_PROMOCODE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Ввести промо-код</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_CREDITS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>кредиты</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_CREDITS_TEXT</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Thanks For Making (newline)It All Possible(newline)Rainbow Srl CEO & (newline)Winx Club Creator(newline)(newline)Iginio Straffi(newline)(newline)(newline)(newline)Exec Producer(newline)Graeme Harvey(newline)(newline)(newline)Producers(newline)Tsumanga Studios(newline)Catherine Tang(newline)(newline)EM Studios(newline)Bobby Farmer(newline)(newline)Rainbow Srl(newline)Serena Bussotti(newline)Maurizio DeAngelis(newline)(newline)Game Design(newline)(newline)Tsumanga Studios(newline)Malik Fernandez(newline)Gary MacAllister(newline)(newline)EM Studios(newline)Bobby Farmer(newline)Stuart Henderson(newline)(newline)(newline)Story & Dialogue(newline)Tsumanga Studios(newline)Malik Fernandez(newline)Gary MacAllister(newline)(newline)(newline)Art(newline)(newline)Tsumanga Studios(newline)(newline)Art Direction & UX(newline)Malik Fernandez(newline)Gary MacAllister(newline)Spencer Hill(newline)(newline)3D Modelling and Animation(newline)Spencer Hill(newline)Malik Fernandez(newline)Johnathan Phillips(newline)Heather Jackson(newline)(newline)2D Art(newline)Gary MacAllister(newline)Spencer Hill(newline)Tone Julskjaer(newline)Heather Jackson(newline)Jack Finnie(newline)(newline)EM Studios(newline)(newline)(newline)Environmental Modelling and UX(newline)(newline)Craig Gardiner(newline)Patrick Vince(newline)Kenny Swanston(newline)Hayley White(newline)(newline)Head of Art(newline)(newline)Craig Gardiner(newline)(newline)(newline)Programming(newline)(newline)(newline)EM Studios(newline)Game Programming(newline)(newline)Stuart Henderson(newline)Tony McBride(newline)(newline)(newline)Marketing Tsumanga UK(newline)(newline)Graeme Harvey(newline)Catherine Tang(newline)(newline)Marketing Rainbow Srl(newline)(newline)Cristiana Buzzelli(newline)Silvia Conti(newline)Lorena Vaccari?(newline)Simona Pistola(newline)(newline)(newline)Localisation(newline)Rainbow(newline)Gengo(newline)(newline)(newline)QA(newline)(newline)Testology(newline)(newline)(newline)Special Thanks(newline)(newline)Yerzhan Tungunshbaev(newline)David Herbada(newline)Everyone at Rainbow S.r.l(newline)Scottish Enterprise(newline)Glasgow City Council(newline)Abby Primary School(newline)Mrs McGowan(newline)Winx Club TM (c) 2003-2015 Rainbow Srl. (newline)All Rights Reserved(newline)(newline)Special Thank you to all our Beta testers(newline)(newline)EnchantixGermany(newline)Winx Club Rus(newline)Winx Club All(newline)Emily(newline)Manal(newline)Alex(newline)Winx Club magical(newline)Kristana(newline)David Gary(newline)Oxery Silver(newline)Valory Pierce</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_EXITROOM</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Покинуть комнату?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_PROMOCODE_FAILURE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Код не принят!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_PAUSE_PROMOCODE_SUCCESS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Код принят!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_REVIVE_REVIVE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>ОЖИВИТЬ?</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_1</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>уникальный</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_2</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Очень редкий</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_3</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>редкий</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_4</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>общий</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_5</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Очень распространен</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_CARDRARITY_6</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>учитель</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_SHARE_TWITTER</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Численность моего населения только что достигла (population) как (fairy)</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_SHARE_FACEBOOK</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Численность моего населения только что достигла (population) как (fairy)</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_SHARE_FACEBOOK_LINK_NAME</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Alfea Butterflix Adventures</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>POPUP_SHARE_FACEBOOK_CAPTION</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Новый рекорд!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>ERROR_NO_INTERNET</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Вы должны быть подключены к интернету, чтобы использовать эту функцию.</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TWITTER_SHARE_SUCCESS</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Вы поделились своими результатами в Твиттере!</Data></Cell>
+</Row>
+<Row>
+	<Cell><Data>TWITTER_SHARE_FAILURE</Data></Cell>
+	<Cell><Data>0</Data></Cell>
+	<Cell><Data>Вы не смогли поделиться своими результатами в Твиттере!</Data></Cell>
+</Row>
+</Table>
+</Workbook>

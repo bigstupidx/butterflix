@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: fb97ffc0d3beced4da38d19a1dbdb746
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Evil_Plant:EP_Leaf_L_01
+    100002: Evil_Plant:EP_Leaf_L_02
+    100004: Evil_Plant:EP_Leaf_L_03
+    100006: Evil_Plant:EP_Leaf_L_End
+    100008: Evil_Plant:EP_Leaf_R_01
+    100010: Evil_Plant:EP_Leaf_R_02
+    100012: Evil_Plant:EP_Leaf_R_03
+    100014: Evil_Plant:EP_Leaf_R_End
+    100016: Evil_Plant:EP_Mouth_Lower_01
+    100018: Evil_Plant:EP_Mouth_Lower_02
+    100020: Evil_Plant:EP_Mouth_Lower_03
+    100022: Evil_Plant:EP_Mouth_Lower_End
+    100024: Evil_Plant:EP_Mouth_Upper_01
+    100026: Evil_Plant:EP_Mouth_Upper_02
+    100028: Evil_Plant:EP_Mouth_Upper_03
+    100030: Evil_Plant:EP_Mouth_Upper_End
+    100032: Evil_Plant:EP_Neck_01
+    100034: Evil_Plant:EP_Spine_01
+    100036: Evil_Plant:EP_Spine_02
+    100038: Evil_Plant:EP_Spine_03
+    100040: Evil_Plant:EP_Spine_04
+    100042: Evil_Plant:EP_Spine_05
+    100044: Evil_Plant:EP_Spine_06
+    100046: Evil_Plant:EP_Spine_Base
+    100048: //RootNode
+    100050: Flower_Stalk
+    400000: Evil_Plant:EP_Leaf_L_01
+    400002: Evil_Plant:EP_Leaf_L_02
+    400004: Evil_Plant:EP_Leaf_L_03
+    400006: Evil_Plant:EP_Leaf_L_End
+    400008: Evil_Plant:EP_Leaf_R_01
+    400010: Evil_Plant:EP_Leaf_R_02
+    400012: Evil_Plant:EP_Leaf_R_03
+    400014: Evil_Plant:EP_Leaf_R_End
+    400016: Evil_Plant:EP_Mouth_Lower_01
+    400018: Evil_Plant:EP_Mouth_Lower_02
+    400020: Evil_Plant:EP_Mouth_Lower_03
+    400022: Evil_Plant:EP_Mouth_Lower_End
+    400024: Evil_Plant:EP_Mouth_Upper_01
+    400026: Evil_Plant:EP_Mouth_Upper_02
+    400028: Evil_Plant:EP_Mouth_Upper_03
+    400030: Evil_Plant:EP_Mouth_Upper_End
+    400032: Evil_Plant:EP_Neck_01
+    400034: Evil_Plant:EP_Spine_01
+    400036: Evil_Plant:EP_Spine_02
+    400038: Evil_Plant:EP_Spine_03
+    400040: Evil_Plant:EP_Spine_04
+    400042: Evil_Plant:EP_Spine_05
+    400044: Evil_Plant:EP_Spine_06
+    400046: Evil_Plant:EP_Spine_Base
+    400048: //RootNode
+    400050: Flower_Stalk
+    4300000: Flower_Stalk
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Flower_Stalk
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

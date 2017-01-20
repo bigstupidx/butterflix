@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 9f97a70949f680143ae14b9bfdfe77ea
+timeCreated: 1439200063
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ceiling
+    100002: //RootNode
+    100004: pCylinder1
+    100006: polySurface4680
+    100008: polySurface4690
+    100010: polySurface4692
+    100012: polySurface4693
+    100014: polySurface4700
+    100016: Potion_Room_Floor
+    100018: beams_potions
+    100020: Ceiling_potions
+    100022: floor_potions
+    100024: walls_potions
+    100026: ceilingPanel_potions
+    400000: Ceiling
+    400002: //RootNode
+    400004: pCylinder1
+    400006: polySurface4680
+    400008: polySurface4690
+    400010: polySurface4692
+    400012: polySurface4693
+    400014: polySurface4700
+    400016: Potion_Room_Floor
+    400018: beams_potions
+    400020: Ceiling_potions
+    400022: floor_potions
+    400024: walls_potions
+    400026: ceilingPanel_potions
+    2300000: Ceiling
+    2300002: polySurface4690
+    2300004: polySurface4693
+    2300006: polySurface4700
+    2300008: Potion_Room_Floor
+    2300010: beams_potions
+    2300012: Ceiling_potions
+    2300014: floor_potions
+    2300016: walls_potions
+    2300018: ceilingPanel_potions
+    3300000: Ceiling
+    3300002: polySurface4690
+    3300004: polySurface4693
+    3300006: polySurface4700
+    3300008: Potion_Room_Floor
+    3300010: beams_potions
+    3300012: Ceiling_potions
+    3300014: floor_potions
+    3300016: walls_potions
+    3300018: ceilingPanel_potions
+    4300000: Ceiling
+    4300002: polySurface4700
+    4300004: polySurface4693
+    4300006: polySurface4690
+    4300008: Potion_Room_Floor
+    4300010: Ceiling_potions
+    4300012: walls_potions
+    4300014: beams_potions
+    4300016: floor_potions
+    4300018: ceilingPanel_potions
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

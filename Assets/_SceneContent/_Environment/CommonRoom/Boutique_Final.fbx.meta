@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: e944b0f9e2d42f74f91e2289c9804597
+timeCreated: 1436797078
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Boutique_All
+    100002: //RootNode
+    100004: Boutique_TopCurtain
+    100006: Boutique_Windows_Banners
+    100008: Clothes_1
+    100010: Clothes_2
+    100012: Clothes_3
+    100014: Clothes_4
+    100016: Boutique_Butterfly_Shapes
+    100018: Boutique_Curtains
+    100020: Boutique_Floor
+    100022: Boutique_Lights
+    100024: Boutique_Lights_Bracket
+    100026: Boutique_Rigging
+    100028: Boutique_Walls
+    400000: Boutique_All
+    400002: //RootNode
+    400004: Boutique_TopCurtain
+    400006: Boutique_Windows_Banners
+    400008: Clothes_1
+    400010: Clothes_2
+    400012: Clothes_3
+    400014: Clothes_4
+    400016: Boutique_Butterfly_Shapes
+    400018: Boutique_Curtains
+    400020: Boutique_Floor
+    400022: Boutique_Lights
+    400024: Boutique_Lights_Bracket
+    400026: Boutique_Rigging
+    400028: Boutique_Walls
+    2300000: Boutique_All
+    2300002: Boutique_TopCurtain
+    2300004: Boutique_Windows_Banners
+    2300006: Clothes_1
+    2300008: Clothes_2
+    2300010: Clothes_3
+    2300012: Clothes_4
+    2300014: Boutique_Butterfly_Shapes
+    2300016: Boutique_Curtains
+    2300018: Boutique_Floor
+    2300020: Boutique_Lights
+    2300022: Boutique_Lights_Bracket
+    2300024: Boutique_Rigging
+    2300026: Boutique_Walls
+    3300000: Boutique_All
+    3300002: Boutique_TopCurtain
+    3300004: Boutique_Windows_Banners
+    3300006: Clothes_1
+    3300008: Clothes_2
+    3300010: Clothes_3
+    3300012: Clothes_4
+    3300014: Boutique_Butterfly_Shapes
+    3300016: Boutique_Curtains
+    3300018: Boutique_Floor
+    3300020: Boutique_Lights
+    3300022: Boutique_Lights_Bracket
+    3300024: Boutique_Rigging
+    3300026: Boutique_Walls
+    4300000: Clothes_4
+    4300002: Clothes_3
+    4300004: Clothes_2
+    4300006: Clothes_1
+    4300008: Boutique_All
+    4300010: Boutique_TopCurtain
+    4300012: Boutique_Windows_Banners
+    4300014: Boutique_Rigging
+    4300016: Boutique_Lights
+    4300018: Boutique_Walls
+    4300020: Boutique_Butterfly_Shapes
+    4300022: Boutique_Floor
+    4300024: Boutique_Curtains
+    4300026: Boutique_Lights_Bracket
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

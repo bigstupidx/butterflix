@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: d829407f36190a14a8e5f55f3cf84111
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: SC_Ankle01_bn_R1
+    100002: SC_Ankle01_bn_R2
+    100004: SC_Ankle02_bn_R
+    100006: SC_Ankle02_bn_R 1
+    100008: SC_AnkleB_bn_L
+    100010: SC_AnkleB_bn_R
+    100012: SC_Clav_L
+    100014: SC_Clav_R
+    100016: SC_Elbow_bn_L
+    100018: SC_Elbow_bn_R
+    100020: SC_Foot_bn_L
+    100022: SC_Foot_bn_R
+    100024: SC_Head_bn
+    100026: SC_HindToe_be_L
+    100028: SC_HindToe_be_R
+    100030: SC_Hip_bn_L
+    100032: SC_Hip_bn_R
+    100034: SC_Jaw_bn
+    100036: SC_Knee_bn_L
+    100038: SC_Knee_bn_R
+    100040: SC_Neck_bn
+    100042: SC_Shoulder_bn_L
+    100044: SC_Shoulder_bn_R
+    100046: SC_Spine_01_bn
+    100048: SC_Spine_02_bn
+    100050: SC_Toe_be_R
+    100052: SC_Toe_be_R 1
+    100054: SC_Toe_bn_R
+    100056: SC_Toe_bn_R 1
+    100058: SC_Waist_bn
+    100060: ShadowCreature_01
+    100062: //RootNode
+    400000: SC_Ankle01_bn_R1
+    400002: SC_Ankle01_bn_R2
+    400004: SC_Ankle02_bn_R
+    400006: SC_Ankle02_bn_R 1
+    400008: SC_AnkleB_bn_L
+    400010: SC_AnkleB_bn_R
+    400012: SC_Clav_L
+    400014: SC_Clav_R
+    400016: SC_Elbow_bn_L
+    400018: SC_Elbow_bn_R
+    400020: SC_Foot_bn_L
+    400022: SC_Foot_bn_R
+    400024: SC_Head_bn
+    400026: SC_HindToe_be_L
+    400028: SC_HindToe_be_R
+    400030: SC_Hip_bn_L
+    400032: SC_Hip_bn_R
+    400034: SC_Jaw_bn
+    400036: SC_Knee_bn_L
+    400038: SC_Knee_bn_R
+    400040: SC_Neck_bn
+    400042: SC_Shoulder_bn_L
+    400044: SC_Shoulder_bn_R
+    400046: SC_Spine_01_bn
+    400048: SC_Spine_02_bn
+    400050: SC_Toe_be_R
+    400052: SC_Toe_be_R 1
+    400054: SC_Toe_bn_R
+    400056: SC_Toe_bn_R 1
+    400058: SC_Waist_bn
+    400060: ShadowCreature_01
+    400062: //RootNode
+    4300000: ShadowCreature_01
+    7400000: Damage
+    7400002: Death
+    9500000: //RootNode
+    13700000: ShadowCreature_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Damage
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SC_Waist_bn
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_L/SC_Knee_bn_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_L/SC_Knee_bn_L/SC_AnkleB_bn_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_L/SC_Knee_bn_L/SC_AnkleB_bn_L/SC_Foot_bn_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_L/SC_Knee_bn_L/SC_AnkleB_bn_L/SC_Foot_bn_L/SC_HindToe_be_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_R/SC_Knee_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_R/SC_Knee_bn_R/SC_AnkleB_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_R/SC_Knee_bn_R/SC_AnkleB_bn_R/SC_Foot_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_R/SC_Knee_bn_R/SC_AnkleB_bn_R/SC_Foot_bn_R/SC_HindToe_be_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L/SC_Shoulder_bn_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L/SC_Shoulder_bn_L/SC_Elbow_bn_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L/SC_Shoulder_bn_L/SC_Elbow_bn_L/SC_Ankle01_bn_R1
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L/SC_Shoulder_bn_L/SC_Elbow_bn_L/SC_Ankle01_bn_R1/SC_Ankle02_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L/SC_Shoulder_bn_L/SC_Elbow_bn_L/SC_Ankle01_bn_R1/SC_Ankle02_bn_R/SC_Toe_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L/SC_Shoulder_bn_L/SC_Elbow_bn_L/SC_Ankle01_bn_R1/SC_Ankle02_bn_R/SC_Toe_bn_R/SC_Toe_be_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R/SC_Shoulder_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R/SC_Shoulder_bn_R/SC_Elbow_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R/SC_Shoulder_bn_R/SC_Elbow_bn_R/SC_Ankle01_bn_R2
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R/SC_Shoulder_bn_R/SC_Elbow_bn_R/SC_Ankle01_bn_R2/SC_Ankle02_bn_R
+          1
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R/SC_Shoulder_bn_R/SC_Elbow_bn_R/SC_Ankle01_bn_R2/SC_Ankle02_bn_R
+          1/SC_Toe_bn_R 1
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R/SC_Shoulder_bn_R/SC_Elbow_bn_R/SC_Ankle01_bn_R2/SC_Ankle02_bn_R
+          1/SC_Toe_bn_R 1/SC_Toe_be_R 1
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Neck_bn
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Neck_bn/SC_Head_bn
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Neck_bn/SC_Jaw_bn
+        weight: 1
+      - path: ShadowCreature_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SC_Waist_bn
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_L/SC_Knee_bn_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_L/SC_Knee_bn_L/SC_AnkleB_bn_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_L/SC_Knee_bn_L/SC_AnkleB_bn_L/SC_Foot_bn_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_L/SC_Knee_bn_L/SC_AnkleB_bn_L/SC_Foot_bn_L/SC_HindToe_be_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_R/SC_Knee_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_R/SC_Knee_bn_R/SC_AnkleB_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_R/SC_Knee_bn_R/SC_AnkleB_bn_R/SC_Foot_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Hip_bn_R/SC_Knee_bn_R/SC_AnkleB_bn_R/SC_Foot_bn_R/SC_HindToe_be_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L/SC_Shoulder_bn_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L/SC_Shoulder_bn_L/SC_Elbow_bn_L
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L/SC_Shoulder_bn_L/SC_Elbow_bn_L/SC_Ankle01_bn_R1
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L/SC_Shoulder_bn_L/SC_Elbow_bn_L/SC_Ankle01_bn_R1/SC_Ankle02_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L/SC_Shoulder_bn_L/SC_Elbow_bn_L/SC_Ankle01_bn_R1/SC_Ankle02_bn_R/SC_Toe_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_L/SC_Shoulder_bn_L/SC_Elbow_bn_L/SC_Ankle01_bn_R1/SC_Ankle02_bn_R/SC_Toe_bn_R/SC_Toe_be_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R/SC_Shoulder_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R/SC_Shoulder_bn_R/SC_Elbow_bn_R
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R/SC_Shoulder_bn_R/SC_Elbow_bn_R/SC_Ankle01_bn_R2
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R/SC_Shoulder_bn_R/SC_Elbow_bn_R/SC_Ankle01_bn_R2/SC_Ankle02_bn_R
+          1
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R/SC_Shoulder_bn_R/SC_Elbow_bn_R/SC_Ankle01_bn_R2/SC_Ankle02_bn_R
+          1/SC_Toe_bn_R 1
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Clav_R/SC_Shoulder_bn_R/SC_Elbow_bn_R/SC_Ankle01_bn_R2/SC_Ankle02_bn_R
+          1/SC_Toe_bn_R 1/SC_Toe_be_R 1
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Neck_bn
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Neck_bn/SC_Head_bn
+        weight: 1
+      - path: SC_Waist_bn/SC_Spine_01_bn/SC_Spine_02_bn/SC_Neck_bn/SC_Jaw_bn
+        weight: 1
+      - path: ShadowCreature_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d527704210011f340b42e48852b301d8,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 

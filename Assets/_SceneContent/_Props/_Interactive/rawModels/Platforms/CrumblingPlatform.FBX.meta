@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: fad570042256e3644acc445d1fc24bb6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Chunk01
+    100002: Chunk02
+    100004: Chunk03
+    100006: Chunk04
+    100008: Chunk05
+    100010: Chunk06
+    100012: //RootNode
+    100014: Slab01
+    100016: Slab02
+    100018: Slab03
+    100020: Slab04
+    400000: Chunk01
+    400002: Chunk02
+    400004: Chunk03
+    400006: Chunk04
+    400008: Chunk05
+    400010: Chunk06
+    400012: //RootNode
+    400014: Slab01
+    400016: Slab02
+    400018: Slab03
+    400020: Slab04
+    2300000: Chunk01
+    2300002: Chunk02
+    2300004: Chunk03
+    2300006: Chunk04
+    2300008: Chunk05
+    2300010: Chunk06
+    2300012: Slab01
+    2300014: Slab02
+    2300016: Slab03
+    2300018: Slab04
+    3300000: Chunk01
+    3300002: Chunk02
+    3300004: Chunk03
+    3300006: Chunk04
+    3300008: Chunk05
+    3300010: Chunk06
+    3300012: Slab01
+    3300014: Slab02
+    3300016: Slab03
+    3300018: Slab04
+    4300000: Slab01
+    4300002: Slab02
+    4300004: Slab04
+    4300006: Slab03
+    4300008: Chunk02
+    4300010: Chunk01
+    4300012: Chunk04
+    4300014: Chunk03
+    4300016: Chunk06
+    4300018: Chunk05
+    7400000: Static
+    7400002: BreakUp
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Static
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Chunk01
+        weight: 1
+      - path: Chunk02
+        weight: 1
+      - path: Chunk03
+        weight: 1
+      - path: Chunk04
+        weight: 1
+      - path: Chunk05
+        weight: 1
+      - path: Chunk06
+        weight: 1
+      - path: Slab01
+        weight: 1
+      - path: Slab02
+        weight: 1
+      - path: Slab03
+        weight: 1
+      - path: Slab04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BreakUp
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Chunk01
+        weight: 1
+      - path: Chunk02
+        weight: 1
+      - path: Chunk03
+        weight: 1
+      - path: Chunk04
+        weight: 1
+      - path: Chunk05
+        weight: 1
+      - path: Chunk06
+        weight: 1
+      - path: Slab01
+        weight: 1
+      - path: Slab02
+        weight: 1
+      - path: Slab03
+        weight: 1
+      - path: Slab04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .75
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

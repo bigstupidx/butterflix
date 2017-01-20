@@ -1,0 +1,1618 @@
+fileFormatVersion: 2
+guid: d46296c0e4964e147aefb6822a3ab320
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LEarNode
+    100004: LWristNode
+    100006: NeckNode
+    100008: NoseNode
+    100010: REarNode
+    100012: RWristNode
+    100014: WINX
+    100016: WINXBrowL
+    100018: WINXBrowMid
+    100020: WINXBrowR
+    100022: WINXFace
+    100024: WINXHairRoot
+    100026: WINXHead
+    100028: WINXJaw
+    100030: WINXL_Ptail1
+    100032: WINXL_Ptail2
+    100034: WINXL_Ptail3
+    100036: WINXL_Ptail4
+    100038: WINXL_Ptail5
+    100040: WINXLArm1
+    100042: WINXLArm2
+    100044: WINXLArmCollarbone
+    100046: WINXLArmIKTarget
+    100048: WINXLArmLIndex1
+    100050: WINXLArmLIndex2
+    100052: WINXLArmLIndex3
+    100054: WINXLArmLMid1
+    100056: WINXLArmLMid2
+    100058: WINXLArmLMid3
+    100060: WINXLArmLPinky1
+    100062: WINXLArmLPinky2
+    100064: WINXLArmLPinky3
+    100066: WINXLArmLRing1
+    100068: WINXLArmLRing2
+    100070: WINXLArmLRing3
+    100072: WINXLArmLThumb1
+    100074: WINXLArmLThumb2
+    100076: WINXLArmLThumb3
+    100078: WINXLArmPalm
+    100080: WINXLBangle1
+    100082: WINXLBangle2
+    100084: WINXLBangle3
+    100086: WINXLBangle4
+    100088: WINXLEye
+    100090: WINXLEye01
+    100092: WINXLEye02
+    100094: WINXLLegAnkle
+    100096: WINXLLegCalf
+    100098: WINXLLegFoot1
+    100100: WINXLLegFootToes
+    100102: WINXLLegPlatform
+    100104: WINXLLegThigh
+    100106: WINXLProp1
+    100108: WINXLProp2
+    100110: WINXLProp3
+    100112: WINXMidBangle1
+    100114: WINXMidBangle2
+    100116: WINXMidBangle3
+    100118: WINXMouthBot
+    100120: WINXMouthLBot
+    100122: WINXMouthLTop
+    100124: WINXMouthRBot
+    100126: WINXMouthRTop
+    100128: WINXMouthTop
+    100130: WINXNeck
+    100132: WINXNose
+    100134: WINXPelvis
+    100136: WINXPTail1
+    100138: WINXPTail2
+    100140: WINXPTail3
+    100142: WINXPTail4
+    100144: WINXPTail5
+    100146: WINXPTail6
+    100148: WINXR_Ptail1
+    100150: WINXR_Ptail2
+    100152: WINXR_Ptail3
+    100154: WINXR_Ptail4
+    100156: WINXR_Ptail5
+    100158: WINXRArm1
+    100160: WINXRArm2
+    100162: WINXRArmCollarbone
+    100164: WINXRArmIKTarget
+    100166: WINXRArmPalm
+    100168: WINXRArmRIndex1
+    100170: WINXRArmRIndex2
+    100172: WINXRArmRIndex3
+    100174: WINXRArmRMid1
+    100176: WINXRArmRMid2
+    100178: WINXRArmRMid3
+    100180: WINXRArmRPinky1
+    100182: WINXRArmRPinky2
+    100184: WINXRArmRPinky3
+    100186: WINXRArmRRing1
+    100188: WINXRArmRRing2
+    100190: WINXRArmRRing3
+    100192: WINXRArmRThumb1
+    100194: WINXRArmRThumb2
+    100196: WINXRArmRThumb3
+    100198: WINXRBangle1
+    100200: WINXRBangle2
+    100202: WINXRBangle3
+    100204: WINXRBangle4
+    100206: WINXREye
+    100208: WINXREye01
+    100210: WINXREye02
+    100212: WINXRLegAnkle
+    100214: WINXRLegCalf
+    100216: WINXRLegFoot1
+    100218: WINXRLegFootToes
+    100220: WINXRLegPlatform
+    100222: WINXRLegThigh
+    100224: WINXRProp1
+    100226: WINXRProp2
+    100228: WINXRProp3
+    100230: WINXShoulders
+    100232: WINXSpineHips
+    100234: WINXSpineMid
+    100236: WINXSpineRibs
+    400000: //RootNode
+    400002: LEarNode
+    400004: LWristNode
+    400006: NeckNode
+    400008: NoseNode
+    400010: REarNode
+    400012: RWristNode
+    400014: WINX
+    400016: WINXBrowL
+    400018: WINXBrowMid
+    400020: WINXBrowR
+    400022: WINXFace
+    400024: WINXHairRoot
+    400026: WINXHead
+    400028: WINXJaw
+    400030: WINXL_Ptail1
+    400032: WINXL_Ptail2
+    400034: WINXL_Ptail3
+    400036: WINXL_Ptail4
+    400038: WINXL_Ptail5
+    400040: WINXLArm1
+    400042: WINXLArm2
+    400044: WINXLArmCollarbone
+    400046: WINXLArmIKTarget
+    400048: WINXLArmLIndex1
+    400050: WINXLArmLIndex2
+    400052: WINXLArmLIndex3
+    400054: WINXLArmLMid1
+    400056: WINXLArmLMid2
+    400058: WINXLArmLMid3
+    400060: WINXLArmLPinky1
+    400062: WINXLArmLPinky2
+    400064: WINXLArmLPinky3
+    400066: WINXLArmLRing1
+    400068: WINXLArmLRing2
+    400070: WINXLArmLRing3
+    400072: WINXLArmLThumb1
+    400074: WINXLArmLThumb2
+    400076: WINXLArmLThumb3
+    400078: WINXLArmPalm
+    400080: WINXLBangle1
+    400082: WINXLBangle2
+    400084: WINXLBangle3
+    400086: WINXLBangle4
+    400088: WINXLEye
+    400090: WINXLEye01
+    400092: WINXLEye02
+    400094: WINXLLegAnkle
+    400096: WINXLLegCalf
+    400098: WINXLLegFoot1
+    400100: WINXLLegFootToes
+    400102: WINXLLegPlatform
+    400104: WINXLLegThigh
+    400106: WINXLProp1
+    400108: WINXLProp2
+    400110: WINXLProp3
+    400112: WINXMidBangle1
+    400114: WINXMidBangle2
+    400116: WINXMidBangle3
+    400118: WINXMouthBot
+    400120: WINXMouthLBot
+    400122: WINXMouthLTop
+    400124: WINXMouthRBot
+    400126: WINXMouthRTop
+    400128: WINXMouthTop
+    400130: WINXNeck
+    400132: WINXNose
+    400134: WINXPelvis
+    400136: WINXPTail1
+    400138: WINXPTail2
+    400140: WINXPTail3
+    400142: WINXPTail4
+    400144: WINXPTail5
+    400146: WINXPTail6
+    400148: WINXR_Ptail1
+    400150: WINXR_Ptail2
+    400152: WINXR_Ptail3
+    400154: WINXR_Ptail4
+    400156: WINXR_Ptail5
+    400158: WINXRArm1
+    400160: WINXRArm2
+    400162: WINXRArmCollarbone
+    400164: WINXRArmIKTarget
+    400166: WINXRArmPalm
+    400168: WINXRArmRIndex1
+    400170: WINXRArmRIndex2
+    400172: WINXRArmRIndex3
+    400174: WINXRArmRMid1
+    400176: WINXRArmRMid2
+    400178: WINXRArmRMid3
+    400180: WINXRArmRPinky1
+    400182: WINXRArmRPinky2
+    400184: WINXRArmRPinky3
+    400186: WINXRArmRRing1
+    400188: WINXRArmRRing2
+    400190: WINXRArmRRing3
+    400192: WINXRArmRThumb1
+    400194: WINXRArmRThumb2
+    400196: WINXRArmRThumb3
+    400198: WINXRBangle1
+    400200: WINXRBangle2
+    400202: WINXRBangle3
+    400204: WINXRBangle4
+    400206: WINXREye
+    400208: WINXREye01
+    400210: WINXREye02
+    400212: WINXRLegAnkle
+    400214: WINXRLegCalf
+    400216: WINXRLegFoot1
+    400218: WINXRLegFootToes
+    400220: WINXRLegPlatform
+    400222: WINXRLegThigh
+    400224: WINXRProp1
+    400226: WINXRProp2
+    400228: WINXRProp3
+    400230: WINXShoulders
+    400232: WINXSpineHips
+    400234: WINXSpineMid
+    400236: WINXSpineRibs
+    7400000: Jump
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 'MuscleClip ''Fairy_JumpNew'' conversion warning: ''WINXPelvis/WINXSpineHips''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''Fairy_JumpNew'' conversion warning: ''WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''Fairy_JumpNew'' conversion warning: ''WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2''
+      has scale animation''. It is not supported.
+
+      MuscleClip ''Fairy_JumpNew'' conversion warning: ''WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm''
+      has scale animation''. It is not supported.
+
+      MuscleClip ''Fairy_JumpNew'' conversion warning: ''WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRThumb1''
+      has scale animation''. It is not supported.
+
+'
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: WINX
+        weight: 0
+      - path: WINXLArmIKTarget
+        weight: 0
+      - path: WINXLLegPlatform
+        weight: 0
+      - path: WINXPelvis
+        weight: 1
+      - path: WINXPelvis/WINXLLegThigh
+        weight: 1
+      - path: WINXPelvis/WINXLLegThigh/WINXLLegCalf
+        weight: 1
+      - path: WINXPelvis/WINXLLegThigh/WINXLLegCalf/WINXLLegAnkle
+        weight: 1
+      - path: WINXPelvis/WINXLLegThigh/WINXLLegCalf/WINXLLegAnkle/WINXLLegFoot1
+        weight: 1
+      - path: WINXPelvis/WINXLLegThigh/WINXLLegCalf/WINXLLegAnkle/WINXLLegFoot1/WINXLLegFootToes
+        weight: 1
+      - path: WINXPelvis/WINXLProp1
+        weight: 0
+      - path: WINXPelvis/WINXLProp1/WINXLProp2
+        weight: 0
+      - path: WINXPelvis/WINXLProp1/WINXLProp2/WINXLProp3
+        weight: 0
+      - path: WINXPelvis/WINXRLegThigh
+        weight: 1
+      - path: WINXPelvis/WINXRLegThigh/WINXRLegCalf
+        weight: 1
+      - path: WINXPelvis/WINXRLegThigh/WINXRLegCalf/WINXRLegAnkle
+        weight: 1
+      - path: WINXPelvis/WINXRLegThigh/WINXRLegCalf/WINXRLegAnkle/WINXRLegFoot1
+        weight: 1
+      - path: WINXPelvis/WINXRLegThigh/WINXRLegCalf/WINXRLegAnkle/WINXRLegFoot1/WINXRLegFootToes
+        weight: 1
+      - path: WINXPelvis/WINXRProp1
+        weight: 0
+      - path: WINXPelvis/WINXRProp1/WINXRProp2
+        weight: 0
+      - path: WINXPelvis/WINXRProp1/WINXRProp2/WINXRProp3
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/LWristNode
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLIndex1
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLIndex1/WINXLArmLIndex2
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLIndex1/WINXLArmLIndex2/WINXLArmLIndex3
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLMid1
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLMid1/WINXLArmLMid2
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLMid1/WINXLArmLMid2/WINXLArmLMid3
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLPinky1
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLPinky1/WINXLArmLPinky2
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLPinky1/WINXLArmLPinky2/WINXLArmLPinky3
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLRing1
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLRing1/WINXLArmLRing2
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLRing1/WINXLArmLRing2/WINXLArmLRing3
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLThumb1
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLThumb1/WINXLArmLThumb2
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXLArmCollarbone/WINXLArm1/WINXLArm2/WINXLArmPalm/WINXLArmLThumb1/WINXLArmLThumb2/WINXLArmLThumb3
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/NeckNode
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/LEarNode
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/NoseNode
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/REarNode
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXBrowL
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXBrowMid
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXBrowR
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXJaw
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXJaw/WINXMouthBot
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXJaw/WINXMouthLBot
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXJaw/WINXMouthRBot
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXLEye
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXLEye01
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXLEye02
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXMouthLTop
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXMouthRTop
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXMouthTop
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXNose
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXREye
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXREye01
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXFace/WINXREye02
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXLBangle1
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXLBangle1/WINXLBangle2
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXLBangle1/WINXLBangle2/WINXLBangle3
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXLBangle1/WINXLBangle2/WINXLBangle3/WINXLBangle4
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXMidBangle1
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXMidBangle1/WINXMidBangle2
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXMidBangle1/WINXMidBangle2/WINXMidBangle3
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXHairRoot
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXHairRoot/WINXL_Ptail1
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXHairRoot/WINXL_Ptail1/WINXL_Ptail2
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXHairRoot/WINXL_Ptail1/WINXL_Ptail2/WINXL_Ptail3
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXHairRoot/WINXL_Ptail1/WINXL_Ptail2/WINXL_Ptail3/WINXL_Ptail4
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXHairRoot/WINXL_Ptail1/WINXL_Ptail2/WINXL_Ptail3/WINXL_Ptail4/WINXL_Ptail5
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXHairRoot/WINXR_Ptail1
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXHairRoot/WINXR_Ptail1/WINXR_Ptail2
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXHairRoot/WINXR_Ptail1/WINXR_Ptail2/WINXR_Ptail3
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXHairRoot/WINXR_Ptail1/WINXR_Ptail2/WINXR_Ptail3/WINXR_Ptail4
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXHairRoot/WINXR_Ptail1/WINXR_Ptail2/WINXR_Ptail3/WINXR_Ptail4/WINXR_Ptail5
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXPTail2
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXPTail2/WINXPTail3
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXPTail2/WINXPTail3/WINXPTail4
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXPTail2/WINXPTail3/WINXPTail4/WINXPTail5
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXPTail1/WINXPTail2/WINXPTail3/WINXPTail4/WINXPTail5/WINXPTail6
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXRBangle1
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXRBangle1/WINXRBangle2
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXRBangle1/WINXRBangle2/WINXRBangle3
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXNeck/WINXHead/WINXRBangle1/WINXRBangle2/WINXRBangle3/WINXRBangle4
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/RWristNode
+        weight: 0
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRIndex1
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRIndex1/WINXRArmRIndex2
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRIndex1/WINXRArmRIndex2/WINXRArmRIndex3
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRMid1
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRMid1/WINXRArmRMid2
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRMid1/WINXRArmRMid2/WINXRArmRMid3
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRPinky1
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRPinky1/WINXRArmRPinky2
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRPinky1/WINXRArmRPinky2/WINXRArmRPinky3
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRRing1
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRRing1/WINXRArmRRing2
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRRing1/WINXRArmRRing2/WINXRArmRRing3
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRThumb1
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRThumb1/WINXRArmRThumb2
+        weight: 1
+      - path: WINXPelvis/WINXSpineHips/WINXSpineMid/WINXSpineRibs/WINXShoulders/WINXRArmCollarbone/WINXRArm1/WINXRArm2/WINXRArmPalm/WINXRArmRThumb1/WINXRArmRThumb2/WINXRArmRThumb3
+        weight: 1
+      - path: WINXRArmIKTarget
+        weight: 0
+      - path: WINXRLegPlatform
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: WINXPelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLLegThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRLegThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLLegCalf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRLegCalf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLLegAnkle
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRLegAnkle
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXSpineMid
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXSpineRibs
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXNeck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXHead
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArm1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArm1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArm2
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArm2
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLLegFoot1
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRLegFoot1
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXREye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXJaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLMid1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLMid2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLMid3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXLArmLPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRMid1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRMid2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRMid3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: WINXRArmRPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Fairy_JumpNew(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WINX
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: .5, y: -.5, z: -.5, w: .5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WINXLArmIKTarget
+      position: {x: -.0928772613, y: .835558712, z: .085627161}
+      rotation: {x: .738819182, y: -.629147172, z: -.0828303546, w: .226846427}
+      scale: {x: .999999285, y: .999998629, z: 1.00000095}
+      transformModified: 1
+    - name: WINXLLegPlatform
+      position: {x: -.0989687517, y: .007951946, z: -.00789332669}
+      rotation: {x: .604835093, y: -.604835093, z: -.366298378, w: .366298378}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: WINXPelvis
+      position: {x: 3.7252903e-09, y: 1.07380998, z: .00577051798}
+      rotation: {x: -.421690285, y: .528897166, z: .571916282, w: -.464065731}
+      scale: {x: .999999046, y: 1, z: 1}
+      transformModified: 1
+    - name: WINXLLegThigh
+      position: {x: 2.38418579e-07, y: 0, z: .0661638081}
+      rotation: {x: .0237351451, y: .988792956, z: .0494214073, w: -.138862193}
+      scale: {x: 1.00000012, y: .999999344, z: 1.00000012}
+      transformModified: 1
+    - name: WINXLLegCalf
+      position: {x: -.396192908, y: -7.4505806e-09, z: 2.98023224e-08}
+      rotation: {x: -.0188946072, y: .0011854663, z: .0376975015, w: .999109864}
+      scale: {x: .999998033, y: .999998987, z: 1.00000036}
+      transformModified: 1
+    - name: WINXLLegAnkle
+      position: {x: -.529176712, y: 0, z: -7.4505806e-09}
+      rotation: {x: -.127650708, y: -.0514996983, z: -.28883183, w: .947432995}
+      scale: {x: .999998868, y: 1.0000006, z: .999999762}
+      transformModified: 1
+    - name: WINXLLegFoot1
+      position: {x: -.159016863, y: 0, z: 0}
+      rotation: {x: -.000187869358, y: .000315475365, z: -.528797269, w: .848748088}
+      scale: {x: .999998569, y: 1.00000179, z: 1.00000024}
+      transformModified: 1
+    - name: WINXLLegFootToes
+      position: {x: -.0571499988, y: 0, z: -7.4505806e-09}
+      rotation: {x: 4.08203391e-08, y: 1.49028203e-08, z: -1.49012767e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: WINXLProp1
+      position: {x: -.0514612198, y: .0819990933, z: .0542708933}
+      rotation: {x: 1.04314665e-07, y: 2.53774024e-09, z: .99999702, w: .00245637051}
+      scale: {x: 1.00000024, y: .99999994, z: 1}
+      transformModified: 1
+    - name: WINXLProp2
+      position: {x: -.0586559772, y: 0, z: 0}
+      rotation: {x: 1.74622983e-09, y: -2.98023188e-08, z: -1.86264493e-09, w: 1}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: WINXLProp3
+      position: {x: -.0586560369, y: 0, z: -2.98023224e-08}
+      rotation: {x: 2.32830666e-09, y: 7.45057882e-09, z: -2.79396706e-09, w: 1}
+      scale: {x: 1.00000024, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: WINXRLegThigh
+      position: {x: -0, y: 0, z: -.0661638528}
+      rotation: {x: -.131794244, y: .977350473, z: -.0482745729, w: -.158385649}
+      scale: {x: 1.00000036, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: WINXRLegCalf
+      position: {x: -.397457659, y: 0, z: 0}
+      rotation: {x: -.0242585819, y: -.0159752145, z: .247172847, w: .96853596}
+      scale: {x: .999996603, y: 1.0000006, z: 1.0000006}
+      transformModified: 1
+    - name: WINXRLegAnkle
+      position: {x: -.528856635, y: -2.23517418e-08, z: 7.4505806e-09}
+      rotation: {x: .00889294967, y: -.027944874, z: -.349273473, w: .936561823}
+      scale: {x: .999998629, y: 1.00000107, z: 1.00000012}
+      transformModified: 1
+    - name: WINXRLegFoot1
+      position: {x: -.159017369, y: 0, z: 0}
+      rotation: {x: 2.51536148e-05, y: -4.36219634e-05, z: -.527093291, w: .849807441}
+      scale: {x: .999996662, y: 1.00000286, z: 1.00000012}
+      transformModified: 1
+    - name: WINXRLegFootToes
+      position: {x: -.0571499914, y: 0, z: 7.4505806e-09}
+      rotation: {x: -4.35207832e-14, y: -1.49019144e-08, z: -5.96040621e-08, w: 1}
+      scale: {x: 1.00000024, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: WINXRProp1
+      position: {x: -.0522124767, y: .0912139863, z: -.0586449802}
+      rotation: {x: .0761826187, y: .0077897585, z: .953987777, w: -.289901584}
+      scale: {x: .999999344, y: 1.00000095, z: .999999881}
+      transformModified: 1
+    - name: WINXRProp2
+      position: {x: -.0586559772, y: 5.96046448e-08, z: -7.4505806e-09}
+      rotation: {x: -.0166147109, y: .00654049171, z: .0756080821, w: .996977746}
+      scale: {x: 1, y: 1.00000036, z: .999999642}
+      transformModified: 1
+    - name: WINXRProp3
+      position: {x: -.0586560369, y: 0, z: 0}
+      rotation: {x: -1.86264537e-09, y: -8.32667401e-17, z: 4.47034836e-08, w: 1}
+      scale: {x: 1, y: .999999881, z: 1.00000024}
+      transformModified: 1
+    - name: WINXSpineHips
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: .00129982608, y: .0319959819, z: -.0175264776, w: .999333501}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: WINXSpineMid
+      position: {x: -.124276519, y: 3.7252903e-09, z: 0}
+      rotation: {x: .0135088302, y: .0767817125, z: .105556451, w: .991352558}
+      scale: {x: .999999642, y: .999999702, z: .999999762}
+      transformModified: 1
+    - name: WINXSpineRibs
+      position: {x: -.124732852, y: 0, z: 3.7252903e-09}
+      rotation: {x: .024955973, y: .0419599526, z: -.0012944534, w: .998806775}
+      scale: {x: 1.00000036, y: 1.00000083, z: 1.0000006}
+      transformModified: 1
+    - name: WINXShoulders
+      position: {x: -.12485826, y: 0, z: 7.4505806e-09}
+      rotation: {x: .0118008358, y: -.0173781756, z: -.05987221, w: .997985005}
+      scale: {x: .999999762, y: .999999702, z: .999999702}
+      transformModified: 1
+    - name: WINXLArmCollarbone
+      position: {x: -0, y: .00649203733, z: .0299984105}
+      rotation: {x: -.0678378195, y: .726026714, z: -.0473603457, w: .682671428}
+      scale: {x: 1.0000006, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: WINXLArm1
+      position: {x: -.0539180934, y: -1.49011612e-08, z: 0}
+      rotation: {x: -.130222991, y: -.0581463687, z: .0524920151, w: .98838532}
+      scale: {x: .999999583, y: .999999821, z: 1}
+      transformModified: 1
+    - name: WINXLArm2
+      position: {x: -.316088796, y: 7.4505806e-09, z: 5.96046448e-08}
+      rotation: {x: .0171721876, y: -.00064208213, z: -.0404733643, w: .999032855}
+      scale: {x: 1.00000036, y: 1.00000024, z: .999998391}
+      transformModified: 1
+    - name: LWristNode
+      position: {x: -.209994674, y: 2.38418579e-06, z: 8.34465027e-07}
+      rotation: {x: -5.43892725e-07, y: 1.01327885e-06, z: 2.90573183e-07, w: 1}
+      scale: {x: 1, y: .999999881, z: .999999762}
+      transformModified: 1
+    - name: WINXLArmPalm
+      position: {x: -.239426553, y: 0, z: 0}
+      rotation: {x: -.479691148, y: .0370926969, z: -.0472058281, w: .875381172}
+      scale: {x: .999998689, y: 1.00000203, z: .999998569}
+      transformModified: 1
+    - name: WINXLArmLIndex1
+      position: {x: -.0684417486, y: .00783616304, z: .0199920386}
+      rotation: {x: -.00590060139, y: .0152746802, z: .00169636216, w: .999864519}
+      scale: {x: .999998987, y: .99999994, z: 1.00000048}
+      transformModified: 1
+    - name: WINXLArmLIndex2
+      position: {x: -.031142056, y: 0, z: 7.4505806e-09}
+      rotation: {x: -2.59840114e-08, y: 4.15227021e-07, z: .038492091, w: .999258876}
+      scale: {x: .999998152, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: WINXLArmLIndex3
+      position: {x: -.0303257704, y: -2.98023224e-08, z: 7.4505806e-09}
+      rotation: {x: -2.97655536e-08, y: 5.68310599e-09, z: .0597211048, w: .998215139}
+      scale: {x: .999998271, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: WINXLArmLMid1
+      position: {x: -.0734852552, y: .0116390586, z: .00176959485}
+      rotation: {x: -.0756426528, y: .012039748, z: .00262849242, w: .997058809}
+      scale: {x: .999998093, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: WINXLArmLMid2
+      position: {x: -.0324035287, y: 0, z: 0}
+      rotation: {x: 3.04403294e-08, y: -1.18170668e-07, z: .0367497168, w: .999324501}
+      scale: {x: .999998093, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: WINXLArmLMid3
+      position: {x: -.0324035287, y: 5.96046448e-08, z: 0}
+      rotation: {x: -1.05657545e-08, y: -6.81939056e-08, z: .084615849, w: .996413648}
+      scale: {x: .999998748, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: WINXLArmLPinky1
+      position: {x: -.0670425892, y: 0, z: -.0328198895}
+      rotation: {x: .00451036124, y: -.0569457002, z: -.0376394838, w: .997657359}
+      scale: {x: .99999845, y: 1, z: 1.0000006}
+      transformModified: 1
+    - name: WINXLArmLPinky2
+      position: {x: -.0226817727, y: 0, z: 0}
+      rotation: {x: -3.26757323e-08, y: 3.47055646e-08, z: .0372054391, w: .999307632}
+      scale: {x: .999997854, y: 1.00000072, z: 1.00000012}
+      transformModified: 1
+    - name: WINXLArmLPinky3
+      position: {x: -.0248457193, y: 0, z: 1.49011612e-08}
+      rotation: {x: 5.48547376e-08, y: -4.59342431e-09, z: .120609373, w: .99270004}
+      scale: {x: .99999845, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: WINXLArmLRing1
+      position: {x: -.0738037825, y: .00944876671, z: -.0182549357}
+      rotation: {x: -.000964845181, y: -.0346840359, z: -.0140444543, w: .999299169}
+      scale: {x: .999999046, y: .99999994, z: 1.00000048}
+      transformModified: 1
+    - name: WINXLArmLRing2
+      position: {x: -.0278028846, y: 5.96046448e-08, z: 7.4505806e-09}
+      rotation: {x: -1.86548689e-07, y: 2.05342218e-07, z: .0366411768, w: .999328494}
+      scale: {x: .999997675, y: 1.00000095, z: 1.00000012}
+      transformModified: 1
+    - name: WINXLArmLRing3
+      position: {x: -.0307019353, y: -2.98023224e-08, z: 7.4505806e-09}
+      rotation: {x: -2.82077167e-07, y: -8.14537913e-08, z: .126320243, w: .991989553}
+      scale: {x: .999997616, y: 1.0000006, z: 1.00000012}
+      transformModified: 1
+    - name: WINXLArmLThumb1
+      position: {x: -.0207033753, y: .00549566746, z: .022531718}
+      rotation: {x: .664483547, y: .184757143, z: -.327235281, w: .64594394}
+      scale: {x: .999999225, y: 1.00000036, z: .999997199}
+      transformModified: 1
+    - name: WINXLArmLThumb2
+      position: {x: -.0220700502, y: -1.49011612e-08, z: -2.98023224e-08}
+      rotation: {x: -.00413496466, y: -.0107136294, z: .0359225981, w: .999288678}
+      scale: {x: 1.0000006, y: .99999845, z: .999999702}
+      transformModified: 1
+    - name: WINXLArmLThumb3
+      position: {x: -.032640636, y: 0, z: -2.98023224e-08}
+      rotation: {x: 2.43341933e-08, y: 9.32288735e-09, z: .0758380368, w: .997120142}
+      scale: {x: .999999881, y: .999997735, z: 1}
+      transformModified: 1
+    - name: WINXNeck
+      position: {x: -.0261300802, y: -.00493070856, z: -7.4505806e-09}
+      rotation: {x: -.00290350639, y: -.0262128264, z: -.215232104, w: .976206779}
+      scale: {x: .999999583, y: 1.00000012, z: 1.0000006}
+      transformModified: 1
+    - name: NeckNode
+      position: {x: -.0372490883, y: 0, z: 1.11758709e-07}
+      rotation: {x: 4.47034338e-08, y: -1.61584467e-07, z: -2.98023167e-07, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: WINXHead
+      position: {x: -.0806183815, y: 0, z: 0}
+      rotation: {x: .0243679732, y: -.0209107976, z: .187153623, w: .981805742}
+      scale: {x: 1, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: LEarNode
+      position: {x: -.128656268, y: -.0151688047, z: .217405468}
+      rotation: {x: -.499999881, y: .500000119, z: .499999881, w: .500000119}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: NoseNode
+      position: {x: -.102954268, y: .201016694, z: .00253976136}
+      rotation: {x: 7.316698e-08, y: 2.40281253e-07, z: 2.38884212e-07, w: 1}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: REarNode
+      position: {x: -.128640175, y: -.0152253322, z: -.220220208}
+      rotation: {x: -.499999881, y: .500000119, z: .499999881, w: .500000119}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: WINXFace
+      position: {x: -.0542573929, y: .0734211877, z: -2.23517418e-08}
+      rotation: {x: -8.14987828e-08, y: -1.26790596e-08, z: -.709585607, w: .704619229}
+      scale: {x: .999998689, y: 1.00000083, z: 1.00000036}
+      transformModified: 1
+    - name: WINXBrowL
+      position: {x: -.0998739675, y: -.241778016, z: .145366937}
+      rotation: {x: -3.7252903e-09, y: 2.91037645e-11, z: 1.58324802e-08, w: 1}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: WINXBrowMid
+      position: {x: -.1225392, y: -.202128053, z: -2.23517418e-08}
+      rotation: {x: -3.7252903e-09, y: 2.91037645e-11, z: 1.58324802e-08, w: 1}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: WINXBrowR
+      position: {x: -.098328419, y: -.241611123, z: -.138032973}
+      rotation: {x: -3.7252903e-09, y: 2.91037645e-11, z: 1.58324802e-08, w: 1}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: WINXJaw
+      position: {x: -.0494460836, y: .0176906586, z: 7.4505806e-09}
+      rotation: {x: -1.91032168e-08, y: -3.0325392e-08, z: -.132971644, w: .991119862}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: WINXMouthBot
+      position: {x: -.0987740308, y: .000993013382, z: 8.36700201e-06}
+      rotation: {x: 5.77420032e-08, y: -8.60422791e-16, z: -1.49011594e-08, w: 1}
+      scale: {x: 1.00000012, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: WINXMouthLBot
+      position: {x: -.0972570777, y: -.00305533409, z: .0379965827}
+      rotation: {x: .0417879, y: -5.94021863e-08, z: -2.73439102e-08, w: .999126494}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1.0000006}
+      transformModified: 1
+    - name: WINXMouthRBot
+      position: {x: -.0971599668, y: -.00443005562, z: -.0374606848}
+      rotation: {x: -.0338251889, y: -6.03467569e-08, z: -6.16811775e-08, w: .999427795}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1.00000036}
+      transformModified: 1
+    - name: WINXLEye
+      position: {x: -.092145212, y: -.132867813, z: .140531957}
+      rotation: {x: -3.7252903e-09, y: 2.91037645e-11, z: 1.58324802e-08, w: 1}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: WINXLEye01
+      position: {x: -.00705449656, y: -.137505054, z: .123702966}
+      rotation: {x: -3.16649675e-08, y: -5.68979779e-08, z: 6.23985983e-08, w: 1}
+      scale: {x: 1.00000024, y: .99999994, z: 1}
+      transformModified: 1
+    - name: WINXLEye02
+      position: {x: .0929453745, y: -.137127042, z: .124489956}
+      rotation: {x: -3.16649675e-08, y: -5.68979779e-08, z: 6.23985983e-08, w: 1}
+      scale: {x: 1.00000024, y: .99999994, z: 1}
+      transformModified: 1
+    - name: WINXMouthLTop
+      position: {x: -.149036378, y: .00382578373, z: .0704664811}
+      rotation: {x: .0397485197, y: -5.52663266e-08, z: 6.55784973e-08, w: .999209702}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: WINXMouthRTop
+      position: {x: -.149044752, y: .00231742859, z: -.0664166808}
+      rotation: {x: -.0509214997, y: -1.10301734e-09, z: 4.56378366e-08, w: .998702645}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: WINXMouthTop
+      position: {x: -.149382561, y: .00725090504, z: -.000129431486}
+      rotation: {x: -.0307096876, y: -6.02145391e-08, z: 1.877005e-09, w: .999528348}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000036}
+      transformModified: 1
+    - name: WINXNose
+      position: {x: -.101785965, y: -.0381752253, z: 0}
+      rotation: {x: -3.16649675e-08, y: -5.68979779e-08, z: 6.23985983e-08, w: 1}
+      scale: {x: 1.00000024, y: .99999994, z: 1}
+      transformModified: 1
+    - name: WINXREye
+      position: {x: -.0981262997, y: -.131795883, z: -.128324956}
+      rotation: {x: -3.7252903e-09, y: 2.91037645e-11, z: 1.58324802e-08, w: 1}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    - name: WINXREye01
+      position: {x: -.00704080239, y: -.139456987, z: -.123401962}
+      rotation: {x: -3.16649675e-08, y: -5.68979779e-08, z: 6.23985983e-08, w: 1}
+      scale: {x: 1.00000024, y: .99999994, z: 1}
+      transformModified: 1
+    - name: WINXREye02
+      position: {x: .0929563642, y: -.138754964, z: -.122956976}
+      rotation: {x: -3.16649675e-08, y: -5.68979779e-08, z: 6.23985983e-08, w: 1}
+      scale: {x: 1.00000024, y: .99999994, z: 1}
+      transformModified: 1
+    - name: WINXLBangle1
+      position: {x: -.54341042, y: .133715644, z: .0219518766}
+      rotation: {x: -.037230771, y: .870361447, z: -.187496334, w: .453795046}
+      scale: {x: .999998689, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: WINXLBangle2
+      position: {x: -.158602595, y: -1.49011612e-08, z: -1.1920929e-07}
+      rotation: {x: -3.0164589e-08, y: .203839168, z: -1.32977707e-09, w: .979004383}
+      scale: {x: .999999762, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: WINXLBangle3
+      position: {x: -.158602595, y: 1.49011612e-08, z: 0}
+      rotation: {x: 3.50906149e-09, y: .185938582, z: -3.85781185e-08, w: .982561409}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000036}
+      transformModified: 1
+    - name: WINXLBangle4
+      position: {x: -.158602715, y: -1.49011612e-08, z: -5.96046448e-08}
+      rotation: {x: -4.1484526e-08, y: .304140568, z: 2.88867295e-08, w: .952627182}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.0000006}
+      transformModified: 1
+    - name: WINXMidBangle1
+      position: {x: -.522801995, y: .151976481, z: -1.1920929e-07}
+      rotation: {x: .0653319359, y: .00603808369, z: .921976328, w: -.381647706}
+      scale: {x: .999999821, y: 1.00000143, z: 1.0000006}
+      transformModified: 1
+    - name: WINXMidBangle2
+      position: {x: -.130494595, y: 1.1920929e-07, z: 7.4505806e-09}
+      rotation: {x: .0128194187, y: .0149631063, z: -.313007176, w: .949546337}
+      scale: {x: 1, y: 1.00000083, z: .999999344}
+      transformModified: 1
+    - name: WINXMidBangle3
+      position: {x: -.130494475, y: 0, z: 3.7252903e-09}
+      rotation: {x: .0063280114, y: .0186598133, z: -.0628496781, w: .997828484}
+      scale: {x: .999999404, y: 1.00000048, z: 1.0000006}
+      transformModified: 1
+    - name: WINXPTail1
+      position: {x: -.261288166, y: -.0423604436, z: -7.4505806e-08}
+      rotation: {x: 2.40525573e-08, y: 4.65697303e-09, z: .337160915, w: .94144702}
+      scale: {x: 1.00000036, y: 1.00000119, z: 1.00000012}
+      transformModified: 1
+    - name: WINXHairRoot
+      position: {x: -.16076827, y: .0953570604, z: 0}
+      rotation: {x: 5.69637884e-08, y: -6.72369467e-08, z: -.352506459, w: .935809433}
+      scale: {x: .999999404, y: 1.00000048, z: 1.00000012}
+      transformModified: 1
+    - name: WINXL_Ptail1
+      position: {x: -.158324003, y: -.00477364659, z: .0276867971}
+      rotation: {x: .104818873, y: .869888783, z: .127720058, w: .464751691}
+      scale: {x: .999998629, y: 1.00000083, z: .999998391}
+      transformModified: 1
+    - name: WINXL_Ptail2
+      position: {x: -.234623909, y: 1.49011612e-08, z: 1.1920929e-07}
+      rotation: {x: -.0541452467, y: .377649546, z: -.00590580702, w: .924345315}
+      scale: {x: .99999994, y: .99999994, z: .999998808}
+      transformModified: 1
+    - name: WINXL_Ptail3
+      position: {x: -.234623909, y: -7.4505806e-09, z: -5.96046448e-08}
+      rotation: {x: -6.54739019e-09, y: .013616614, z: -4.92755241e-08, w: .999907315}
+      scale: {x: .999999702, y: 1.00000012, z: .999999642}
+      transformModified: 1
+    - name: WINXL_Ptail4
+      position: {x: -.234623909, y: 7.4505806e-09, z: 0}
+      rotation: {x: 6.85553871e-08, y: .0824474171, z: 3.26431326e-08, w: .996595442}
+      scale: {x: 1.00000036, y: 1.00000024, z: .999999106}
+      transformModified: 1
+    - name: WINXL_Ptail5
+      position: {x: -.23462379, y: -2.23517418e-08, z: 0}
+      rotation: {x: 1.08848299e-08, y: -1.49011594e-08, z: -2.88709963e-08, w: 1}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: WINXR_Ptail1
+      position: {x: -.150946617, y: -.00600256026, z: -.0198052973}
+      rotation: {x: .0572402216, y: .858587265, z: -.11928793, w: -.495299757}
+      scale: {x: 1, y: 1.00000012, z: .999999166}
+      transformModified: 1
+    - name: WINXR_Ptail2
+      position: {x: -.234623909, y: -1.49011612e-08, z: 0}
+      rotation: {x: -.031992346, y: -.40100807, z: -.0493184477, w: .914186358}
+      scale: {x: 1.00000095, y: .999999821, z: .999998629}
+      transformModified: 1
+    - name: WINXR_Ptail3
+      position: {x: -.234623909, y: 0, z: 0}
+      rotation: {x: 6.28642738e-09, y: 1.04308093e-07, z: -1.35041729e-08, w: 1}
+      scale: {x: 1.00000036, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: WINXR_Ptail4
+      position: {x: -.234623909, y: 0, z: 0}
+      rotation: {x: -.000583237095, y: -.091451101, z: .0144756734, w: .995704174}
+      scale: {x: .999999583, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: WINXR_Ptail5
+      position: {x: -.23462379, y: 1.49011612e-08, z: 0}
+      rotation: {x: -4.64933603e-09, y: -1.62981462e-09, z: -8.38190406e-09, w: 1}
+      scale: {x: .99999994, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: WINXPTail2
+      position: {x: -.24448657, y: 0, z: 0}
+      rotation: {x: .000417897274, y: -.00127216673, z: .901979208, w: .431777418}
+      scale: {x: .999998748, y: 1.00000107, z: .999999523}
+      transformModified: 1
+    - name: WINXPTail3
+      position: {x: -.272811174, y: 0, z: 0}
+      rotation: {x: 2.47384957e-09, y: -6.90153854e-08, z: .0997645557, w: .995011091}
+      scale: {x: .999999881, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: WINXPTail4
+      position: {x: -.240050673, y: 0, z: 0}
+      rotation: {x: 4.54663152e-09, y: -2.76859904e-08, z: .0712968037, w: .99745518}
+      scale: {x: .999999464, y: .999999464, z: .999999881}
+      transformModified: 1
+    - name: WINXPTail5
+      position: {x: -.232108593, y: -1.49011612e-08, z: 0}
+      rotation: {x: -1.88899851e-09, y: -6.88935273e-08, z: -.0206541102, w: .999786675}
+      scale: {x: 1.00000036, y: 1.00000036, z: .999999881}
+      transformModified: 1
+    - name: WINXPTail6
+      position: {x: -.216264486, y: -1.49011612e-08, z: -1.49011612e-08}
+      rotation: {x: 1.83227367e-09, y: 3.16127888e-08, z: -.0652016327, w: .997872114}
+      scale: {x: .999999344, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: WINXRBangle1
+      position: {x: -.533492446, y: .0987481326, z: -.0347145125}
+      rotation: {x: -.0793731511, y: .760431111, z: .439832419, w: -.471160173}
+      scale: {x: .99999845, y: 1.0000006, z: 1.00000155}
+      transformModified: 1
+    - name: WINXRBangle2
+      position: {x: -.118198991, y: 5.96046448e-08, z: 0}
+      rotation: {x: -3.04160892e-08, y: -.236713111, z: -3.04160857e-08, w: .971579611}
+      scale: {x: .999999106, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: WINXRBangle3
+      position: {x: -.118199229, y: 0, z: -1.1920929e-07}
+      rotation: {x: -1.16213936e-08, y: -.182050735, z: -6.27692671e-08, w: .983289182}
+      scale: {x: 1, y: .999999881, z: 1.00000048}
+      transformModified: 1
+    - name: WINXRBangle4
+      position: {x: -.118198991, y: 0, z: 0}
+      rotation: {x: -3.25070673e-08, y: -.209388569, z: -4.50583428e-08, w: .977832556}
+      scale: {x: 1.00000012, y: .999999762, z: 1.00000107}
+      transformModified: 1
+    - name: WINXRArmCollarbone
+      position: {x: 6.31809235e-05, y: .00649199262, z: -.0366944335}
+      rotation: {x: .0671379864, y: -.664934993, z: -.0388446078, w: .742862821}
+      scale: {x: 1.00000048, y: .999999523, z: 1.00000012}
+      transformModified: 1
+    - name: WINXRArm1
+      position: {x: -.0572023392, y: 0, z: 1.1920929e-07}
+      rotation: {x: .0424384139, y: -.0893057063, z: .105081156, w: .989536047}
+      scale: {x: 1, y: 1.0000006, z: .999997735}
+      transformModified: 1
+    - name: WINXRArm2
+      position: {x: -.306616187, y: -3.7252903e-09, z: 0}
+      rotation: {x: -.0197290797, y: .00594973238, z: -.0373946242, w: .999088168}
+      scale: {x: .999999583, y: .999996066, z: 1.00001061}
+      transformModified: 1
+    - name: RWristNode
+      position: {x: -.210000753, y: -2.41100788e-05, z: -1.4603138e-06}
+      rotation: {x: 1, y: -4.99600361e-16, z: 7.4505806e-09, w: 6.70552254e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WINXRArmPalm
+      position: {x: -.240977228, y: -2.98023224e-08, z: -2.98023224e-08}
+      rotation: {x: .471554667, y: .0548933595, z: .0494918898, w: .878733993}
+      scale: {x: .999996483, y: 1.00001156, z: .999994695}
+      transformModified: 1
+    - name: WINXRArmRIndex1
+      position: {x: -.0700006485, y: .00736999512, z: -.0216293335}
+      rotation: {x: -.0598975196, y: .000184341116, z: .00219762861, w: .998202145}
+      scale: {x: .999997914, y: 1.00002038, z: .999987423}
+      transformModified: 1
+    - name: WINXRArmRIndex2
+      position: {x: -.031142056, y: 5.96046448e-08, z: 7.4505806e-09}
+      rotation: {x: -3.53048399e-08, y: 1.59208298e-07, z: .0402229577, w: .999190807}
+      scale: {x: .999997079, y: 1.00002098, z: .999985933}
+      transformModified: 1
+    - name: WINXRArmRIndex3
+      position: {x: -.0303257704, y: 0, z: 0}
+      rotation: {x: 8.61406377e-08, y: -8.2877385e-08, z: .0330833159, w: .999452591}
+      scale: {x: .999998152, y: 1.00002098, z: .999985993}
+      transformModified: 1
+    - name: WINXRArmRMid1
+      position: {x: -.0734853148, y: .0116388202, z: -.0017696321}
+      rotation: {x: .0751914531, y: -.00763856713, z: .00400529848, w: .997131884}
+      scale: {x: .999997735, y: 1.00002122, z: .999985695}
+      transformModified: 1
+    - name: WINXRArmRMid2
+      position: {x: -.0324035287, y: 0, z: -7.4505806e-09}
+      rotation: {x: 1.93847338e-08, y: 4.725214e-08, z: .035219904, w: .999379635}
+      scale: {x: .999993384, y: 1.00002551, z: .999986053}
+      transformModified: 1
+    - name: WINXRArmRMid3
+      position: {x: -.0324035287, y: 0, z: 5.58793545e-09}
+      rotation: {x: 4.52033184e-08, y: -2.73452549e-08, z: .165744737, w: .986168683}
+      scale: {x: .999991, y: 1.00002766, z: .999985754}
+      transformModified: 1
+    - name: WINXRArmRPinky1
+      position: {x: -.0670426488, y: 0, z: .0328202844}
+      rotation: {x: -.000929971575, y: .0420420021, z: -.0165025629, w: .998979151}
+      scale: {x: .999998808, y: 1.00002003, z: .999986768}
+      transformModified: 1
+    - name: WINXRArmRPinky2
+      position: {x: -.0226818323, y: -5.96046448e-08, z: -1.49011612e-08}
+      rotation: {x: 4.9566637e-08, y: 1.81358345e-07, z: .0401271321, w: .999194562}
+      scale: {x: .999998629, y: 1.00002074, z: .999986053}
+      transformModified: 1
+    - name: WINXRArmRPinky3
+      position: {x: -.0248457789, y: -2.98023224e-08, z: 0}
+      rotation: {x: 1.42799976e-07, y: -1.46344675e-07, z: .131998941, w: .991249859}
+      scale: {x: .999995053, y: 1.00002432, z: .999986053}
+      transformModified: 1
+    - name: WINXRArmRRing1
+      position: {x: -.0738037825, y: .00944858789, z: .0182551518}
+      rotation: {x: .00940988399, y: -.0172097757, z: -.0234134402, w: .999533474}
+      scale: {x: 1.00001967, y: .999997556, z: .999986351}
+      transformModified: 1
+    - name: WINXRArmRRing2
+      position: {x: -.0278027654, y: -5.96046448e-08, z: -3.7252903e-09}
+      rotation: {x: 5.5630727e-07, y: 5.67139068e-07, z: .0332696438, w: .999446452}
+      scale: {x: 1.00002074, y: .999996722, z: .999986112}
+      transformModified: 1
+    - name: WINXRArmRRing3
+      position: {x: -.0307019353, y: -2.98023224e-08, z: -3.7252903e-09}
+      rotation: {x: 3.19442819e-08, y: 1.25701023e-08, z: .165758714, w: .986166358}
+      scale: {x: 1.00002337, y: .999995291, z: .999986053}
+      transformModified: 1
+    - name: WINXRArmRThumb1
+      position: {x: -.0173986554, y: .00121957064, z: -.021972958}
+      rotation: {x: -.417273819, y: -.209477618, z: -.308774263, w: .82864958}
+      scale: {x: .999985218, y: 1.00003672, z: .999982655}
+      transformModified: 1
+    - name: WINXRArmRThumb2
+      position: {x: -.0220700502, y: -2.98023224e-08, z: -2.98023224e-08}
+      rotation: {x: .0892858356, y: -.0048887101, z: .0399949625, w: .99519074}
+      scale: {x: .999985516, y: 1.0000217, z: .99999702}
+      transformModified: 1
+    - name: WINXRArmRThumb3
+      position: {x: -.0326406956, y: 0, z: -1.49011612e-08}
+      rotation: {x: .143036231, y: .0843364373, z: .0506009758, w: .984818578}
+      scale: {x: .999984086, y: 1.00002635, z: .999993503}
+      transformModified: 1
+    - name: WINXRArmIKTarget
+      position: {x: .00546591822, y: -.1337879, z: .0143507896}
+      rotation: {x: .989697754, y: -.0594392419, z: -.112910472, w: .0649351776}
+      scale: {x: .999999583, y: .999991119, z: 1.00000989}
+      transformModified: 1
+    - name: WINXRLegPlatform
+      position: {x: .128085896, y: .007951946, z: .119216897}
+      rotation: {x: .451851666, y: -.451851666, z: -.543902636, w: .543902636}
+      scale: {x: 1, y: .999999583, z: .999999523}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 3371c15a295997f4aac9220f87ab41e5,
+    type: 3}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
